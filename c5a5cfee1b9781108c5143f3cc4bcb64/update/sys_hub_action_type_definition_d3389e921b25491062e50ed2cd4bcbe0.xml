@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build>glide-rome-06-23-2021__patch4-hotfix1a-12-17-2021_01-11-2022_1246.zip</compiler_build>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>delegate_onedrive_access</internal_name>
+        <label_cache>[{"name":"{{action.ritm}}","label":"action➛ritm","type":"action","ref":"","reference_display":"Requested Item","base_type":"reference","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <master_snapshot>4dc856161b25491062e50ed2cd4bcb4f</master_snapshot>
+        <name>Delegate OneDrive Access</name>
+        <natlang/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:08:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3389e921b25491062e50ed2cd4bcbe0</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Delegate OneDrive Access</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_d3389e921b25491062e50ed2cd4bcbe0</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-05-09 17:57:36</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3389e921b25491062e50ed2cd4bcbe0"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d3389e921b25491062e50ed2cd4bcbe0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>d3389e921b25491062e50ed2cd4bcbe0</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>10c816161b25491062e50ed2cd4bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Don't Treat as Error">4cc816161b25491062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>d3389e921b25491062e50ed2cd4bcbe0</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>d0c816161b25491062e50ed2cd4bcbcc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:01</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"f58e354c-6c8f-4c5a-a11f-0bd5f6726ed7\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="Action Status">48c816161b25491062e50ed2cd4bcbb5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_output_d3389e921b25491062e50ed2cd4bcbe0^id=d3389e921b25491062e50ed2cd4bcbe0"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
+        <claim_timestamp>180a9f82ff90000001</claim_timestamp>
+        <metadata_update_name>sys_hub_action_type_definition_d3389e921b25491062e50ed2cd4bcbe0</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Termination Process Core</previous_claim_name>
+        <previous_claim_scope>c5a5cfee1b9781108c5143f3cc4bcb64</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-05-09 17:57:36</sys_created_on>
+        <sys_id>2c2607a61bd781108c5143f3cc4bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-05-09 17:57:36</sys_updated_on>
+    </sys_claim>
+    <sys_hub_step_instance action="delete_multiple" query="action=d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT IN6348de921b25491062e50ed2cd4bcb25"/>
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</action>
+        <cid>42ada9ca-9c50-44d4-8722-49630cb8ef12</cid>
+        <error_handling_type>1</error_handling_type>
+        <extended_inputs/>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>Script step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:09:01</sys_created_on>
+        <sys_id>6348de921b25491062e50ed2cd4bcb25</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=6348de921b25491062e50ed2cd4bcb25"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>6348de921b25491062e50ed2cd4bcb25</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:09:01</sys_created_on>
+        <sys_id>6f481ad21b25491062e50ed2cd4bcbdb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
+	 try {
+        var r = new sn_ws.RESTMessageV2();
+        r.setEndpoint("https://prod-07.northcentralus.logic.azure.com:443/workflows/93f16cd4e143472193f9310ba7663b69/triggers/manual/paths/invoke?api-version=2016-10-01&amp;sp=%2Ftriggers%2Fmanual%2Frun&amp;sv=1.0&amp;sig=Qi1hX7ffHu_EEvF-QzfJ25TkC4wiFcsWUZNsBQUOfXQ");
+        r.setHttpMethod("POST");
+		
+		var ritmNumber = inputs.current.number.toString();
+		
+        //Get requested for user's email
+        var reqForUser = new GlideRecord('sys_user');
+        reqForUser.get(inputs.current.variables.employees_manager.toString());
+        var reqForUpn = reqForUser.email.toString();
+		var isTest = (gs.getProperty('instance_name') == 'apigroupdev' || gs.getProperty('instance_name') == 'apigrouptest') ? 'true' : 'false';
+		
+		//Get termed user's email
+        var termUser = new GlideRecord('sys_user');
+        termUser.get(inputs.current.variables.Person_Leaving.toString());
+        var termUpn = termUser.email.toString();
+
+        var obj = {
+            "manager_upn": reqForUpn,
+            "termed_upn": termUpn,
+			"ritm": ritmNumber,
+			"is_test": isTest
+        };
+		
+        var body = JSON.stringify(obj);
+        r.setRequestBody(body);
+		r.setRequestHeader('content-type','application/json');
+
+        var response = r.execute();
+        var httpStatus = response.getStatusCode();
+    } catch (ex) {
+        var message = ex.message;
+		var incGr = new GlideRecord('incident');
+		incGr.initialize();
+		incGr.setValue('short_description','Failed OneDrive Webhook for ' + inputs.current.getValue('number'));
+		incGr.setValue('description','Error Message: \n' + message);
+		incGr.insert();
+    }
+})(inputs, outputs);
+</value>
+        <variable display_value="Script">71aa7f6647032200b4fad7527c9a719b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>6348de921b25491062e50ed2cd4bcb25</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:09:01</sys_created_on>
+        <sys_id>a7481ad21b25491062e50ed2cd4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:09:01</sys_updated_on>
+        <value>35aa573fd7802200bdbaee5b5e610375</value>
+        <variable display_value="MID Application">f5e56d79b3101300176b051a16a8dce4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=6348de921b25491062e50ed2cd4bcb25"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>application</field>
+        <id>6348de921b25491062e50ed2cd4bcb25</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:09:01</sys_created_on>
+        <sys_id>6f481ad21b25491062e50ed2cd4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:09:01</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>current</field>
+        <id>6348de921b25491062e50ed2cd4bcb25</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>40c816161b25491062e50ed2cd4bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_6348de921b25491062e50ed2cd4bcb25</table>
+        <value>{{action.ritm}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>script</field>
+        <id>6348de921b25491062e50ed2cd4bcb25</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:09:01</sys_created_on>
+        <sys_id>27481ad21b25491062e50ed2cd4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:09:01</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=6348de921b25491062e50ed2cd4bcb25"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=6348de921b25491062e50ed2cd4bcb25^sys_idNOT IN40c816161b25491062e50ed2cd4bcba6"/>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label/>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Script step">6348de921b25491062e50ed2cd4bcb25</model>
+        <model_id>6348de921b25491062e50ed2cd4bcb25</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_6348de921b25491062e50ed2cd4bcb25</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>40c816161b25491062e50ed2cd4bcba6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:01</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_action_input action="delete_multiple" query="model=d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT INccc8da921b25491062e50ed2cd4bcb7e"/>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference,uiUniqueId=abeace61-d516-4b74-bab6-46dfe9941eb7</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table>sc_req_item</choice_table>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>ritm</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="Reference">reference</internal_type>
+        <label>ritm</label>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <model display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</model>
+        <model_id>d3389e921b25491062e50ed2cd4bcbe0</model_id>
+        <model_table>sys_hub_action_type_definition</model_table>
+        <name>var__m_sys_hub_action_input_d3389e921b25491062e50ed2cd4bcbe0</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="sc_req_item">sc_req_item</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_input</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:57</sys_created_on>
+        <sys_id>ccc8da921b25491062e50ed2cd4bcb7e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_input>
+    <sys_hub_action_output action="delete_multiple" query="model=d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT IN48c816161b25491062e50ed2cd4bcbb5,4cc816161b25491062e50ed2cd4bcbbd"/>
+    <sys_hub_action_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>action_error_output=true,co_type_name=FDACTIONSTATUS,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=f58e354c-6c8f-4c5a-a11f-0bd5f6726ed7</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>__action_status__</element>
+        <element_prototype/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Action Status</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</model>
+        <model_id>d3389e921b25491062e50ed2cd4bcbe0</model_id>
+        <model_table>sys_hub_action_type_definition</model_table>
+        <name>var__m_sys_hub_action_output_d3389e921b25491062e50ed2cd4bcbe0</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>48c816161b25491062e50ed2cd4bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_action_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>action_error_output=true,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=boolean,uiTypeLabel=True/False,uiUniqueId=e7007a9b-c7c7-4563-907d-93a38748dde6,visible_in_ui=false</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value>true</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>__dont_treat_as_error__</element>
+        <element_prototype/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="">boolean</internal_type>
+        <label>Don't Treat as Error</label>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <model display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</model>
+        <model_id>d3389e921b25491062e50ed2cd4bcbe0</model_id>
+        <model_table>sys_hub_action_type_definition</model_table>
+        <name>var__m_sys_hub_action_output_d3389e921b25491062e50ed2cd4bcbe0</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>4cc816161b25491062e50ed2cd4bcbbd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT IN2b481ad21b25491062e50ed2cd4bcbdf"/>
+    <sys_hub_action_status_metadata action="INSERT_OR_UPDATE">
+        <action_type_id display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</action_type_id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:09:01</sys_created_on>
+        <sys_id>2b481ad21b25491062e50ed2cd4bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:09:01</sys_updated_on>
+    </sys_hub_action_status_metadata>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT INc4c816161b25491062e50ed2cd4bcb9c"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>ritm</element>
+        <help/>
+        <hint/>
+        <label>ritm</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_input_d3389e921b25491062e50ed2cd4bcbe0</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>c4c816161b25491062e50ed2cd4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT IN84c816161b25491062e50ed2cd4bcbbc,c8c816161b25491062e50ed2cd4bcbc8"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>__action_status__</element>
+        <help/>
+        <hint/>
+        <label>Action Status</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_d3389e921b25491062e50ed2cd4bcbe0</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>84c816161b25491062e50ed2cd4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>__dont_treat_as_error__</element>
+        <help/>
+        <hint/>
+        <label>Don't Treat as Error</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_d3389e921b25491062e50ed2cd4bcbe0</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:10:58</sys_created_on>
+        <sys_id>c8c816161b25491062e50ed2cd4bcbc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:10:58</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=d3389e921b25491062e50ed2cd4bcbe0^sys_idNOT INd9c856161b25491062e50ed2cd4bcbe5"/>
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"d9c856161b25491062e50ed2cd4bcbe5","name":"plan","plan_signature":null}}</plan>
+        <snapshot>e1a65fc61bbd495062e50ed2cd4bcbef</snapshot>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9c856161b25491062e50ed2cd4bcbe5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-22 16:18:38</sys_updated_on>
+    </sys_hub_action_plan>
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>delegate_onedrive_access</internal_name>
+        <label_cache>[{"name":"{{action.ritm}}","label":"action➛ritm","type":"action","ref":"","reference_display":"Requested Item","base_type":"reference","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
+        <master>true</master>
+        <name>Delegate OneDrive Access</name>
+        <natlang/>
+        <outputs/>
+        <parent_action display_value="Delegate OneDrive Access">d3389e921b25491062e50ed2cd4bcbe0</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4dc856161b25491062e50ed2cd4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=4dc856161b25491062e50ed2cd4bcb4f"/>
+    <sys_variable_value action="delete_multiple" query="document_key=4dc856161b25491062e50ed2cd4bcb4f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_snapshot</document>
+        <document_key>4dc856161b25491062e50ed2cd4bcb4f</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:03</sys_created_on>
+        <sys_id>51c856161b25491062e50ed2cd4bcba3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:03</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"f58e354c-6c8f-4c5a-a11f-0bd5f6726ed7\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="Action Status">41c856161b25491062e50ed2cd4bcb8d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_snapshot</document>
+        <document_key>4dc856161b25491062e50ed2cd4bcb4f</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:03</sys_created_on>
+        <sys_id>9dc856161b25491062e50ed2cd4bcba2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:03</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Don't Treat as Error">11c856161b25491062e50ed2cd4bcb95</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_output_4dc856161b25491062e50ed2cd4bcb4f^id=4dc856161b25491062e50ed2cd4bcb4f"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=4dc856161b25491062e50ed2cd4bcb4f^sys_idNOT IN0dc856161b25491062e50ed2cd4bcb60"/>
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Delegate OneDrive Access">4dc856161b25491062e50ed2cd4bcb4f</action>
+        <cid>42ada9ca-9c50-44d4-8722-49630cb8ef12</cid>
+        <error_handling_type>1</error_handling_type>
+        <extended_inputs/>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <label>Script step</label>
+        <order>1</order>
+        <outputs/>
+        <section/>
+        <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>0dc856161b25491062e50ed2cd4bcb60</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0dc856161b25491062e50ed2cd4bcb60"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>0dc856161b25491062e50ed2cd4bcb60</document_key>
+        <order>600</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>8dc856161b25491062e50ed2cd4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <value>(function execute(inputs, outputs) {
+	 try {
+        var r = new sn_ws.RESTMessageV2();
+        r.setEndpoint("https://prod-07.northcentralus.logic.azure.com:443/workflows/93f16cd4e143472193f9310ba7663b69/triggers/manual/paths/invoke?api-version=2016-10-01&amp;sp=%2Ftriggers%2Fmanual%2Frun&amp;sv=1.0&amp;sig=Qi1hX7ffHu_EEvF-QzfJ25TkC4wiFcsWUZNsBQUOfXQ");
+        r.setHttpMethod("POST");
+		
+		var ritmNumber = inputs.current.number.toString();
+		
+        //Get requested for user's email
+        var reqForUser = new GlideRecord('sys_user');
+        reqForUser.get(inputs.current.variables.employees_manager.toString());
+        var reqForUpn = reqForUser.email.toString();
+		var isTest = (gs.getProperty('instance_name') == 'apigroupdev' || gs.getProperty('instance_name') == 'apigrouptest') ? 'true' : 'false';
+		
+		//Get termed user's email
+        var termUser = new GlideRecord('sys_user');
+        termUser.get(inputs.current.variables.Person_Leaving.toString());
+        var termUpn = termUser.email.toString();
+
+        var obj = {
+            "manager_upn": reqForUpn,
+            "termed_upn": termUpn,
+			"ritm": ritmNumber,
+			"is_test": isTest
+        };
+		
+        var body = JSON.stringify(obj);
+        r.setRequestBody(body);
+		r.setRequestHeader('content-type','application/json');
+
+        var response = r.execute();
+        var httpStatus = response.getStatusCode();
+    } catch (ex) {
+        var message = ex.message;
+		var incGr = new GlideRecord('incident');
+		incGr.initialize();
+		incGr.setValue('short_description','Failed OneDrive Webhook for ' + inputs.current.getValue('number'));
+		incGr.setValue('description','Error Message: \n' + message);
+		incGr.insert();
+    }
+})(inputs, outputs);
+</value>
+        <variable display_value="Script">71aa7f6647032200b4fad7527c9a719b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>0dc856161b25491062e50ed2cd4bcb60</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>c9c856161b25491062e50ed2cd4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <value>35aa573fd7802200bdbaee5b5e610375</value>
+        <variable display_value="MID Application">f5e56d79b3101300176b051a16a8dce4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=0dc856161b25491062e50ed2cd4bcb60"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>application</field>
+        <id>0dc856161b25491062e50ed2cd4bcb60</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>85c856161b25491062e50ed2cd4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>current</field>
+        <id>0dc856161b25491062e50ed2cd4bcb60</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>09c856161b25491062e50ed2cd4bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_0dc856161b25491062e50ed2cd4bcb60</table>
+        <value>{{action.ritm}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>script</field>
+        <id>0dc856161b25491062e50ed2cd4bcb60</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>49c856161b25491062e50ed2cd4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=0dc856161b25491062e50ed2cd4bcb60"/>
+    <sys_hub_step_ext_input action="delete_multiple" query="model=0dc856161b25491062e50ed2cd4bcb60^sys_idNOT IN01c856161b25491062e50ed2cd4bcb64"/>
+    <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>current</label>
+        <mandatory>true</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Script step">0dc856161b25491062e50ed2cd4bcb60</model>
+        <model_id>0dc856161b25491062e50ed2cd4bcb60</model_id>
+        <model_table>sys_hub_step_instance</model_table>
+        <name>var__m_sys_hub_step_ext_input_0dc856161b25491062e50ed2cd4bcb60</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_step_ext_input</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>01c856161b25491062e50ed2cd4bcb64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_step_ext_input>
+    <sys_hub_action_input action="delete_multiple" query="model=4dc856161b25491062e50ed2cd4bcb4f^sys_idNOT INc5c856161b25491062e50ed2cd4bcb53"/>
+    <sys_hub_action_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference,uiUniqueId=abeace61-d516-4b74-bab6-46dfe9941eb7</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table>sc_req_item</choice_table>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>ritm</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="Reference">reference</internal_type>
+        <label>ritm</label>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <model display_value="Delegate OneDrive Access">4dc856161b25491062e50ed2cd4bcb4f</model>
+        <model_id>4dc856161b25491062e50ed2cd4bcb4f</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_input_4dc856161b25491062e50ed2cd4bcb4f</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="sc_req_item">sc_req_item</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_input</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>c5c856161b25491062e50ed2cd4bcb53</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_input>
+    <sys_hub_action_output action="delete_multiple" query="model=4dc856161b25491062e50ed2cd4bcb4f^sys_idNOT IN11c856161b25491062e50ed2cd4bcb95,41c856161b25491062e50ed2cd4bcb8d"/>
+    <sys_hub_action_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>action_error_output=true,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=boolean,uiTypeLabel=True/False,uiUniqueId=e7007a9b-c7c7-4563-907d-93a38748dde6,visible_in_ui=false</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value>true</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>__dont_treat_as_error__</element>
+        <element_prototype/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="">boolean</internal_type>
+        <label>Don't Treat as Error</label>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <model display_value="Delegate OneDrive Access">4dc856161b25491062e50ed2cd4bcb4f</model>
+        <model_id>4dc856161b25491062e50ed2cd4bcb4f</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_output_4dc856161b25491062e50ed2cd4bcb4f</name>
+        <next_element/>
+        <order>2</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>11c856161b25491062e50ed2cd4bcb95</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_action_output action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>action_error_output=true,co_type_name=FDACTIONSTATUS,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=object,uiTypeLabel=Object,uiUniqueId=f58e354c-6c8f-4c5a-a11f-0bd5f6726ed7</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>__action_status__</element>
+        <element_prototype/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_link/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Action Status</label>
+        <mandatory>false</mandatory>
+        <max_length>65000</max_length>
+        <model display_value="Delegate OneDrive Access">4dc856161b25491062e50ed2cd4bcb4f</model>
+        <model_id>4dc856161b25491062e50ed2cd4bcb4f</model_id>
+        <model_table>sys_hub_action_type_snapshot</model_table>
+        <name>var__m_sys_hub_action_output_4dc856161b25491062e50ed2cd4bcb4f</name>
+        <next_element/>
+        <order>1</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_action_output</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>41c856161b25491062e50ed2cd4bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_action_output>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=4dc856161b25491062e50ed2cd4bcb4f^sys_idNOT IN1dc856161b25491062e50ed2cd4bcba4"/>
+    <sys_hub_action_status_metadata action="INSERT_OR_UPDATE">
+        <action_type_id display_value="Delegate OneDrive Access">4dc856161b25491062e50ed2cd4bcb4f</action_type_id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:03</sys_created_on>
+        <sys_id>1dc856161b25491062e50ed2cd4bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:03</sys_updated_on>
+    </sys_hub_action_status_metadata>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_4dc856161b25491062e50ed2cd4bcb4f^sys_idNOT IN85c856161b25491062e50ed2cd4bcb5e"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>ritm</element>
+        <help/>
+        <hint/>
+        <label>ritm</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_input_4dc856161b25491062e50ed2cd4bcb4f</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>85c856161b25491062e50ed2cd4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_4dc856161b25491062e50ed2cd4bcb4f^sys_idNOT IN59c856161b25491062e50ed2cd4bcb93,59c856161b25491062e50ed2cd4bcb9f"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>__action_status__</element>
+        <help/>
+        <hint/>
+        <label>Action Status</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_4dc856161b25491062e50ed2cd4bcb4f</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>59c856161b25491062e50ed2cd4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>__dont_treat_as_error__</element>
+        <help/>
+        <hint/>
+        <label>Don't Treat as Error</label>
+        <language>en</language>
+        <name>var__m_sys_hub_action_output_4dc856161b25491062e50ed2cd4bcb4f</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-02-10 20:11:02</sys_created_on>
+        <sys_id>59c856161b25491062e50ed2cd4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-02-10 20:11:02</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_hub_action_type_definition action="update">
+        <sys_id>d3389e921b25491062e50ed2cd4bcbe0</sys_id>
+        <latest_snapshot>4dc856161b25491062e50ed2cd4bcb4f</latest_snapshot>
+    </sys_hub_action_type_definition>
+</record_update>

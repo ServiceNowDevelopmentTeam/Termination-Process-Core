@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Set Variable Values (SP)">5213adc21b55f0108c5143f3cc4bcba9</copied_from>
+        <description>Answer the questions on the form as follows:
+Employee number = 12345
+and Termination date/time = 
+and Type of Separation = Voluntary
+and Eligible for rehire = Yes
+and Last 4 numbers of SSN = 1234
+and Send check to = me
+and Date final check Is needed = 
+and All keys returned (Office, Vehicle, Toolbox) = 
+and All company equipment/tools/property returned = Yes
+and Person Leaving = 
+and Does employee have a company cell phone = true
+and Worker Classification = {{Parameters.worker classification}}
+and Employees Manager = 
+and None = true
+and Turn on out of office automatic reply? = Yes
+and Voluntary Reason = Personal reasons (H)
+and Location = New Brighton MN</description>
+        <display_name>Set Variable Values (SP)</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Set Variable Values (SP)">2e4229b48703030070870cf888cb0b5c</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:42:44</sys_created_on>
+        <sys_id>805a2d8e1b95f0108c5143f3cc4bcbd9</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Set Variable Values (SP)</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_atf_step_805a2d8e1b95f0108c5143f3cc4bcbd9</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-05-09 17:57:35</sys_updated_on>
+        <table/>
+        <test display_value="TC - 83 - Employee Termination - Task Validation - SP - PARAM">334a6d4e1b95f0108c5143f3cc4bcba5</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=805a2d8e1b95f0108c5143f3cc4bcbd9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>805a2d8e1b95f0108c5143f3cc4bcbd9</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:42:44</sys_created_on>
+        <sys_id>045a2d8e1b95f0108c5143f3cc4bcbda</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-04-29 14:38:25</sys_updated_on>
+        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=12345^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['b74a2d8e1b95f0108c5143f3cc4bcbc0'].user.sys_created_on}}^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^IO:169786961b2f9c10f5a3635bbc4bcbe0=1234^IO:491c0e9a1b2f9c10f5a3635bbc4bcbed=me^IO:e3d512d21b6f9c10f5a3635bbc4bcb1c={{step['b74a2d8e1b95f0108c5143f3cc4bcbc0'].user.sys_created_on}}^IO:91646eaa1babdc10f5a3635bbc4bcb9e=^IO:7165ee2a1babdc10f5a3635bbc4bcb38=Yes^IO:d93c28591b492050e7004229bc4bcb0d={{step['7f4a2d8e1b95f0108c5143f3cc4bcb8d'].user}}^IO:090f921e1b6f9c10f5a3635bbc4bcb3a=true^IO:24077cbc1b993010e7004229bc4bcbf3={{parameter['334a6d4e1b95f0108c5143f3cc4bcba5'].u_emp_type}}^IO:76b537001b316050e7004229bc4bcb74={{step['f34a6d4e1b95f0108c5143f3cc4bcbad'].user}}^IO:9f3f409b1b76381062e50ed2cd4bcb93=true^IO:9d71dc9f1b76381062e50ed2cd4bcb04=Yes^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Personal reasons (H)^IO:ff738ed21b2f9c10f5a3635bbc4bcbcf=0f741a0d1baa305062e50ed2cd4bcb61^EQ</value>
+        <variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>805a2d8e1b95f0108c5143f3cc4bcbd9</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:42:44</sys_created_on>
+        <sys_id>405a2d8e1b95f0108c5143f3cc4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2021-07-13 15:42:44</sys_updated_on>
+        <value/>
+        <variable display_value="Multi-row Variable Set">2fba49d673142300688e0d573cf6a748</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>805a2d8e1b95f0108c5143f3cc4bcbd9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:42:44</sys_created_on>
+        <sys_id>c45a2d8e1b95f0108c5143f3cc4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2021-07-13 15:42:44</sys_updated_on>
+        <value>5f918a921b2f9c10f5a3635bbc4bcba9</value>
+        <variable display_value="Item">d164adb48703030070870cf888cb0b30</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=805a2d8e1b95f0108c5143f3cc4bcbd9"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>variable_values</field>
+        <id>805a2d8e1b95f0108c5143f3cc4bcbd9</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:42:44</sys_created_on>
+        <sys_id>4c5a2d8e1b95f0108c5143f3cc4bcbda</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-04-29 14:38:25</sys_updated_on>
+        <table>var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c</table>
+        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=12345^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['b74a2d8e1b95f0108c5143f3cc4bcbc0'].user.sys_created_on}}^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^IO:169786961b2f9c10f5a3635bbc4bcbe0=1234^IO:491c0e9a1b2f9c10f5a3635bbc4bcbed=me^IO:e3d512d21b6f9c10f5a3635bbc4bcb1c={{step['b74a2d8e1b95f0108c5143f3cc4bcbc0'].user.sys_created_on}}^IO:91646eaa1babdc10f5a3635bbc4bcb9e=^IO:7165ee2a1babdc10f5a3635bbc4bcb38=Yes^IO:d93c28591b492050e7004229bc4bcb0d={{step['7f4a2d8e1b95f0108c5143f3cc4bcb8d'].user}}^IO:090f921e1b6f9c10f5a3635bbc4bcb3a=true^IO:24077cbc1b993010e7004229bc4bcbf3={{parameter['334a6d4e1b95f0108c5143f3cc4bcba5'].u_emp_type}}^IO:76b537001b316050e7004229bc4bcb74={{step['f34a6d4e1b95f0108c5143f3cc4bcbad'].user}}^IO:9f3f409b1b76381062e50ed2cd4bcb93=true^IO:9d71dc9f1b76381062e50ed2cd4bcb04=Yes^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Personal reasons (H)^IO:ff738ed21b2f9c10f5a3635bbc4bcbcf=0f741a0d1baa305062e50ed2cd4bcb61^EQ</value>
+    </sys_element_mapping>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
+        <claim_timestamp>180a9f82b060000001</claim_timestamp>
+        <metadata_update_name>sys_atf_step_805a2d8e1b95f0108c5143f3cc4bcbd9</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Termination Process Core</previous_claim_name>
+        <previous_claim_scope>c5a5cfee1b9781108c5143f3cc4bcb64</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-05-09 17:57:35</sys_created_on>
+        <sys_id>9826c3a61bd781108c5143f3cc4bcb08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-05-09 17:57:35</sys_updated_on>
+    </sys_claim>
+</record_update>
