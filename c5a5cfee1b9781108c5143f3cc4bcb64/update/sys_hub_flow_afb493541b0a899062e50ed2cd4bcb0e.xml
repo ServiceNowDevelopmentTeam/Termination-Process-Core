@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>afb493541b0a899062e50ed2cd4bcb0e</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Daily update intake termination</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_afb493541b0a899062e50ed2cd4bcb0e</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:57:26</sys_updated_on>
+        <sys_updated_on>2022-06-13 18:49:04</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=afb493541b0a899062e50ed2cd4bcb0e"/>
@@ -785,18 +785,6 @@
         <table>var__m_sys_hub_flow_input_8448539c1b0a899062e50ed2cd4bcbc8</table>
         <value>{{subflow.ritm}}</value>
     </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wait_for_completion</field>
-        <id>68cb5f941b4a899062e50ed2cd4bcbaf</id>
-        <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-03-01 16:27:16</sys_created_on>
-        <sys_id>e8cb5f941b4a899062e50ed2cd4bcbc5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-03-01 16:27:16</sys_updated_on>
-        <table>var__m_sys_hub_sub_flow_instance_inputs_68cb5f941b4a899062e50ed2cd4bcbaf</table>
-        <value/>
-    </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_sub_flow_instance_inputs_68cb5f941b4a899062e50ed2cd4bcbaf^id=68cb5f941b4a899062e50ed2cd4bcbaf"/>
     <sys_hub_sub_flow_instance_inputs action="delete_multiple" query="model=68cb5f941b4a899062e50ed2cd4bcbaf^sys_idNOT IN24cb5f941b4a899062e50ed2cd4bcbb0"/>
     <sys_hub_sub_flow_instance_inputs action="INSERT_OR_UPDATE">
@@ -1185,7 +1173,7 @@
         <sys_created_on>2022-03-01 16:11:45</sys_created_on>
         <sys_id>1938df5c1b0a899062e50ed2cd4bcb44</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>last message</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -1208,7 +1196,7 @@
         <sys_created_on>2022-03-01 16:11:45</sys_created_on>
         <sys_id>5d38df5c1b0a899062e50ed2cd4bcb3d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>ritm</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -1231,7 +1219,7 @@
         <sys_created_on>2022-03-01 16:19:35</sys_created_on>
         <sys_id>880a97901b4a899062e50ed2cd4bcb08</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>created</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -1254,7 +1242,7 @@
         <sys_created_on>2022-03-01 16:24:12</sys_created_on>
         <sys_id>ab0b93541b4a899062e50ed2cd4bcb7b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>duration</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -1918,18 +1906,6 @@
         <table>var__m_sys_hub_flow_input_8448539c1b0a899062e50ed2cd4bcbc8</table>
         <value>{{subflow.ritm}}</value>
     </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wait_for_completion</field>
-        <id>0fcb53d41b4a899062e50ed2cd4bcb1b</id>
-        <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-03-01 16:27:26</sys_created_on>
-        <sys_id>07cb53d41b4a899062e50ed2cd4bcb39</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-03-01 16:27:26</sys_updated_on>
-        <table>var__m_sys_hub_sub_flow_instance_inputs_0fcb53d41b4a899062e50ed2cd4bcb1b</table>
-        <value/>
-    </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_sub_flow_instance_inputs_0fcb53d41b4a899062e50ed2cd4bcb1b^id=0fcb53d41b4a899062e50ed2cd4bcb1b"/>
     <sys_hub_sub_flow_instance_inputs action="delete_multiple" query="model=0fcb53d41b4a899062e50ed2cd4bcb1b^sys_idNOT INc7cb53d41b4a899062e50ed2cd4bcb1c"/>
     <sys_hub_sub_flow_instance_inputs action="INSERT_OR_UPDATE">
@@ -2450,7 +2426,7 @@
         <sys_created_on>2022-03-01 16:11:56</sys_created_on>
         <sys_id>0048939c1b0a899062e50ed2cd4bcb36</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>last message</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -2473,7 +2449,7 @@
         <sys_created_on>2022-03-01 16:25:02</sys_created_on>
         <sys_id>3f3b9b541b4a899062e50ed2cd4bcbbf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>duration</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -2496,7 +2472,7 @@
         <sys_created_on>2022-03-01 16:11:56</sys_created_on>
         <sys_id>8048939c1b0a899062e50ed2cd4bcb2b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>ritm</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -2519,7 +2495,7 @@
         <sys_created_on>2022-03-01 16:19:42</sys_created_on>
         <sys_id>b10a1b901b4a899062e50ed2cd4bcbef</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>created</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
