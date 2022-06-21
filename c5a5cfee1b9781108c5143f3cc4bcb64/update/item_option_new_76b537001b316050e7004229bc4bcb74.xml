@@ -40,11 +40,11 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>employees_manager</name>
-        <order>550</order>
+        <order>185</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Employees Manager</question_text>
+        <question_text>Individual's Manager</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -68,14 +68,14 @@
         <sys_created_by>bj.strohl</sys_created_by>
         <sys_created_on>2021-01-14 21:05:45</sys_created_on>
         <sys_id>76b537001b316050e7004229bc4bcb74</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Employees Manager</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Individual's Manager</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_76b537001b316050e7004229bc4bcb74</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:26</sys_updated_on>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-21 13:49:12</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>

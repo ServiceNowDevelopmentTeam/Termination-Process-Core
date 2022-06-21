@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
         <category/>
@@ -68,14 +68,14 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-02 13:20:38</sys_created_on>
         <sys_id>3a366eaa1babdc10f5a3635bbc4bcb8b</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>formatter7</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_3a366eaa1babdc10f5a3635bbc4bcb8b</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:13</sys_updated_on>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-21 15:48:47</sys_updated_on>
         <table/>
         <tooltip/>
         <type>20</type>

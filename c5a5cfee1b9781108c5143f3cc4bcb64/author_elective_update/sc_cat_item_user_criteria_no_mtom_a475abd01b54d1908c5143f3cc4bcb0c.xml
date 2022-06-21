@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Employee Termination">6075abd01b54d1908c5143f3cc4bcb06</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-06-21 13:30:51</sys_created_on>
+        <sys_id>a475abd01b54d1908c5143f3cc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Termination.SNC External</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_a475abd01b54d1908c5143f3cc4bcb0c</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-21 13:30:51</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_a475abd01b54d1908c5143f3cc4bcb0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Employee Termination">6075abd01b54d1908c5143f3cc4bcb06</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>John.Schwab</sys_created_by><sys_created_on>2022-06-21 13:30:51</sys_created_on><sys_id>a475abd01b54d1908c5143f3cc4bcb0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Employee Termination.SNC External</sys_name><sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_a475abd01b54d1908c5143f3cc4bcb0c</sys_update_name><sys_updated_by>John.Schwab</sys_updated_by><sys_updated_on>2022-06-21 13:30:51</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-552424834</payload_hash>
+        <record_name>Employee Termination.SNC External</record_name>
+        <reverted_from/>
+        <source>e470cb131b3301108c5143f3cc4bcbef</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-05 21:59:35</sys_created_on>
+        <sys_id>6375ebd01b54d1908c5143f3cc4bcbee</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18135e16d580000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>2375ebd0c254d1907be9b34e7f1bacee</update_guid>
+        <update_guid_history>2375ebd0c254d1907be9b34e7f1bacee:-552424834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Employee Termination.SNC External">a375ebd01b54d1908c5143f3cc4bcbf0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-06-21 13:31:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>4dd4e4e7ccc442049e449c6ee8765389</sys_id>
+        <sys_metadata>a475abd01b54d1908c5143f3cc4bcb0c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Termination.SNC External</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_a475abd01b54d1908c5143f3cc4bcb0c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_a475abd01b54d1908c5143f3cc4bcb0c">6375ebd01b54d1908c5143f3cc4bcbee</sys_update_version>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-21 13:31:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
