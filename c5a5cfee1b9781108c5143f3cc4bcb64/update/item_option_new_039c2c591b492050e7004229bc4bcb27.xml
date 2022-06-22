@@ -23,7 +23,7 @@
         <global>true</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <hidden>false</hidden>
+        <hidden>true</hidden>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -68,14 +68,14 @@
         <sys_created_by>kirolos.iskander@cdw.com</sys_created_by>
         <sys_created_on>2020-12-11 20:51:10</sys_created_on>
         <sys_id>039c2c591b492050e7004229bc4bcb27</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>User not found (by checking this box you are stating that this person does not have company email)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_039c2c591b492050e7004229bc4bcb27</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:00</sys_updated_on>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-22 17:57:12</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
