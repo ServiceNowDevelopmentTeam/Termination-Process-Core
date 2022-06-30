@@ -2,7 +2,7 @@
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
         <misc>0</misc>
-        <order>70</order>
+        <order>27</order>
         <published_ref/>
         <question display_value="Involuntary Reason">ad3a8fde1be8e450f5a3635bbc4bcb6a</question>
         <rec_misc>0</rec_misc>
@@ -10,15 +10,15 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-03-03 16:05:59</sys_created_on>
         <sys_id>720a29811bcacd9062e50ed2cd4bcbdc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Unsatisfactory performance (P)</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Performance (P)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>question_choice_720a29811bcacd9062e50ed2cd4bcbdc</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:59</sys_updated_on>
-        <text>Unsatisfactory performance (P)</text>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-30 14:07:44</sys_updated_on>
+        <text>Performance (P)</text>
         <value>Unsatisfactory performance (P)</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=720a29811bcacd9062e50ed2cd4bcbdc"/>

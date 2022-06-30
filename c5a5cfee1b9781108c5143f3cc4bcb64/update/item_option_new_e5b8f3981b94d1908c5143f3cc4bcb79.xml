@@ -22,7 +22,7 @@
         <field/>
         <global>true</global>
         <help_tag>More information</help_tag>
-        <help_text/>
+        <help_text>Capture the employee's personal email address, if possible - those who are using Dayforce will be able to access their earnings statements and end-of-year tax documents via self-service following termination.</help_text>
         <hidden>false</hidden>
         <include_none>false</include_none>
         <instructions/>
@@ -60,22 +60,22 @@
         <save_script/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>false</show_help>
-        <show_help_on_load>false</show_help_on_load>
+        <show_help>true</show_help>
+        <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-06-21 14:55:23</sys_created_on>
         <sys_id>e5b8f3981b94d1908c5143f3cc4bcb79</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Personal Email Address</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_e5b8f3981b94d1908c5143f3cc4bcb79</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-06-21 14:57:08</sys_updated_on>
+        <sys_updated_on>2022-06-30 15:15:48</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

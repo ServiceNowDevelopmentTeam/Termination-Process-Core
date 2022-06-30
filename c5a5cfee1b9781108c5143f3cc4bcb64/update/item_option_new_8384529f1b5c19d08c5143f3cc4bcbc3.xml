@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <attributes/>
         <cat_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
         <category/>
@@ -20,7 +20,7 @@
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>
-        <global>true</global>
+        <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
         <hidden>false</hidden>
@@ -39,12 +39,12 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>does_it_need_special_check</name>
-        <order>610</order>
+        <name>final_check_text</name>
+        <order>605</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>"Final check will be provided to the individual based on their current distribution method (ie. Direct deposit, mailed to office location, etc)." Check here if a different distribution method is required for this individual</question_text>
+        <question_text>Final check will be provided to the individual based on their current distribution method (ie. Direct deposit, mailed to office location, etc)." </question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -55,7 +55,7 @@
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
-        <rich_text/>
+        <rich_text><![CDATA[<p>Final check will be provided to the individual based on their current distribution method (ie. Direct deposit, mailed to office location, etc).&#34; </p>]]></rich_text>
         <roles_to_use_also_request_for/>
         <save_script/>
         <scale_max>5</scale_max>
@@ -66,19 +66,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-06-21 14:56:50</sys_created_on>
-        <sys_id>a1e877981b94d1908c5143f3cc4bcb9a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>"Final check will be provided to the individual based on their current distribution method (ie. Direct deposit, mailed to office location, etc)." Check here if a different distribution method is required for this individual</sys_name>
+        <sys_created_on>2022-06-30 15:19:57</sys_created_on>
+        <sys_id>8384529f1b5c19d08c5143f3cc4bcbc3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Final check will be provided to the individual based on their current distribution method (ie. Direct deposit, mailed to office location, etc)." </sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name>item_option_new_a1e877981b94d1908c5143f3cc4bcb9a</sys_update_name>
+        <sys_update_name>item_option_new_8384529f1b5c19d08c5143f3cc4bcbc3</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-06-30 20:47:53</sys_updated_on>
+        <sys_updated_on>2022-06-30 20:47:42</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>7</type>
+        <type>32</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -94,22 +94,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=a1e877981b94d1908c5143f3cc4bcb9a"/>
-    <fx_price action="delete_multiple" query="id=a1e877981b94d1908c5143f3cc4bcb9a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8384529f1b5c19d08c5143f3cc4bcbc3"/>
+    <fx_price action="delete_multiple" query="id=8384529f1b5c19d08c5143f3cc4bcbc3"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>a1e877981b94d1908c5143f3cc4bcb9a</id>
+        <id>8384529f1b5c19d08c5143f3cc4bcbc3</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-06-21 14:56:50</sys_created_on>
-        <sys_id>40293b981b94d1908c5143f3cc4bcbae</sys_id>
+        <sys_created_on>2022-06-30 15:19:57</sys_created_on>
+        <sys_id>deb4de5f1b5c19d08c5143f3cc4bcbe2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-06-21 14:56:50</sys_updated_on>
+        <sys_updated_on>2022-06-30 15:19:57</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -117,16 +117,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>a1e877981b94d1908c5143f3cc4bcb9a</id>
+        <id>8384529f1b5c19d08c5143f3cc4bcbc3</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-06-21 14:56:50</sys_created_on>
-        <sys_id>08293b981b94d1908c5143f3cc4bcbad</sys_id>
+        <sys_created_on>2022-06-30 15:19:57</sys_created_on>
+        <sys_id>96b4de5f1b5c19d08c5143f3cc4bcbe2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-06-21 14:56:50</sys_updated_on>
+        <sys_updated_on>2022-06-30 15:19:57</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
