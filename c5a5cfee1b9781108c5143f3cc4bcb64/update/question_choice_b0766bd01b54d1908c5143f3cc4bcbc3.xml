@@ -4,7 +4,7 @@
         <misc>0</misc>
         <order>100</order>
         <published_ref/>
-        <question display_value="Worker Type Part 2">0b36a3141b54d1908c5143f3cc4bcbd2</question>
+        <question display_value="Union or Non-Union?">0b36a3141b54d1908c5143f3cc4bcbd2</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
