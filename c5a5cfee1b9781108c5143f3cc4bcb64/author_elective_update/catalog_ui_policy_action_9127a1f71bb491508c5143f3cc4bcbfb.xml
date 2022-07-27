@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
+        <catalog_variable>IO:17f6d2561b6f9c10f5a3635bbc4bcb58</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>101</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-07-26 21:49:21</sys_created_on>
+        <sys_id>9127a1f71bb491508c5143f3cc4bcbfb</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>it</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9127a1f71bb491508c5143f3cc4bcbfb</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-07-27 14:38:42</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Worker type is employee without email">c12afb231bfc11508c5143f3cc4bcbdf</ui_policy>
+        <variable>it</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>catalog_ui_policy_action_9127a1f71bb491508c5143f3cc4bcbfb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item><catalog_variable>IO:17f6d2561b6f9c10f5a3635bbc4bcb58</catalog_variable><cleared>true</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>101</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-07-26 21:49:21</sys_created_on><sys_id>9127a1f71bb491508c5143f3cc4bcbfb</sys_id><sys_mod_count>6</sys_mod_count><sys_name>it</sys_name><sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>catalog_ui_policy_action_9127a1f71bb491508c5143f3cc4bcbfb</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-07-27 14:38:42</sys_updated_on><table/><ui_policy display_value="Worker type is employee without email">c12afb231bfc11508c5143f3cc4bcbdf</ui_policy><variable>it</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-305142148</payload_hash>
+        <record_name>it</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-07-27 14:38:42</sys_created_on>
+        <sys_id>993ec5c41b85d1508c5143f3cc4bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18240187b9b0000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-07-27 14:38:42</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>553ec5844f85d1506122dd1f880a4361</update_guid>
+        <update_guid_history>553ec5844f85d1506122dd1f880a4361:-305142148,198729f7d8b4915061d322dc54a01e40:-527424489,a157e5f77db49150f04b1795e6cf9b00:-798301928,f447e1f7dfb49150c486cf2ef3d09afe:529410677,633765f7aeb49150bed4a3e3a281ec5b:975927417,613725f71fb49150c6f025fd23419f81:456851639,c837a1f75ab49150634c41ed62815e78:-1776650055</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="it">6d6e89c41b85d1508c5143f3cc4bcb50</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-07-27 14:39:33</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0a7bc6800b4c4aea98cc2c988b6ad201</sys_id>
+        <sys_metadata>9127a1f71bb491508c5143f3cc4bcbfb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>it</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_9127a1f71bb491508c5143f3cc4bcbfb</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_9127a1f71bb491508c5143f3cc4bcbfb">993ec5c41b85d1508c5143f3cc4bcb8f</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-07-27 14:39:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

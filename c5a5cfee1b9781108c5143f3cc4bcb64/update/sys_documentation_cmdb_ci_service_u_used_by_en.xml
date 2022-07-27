@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_used_by" label="Used By(Companies)" language="en" table="cmdb_ci_service">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_used_by</element>
+            <help/>
+            <hint/>
+            <label>Used By(Companies)</label>
+            <language>en</language>
+            <name>cmdb_ci_service</name>
+            <plural>Used By(Companies)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-07-22 19:29:42</sys_created_on>
+            <sys_id>17d0e8221b3459108c5143f3cc4bcbed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Used By(Companies)</sys_name>
+            <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_service_u_used_by_en</sys_update_name>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-07-22 19:29:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

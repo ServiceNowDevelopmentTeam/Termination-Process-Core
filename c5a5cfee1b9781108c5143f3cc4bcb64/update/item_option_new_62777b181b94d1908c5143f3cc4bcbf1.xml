@@ -20,7 +20,7 @@
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>
-        <global>false</global>
+        <global>true</global>
         <help_tag>More information</help_tag>
         <help_text/>
         <hidden>false</hidden>
@@ -68,14 +68,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-06-21 14:50:02</sys_created_on>
         <sys_id>62777b181b94d1908c5143f3cc4bcbf1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Last Day Worked</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_62777b181b94d1908c5143f3cc4bcbf1</sys_update_name>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-06-21 14:52:18</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-07-27 15:43:39</sys_updated_on>
         <table/>
         <tooltip/>
         <type>10</type>

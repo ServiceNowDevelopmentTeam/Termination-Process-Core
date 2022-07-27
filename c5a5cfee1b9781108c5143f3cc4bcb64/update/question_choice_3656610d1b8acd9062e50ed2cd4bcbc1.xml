@@ -10,16 +10,16 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-03-03 15:49:48</sys_created_on>
         <sys_id>3656610d1b8acd9062e50ed2cd4bcbc1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Retired (R)</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Retirement (R)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>question_choice_3656610d1b8acd9062e50ed2cd4bcbc1</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:58</sys_updated_on>
-        <text>Retired (R)</text>
-        <value>Retired (R)</value>
+        <sys_updated_on>2022-07-22 13:18:33</sys_updated_on>
+        <text>Retirement (R)</text>
+        <value>Retirement (R)</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=3656610d1b8acd9062e50ed2cd4bcbc1"/>
     <fx_price action="INSERT_OR_UPDATE">

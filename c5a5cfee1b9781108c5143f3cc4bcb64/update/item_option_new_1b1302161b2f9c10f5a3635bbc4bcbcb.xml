@@ -25,7 +25,7 @@
         <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>Employee number can be found in your company&#39;s payroll system (i.e. ADP, Ceridian Dayforce, Coins, Explorer Eclipse, Timerline, WebApps, etc)  For further guidance, see <a href="https://apigroup.service-now.com/kb_view.do?sysparm_article&#61;KB0012609" target="_blank" rel="noopener noreferrer nofollow">How to find an employee number</a></p>]]></instructions>
+        <instructions><![CDATA[<p>For further guidance, see <a href="https://apigroup.service-now.com/kb_view.do?sysparm_article&#61;KB0012609" target="_blank" rel="noopener noreferrer nofollow">How to find an employee number</a></p>]]></instructions>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -68,14 +68,14 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 16:09:22</sys_created_on>
         <sys_id>1b1302161b2f9c10f5a3635bbc4bcbcb</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Employee number</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_1b1302161b2f9c10f5a3635bbc4bcbcb</sys_update_name>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-07-05 19:13:37</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-07-27 15:41:11</sys_updated_on>
         <table/>
         <tooltip>Enter employee number</tooltip>
         <type>6</type>
