@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref display_value="Union">b0766bd01b54d1908c5143f3cc4bcbc3</published_ref>
+        <question display_value="Union or Non-Union?">f0f2c1121b81919062e50ed2cd4bcba8</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-08-03 13:35:51</sys_created_on>
+        <sys_id>bcf2c1121b81919062e50ed2cd4bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Union</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>question_choice_bcf2c1121b81919062e50ed2cd4bcbb3</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 13:35:51</sys_updated_on>
+        <text>Union</text>
+        <value>Union</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=bcf2c1121b81919062e50ed2cd4bcbb3"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>bcf2c1121b81919062e50ed2cd4bcbb3</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-08-03 13:35:51</sys_created_on>
+        <sys_id>30f2c1121b81919062e50ed2cd4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 13:35:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>bcf2c1121b81919062e50ed2cd4bcbb3</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-08-03 13:35:51</sys_created_on>
+        <sys_id>f0f2c1121b81919062e50ed2cd4bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 13:35:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>question_choice_bcf2c1121b81919062e50ed2cd4bcbb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref display_value="Union">b0766bd01b54d1908c5143f3cc4bcbc3</published_ref><question display_value="Union or Non-Union?">f0f2c1121b81919062e50ed2cd4bcba8</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-08-03 13:35:51</sys_created_on><sys_id>bcf2c1121b81919062e50ed2cd4bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Union</sys_name><sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>question_choice_bcf2c1121b81919062e50ed2cd4bcbb3</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-08-03 13:35:51</sys_updated_on><text>Union</text><value>Union</value></question_choice><fx_price action="delete_multiple" query="id=bcf2c1121b81919062e50ed2cd4bcbb3"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>bcf2c1121b81919062e50ed2cd4bcbb3</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-08-03 13:35:51</sys_created_on><sys_id>30f2c1121b81919062e50ed2cd4bcbb6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-08-03 13:35:51</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>bcf2c1121b81919062e50ed2cd4bcbb3</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-08-03 13:35:51</sys_created_on><sys_id>f0f2c1121b81919062e50ed2cd4bcbb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-08-03 13:35:51</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1961510435</payload_hash>
+        <record_name>Union</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-08-03 13:35:51</sys_created_on>
+        <sys_id>89f2c1121b81919062e50ed2cd4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18263eb761c0000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 13:35:51</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>cdf2c11221819190a7b09c33ef5be9b9</update_guid>
+        <update_guid_history>cdf2c11221819190a7b09c33ef5be9b9:-1961510435</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Union">b26981da1b81919062e50ed2cd4bcbbe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-08-03 14:04:07</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>6bfd6f85d4a647ca961f6bbd66f754c4</sys_id>
+        <sys_metadata>bcf2c1121b81919062e50ed2cd4bcbb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Union</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>question_choice_bcf2c1121b81919062e50ed2cd4bcbb3</sys_update_name>
+        <sys_update_version display_value="question_choice_bcf2c1121b81919062e50ed2cd4bcbb3">89f2c1121b81919062e50ed2cd4bcbba</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:04:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

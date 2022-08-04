@@ -5,7 +5,7 @@
         <availability>on_both</availability>
         <billable>false</billable>
         <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
-        <checked_out/>
+        <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -59,7 +59,7 @@
         <short_description>Offboard an employee or independent contractor</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
+        <state>published</state>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 16:02:35</sys_created_on>
