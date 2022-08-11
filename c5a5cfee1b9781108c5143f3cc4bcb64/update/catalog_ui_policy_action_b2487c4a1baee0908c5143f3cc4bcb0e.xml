@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
+        <catalog_variable>IO:04203a9a1baf9c10f5a3635bbc4bcbf6</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>bj.strohl</sys_created_by>
+        <sys_created_on>2021-02-26 19:11:45</sys_created_on>
+        <sys_id>b2487c4a1baee0908c5143f3cc4bcb0e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>astea_user</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b2487c4a1baee0908c5143f3cc4bcb0e</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-11 19:38:04</sys_updated_on>
+        <table/>
+        <ui_policy display_value="User Not found">d0ccec591b492050e7004229bc4bcbc1</ui_policy>
+        <variable>astea_user</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
+        <claim_timestamp>1828e69f53d0000001</claim_timestamp>
+        <metadata_update_name>catalog_ui_policy_action_b2487c4a1baee0908c5143f3cc4bcb0e</metadata_update_name>
+        <previous_claim_app_version>1.0.24</previous_claim_app_version>
+        <previous_claim_name>Termination Process Core</previous_claim_name>
+        <previous_claim_scope>c5a5cfee1b9781108c5143f3cc4bcb64</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-08-11 19:38:04</sys_created_on>
+        <sys_id>bc922fbc1b91d5108c5143f3cc4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-11 19:38:04</sys_updated_on>
+    </sys_claim>
+</record_update>
