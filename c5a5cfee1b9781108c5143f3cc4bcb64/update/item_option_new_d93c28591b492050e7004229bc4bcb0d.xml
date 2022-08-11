@@ -53,8 +53,8 @@
         <record/>
         <record_producer_table/>
         <reference>sys_user</reference>
-        <reference_qual>emailNOT LIKESA.^emailNOT LIKEWA.^emailNOT LIKECA.^nameNOT LIKE(SMS)^nameNOT LIKEtest^nameISNOTEMPTY^active=true^first_nameNOT LIKEGrunau^last_nameISNOTEMPTY^first_nameISNOTEMPTY^EQ</reference_qual>
-        <reference_qual_condition table="sys_user">emailNOT LIKESA.^emailNOT LIKEWA.^emailNOT LIKECA.^nameNOT LIKE(SMS)^nameNOT LIKEtest^nameISNOTEMPTY^active=true^first_nameNOT LIKEGrunau^last_nameISNOTEMPTY^first_nameISNOTEMPTY^EQ<item endquery="false" field="email" goto="false" newquery="false" operator="NOT LIKE" or="false" value="SA."/>
+        <reference_qual>javascript: global.u_filter_requested_for();</reference_qual>
+        <reference_qual_condition table="sys_user">emailNOT LIKESA.^emailNOT LIKEWA.^emailNOT LIKECA.^nameNOT LIKE(SMS)^nameNOT LIKEtest^nameISNOTEMPTY^active=true^first_nameNOT LIKEGrunau^last_nameISNOTEMPTY^first_nameISNOTEMPTY^sys_id!=x^EQ<item endquery="false" field="email" goto="false" newquery="false" operator="NOT LIKE" or="false" value="SA."/>
             <item endquery="false" field="email" goto="false" newquery="false" operator="NOT LIKE" or="false" value="WA."/>
             <item endquery="false" field="email" goto="false" newquery="false" operator="NOT LIKE" or="false" value="CA."/>
             <item endquery="false" field="name" goto="false" newquery="false" operator="NOT LIKE" or="false" value="(SMS)"/>
@@ -64,6 +64,7 @@
             <item endquery="false" field="first_name" goto="false" newquery="false" operator="NOT LIKE" or="false" value="Grunau"/>
             <item endquery="false" field="last_name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="false" field="first_name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="sys_id" goto="false" newquery="false" operator="!=" or="false" value="x"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <rich_text/>
@@ -79,21 +80,21 @@
         <sys_created_by>kirolos.iskander@cdw.com</sys_created_by>
         <sys_created_on>2020-12-11 20:50:41</sys_created_on>
         <sys_id>d93c28591b492050e7004229bc4bcb0d</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>Person Leaving</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_d93c28591b492050e7004229bc4bcb0d</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-08-10 14:06:43</sys_updated_on>
+        <sys_updated_on>2022-08-11 16:37:18</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
         <variable_set/>
