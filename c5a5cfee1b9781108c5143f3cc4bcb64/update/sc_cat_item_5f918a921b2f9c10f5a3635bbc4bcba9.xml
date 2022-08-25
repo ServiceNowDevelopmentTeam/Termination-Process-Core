@@ -11,7 +11,7 @@
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-02 00:00:00</delivery_time>
-        <description><![CDATA[<p>This form was last updated on August 2, 2021. <a title="Click here" href="https://apigroup.service-now.com/kb_view.do?sysparm_article&#61;KB0011953" target="_blank" rel="noopener noreferrer nofollow">Click here</a> for complete details.</p>]]></description>
+        <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow display_value="Termination Flow">99bcd90a1ba1c51062e50ed2cd4bcbc0</flow_designer_flow>
@@ -56,7 +56,7 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <short_description>Offboard an employee or independent contractor</short_description>
+        <short_description>Offboard an employee or contractor</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state>published</state>
@@ -64,14 +64,14 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 16:02:35</sys_created_on>
         <sys_id>5f918a921b2f9c10f5a3635bbc4bcba9</sys_id>
-        <sys_mod_count>50</sys_mod_count>
+        <sys_mod_count>51</sys_mod_count>
         <sys_name>Employee Termination</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sc_cat_item_5f918a921b2f9c10f5a3635bbc4bcba9</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:57:03</sys_updated_on>
+        <sys_updated_on>2022-08-25 18:55:08</sys_updated_on>
         <taxonomy_topic display_value="Human Resources">75e574ce1b46011062e50ed2cd4bcbc1</taxonomy_topic>
         <template/>
         <template_manager_roles/>

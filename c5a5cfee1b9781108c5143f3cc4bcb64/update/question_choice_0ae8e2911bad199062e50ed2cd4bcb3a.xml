@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Requested Data Access">4cd8b1a41b91191062e50ed2cd4bcb99</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-08-25 14:58:49</sys_created_on>
+        <sys_id>0ae8e2911bad199062e50ed2cd4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payroll only</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>question_choice_0ae8e2911bad199062e50ed2cd4bcb3a</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-08-25 14:58:49</sys_updated_on>
+        <text>Payroll only</text>
+        <value>Payroll only</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=0ae8e2911bad199062e50ed2cd4bcb3a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>0ae8e2911bad199062e50ed2cd4bcb3a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-08-25 14:58:49</sys_created_on>
+        <sys_id>bee866d11bad199062e50ed2cd4bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-08-25 14:58:49</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>0ae8e2911bad199062e50ed2cd4bcb3a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-08-25 14:58:49</sys_created_on>
+        <sys_id>32e8e6111bad199062e50ed2cd4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-08-25 14:58:49</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

@@ -56,7 +56,7 @@
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text><![CDATA[<p>The following actions are taken upon submitting this form, where applicable:</p>
-<ul style="list-style-position: inside;"><li style="list-style-type: inherit;">Benefits updated to reflect termination date</li><li style="list-style-type: inherit;">Company/Segment HR Payroll update payroll system accordingly</li><li>Personal email may be used to communicate important benefits or document access information to the former team member.</li><li style="list-style-type: inherit;">Network access disabled</li><li style="list-style-type: inherit;">All business system access disabled</li><li style="list-style-type: inherit;">LMS access disabled</li><li style="list-style-type: inherit;">Microsoft 365 license disabled</li><li style="list-style-type: inherit;">Out of office message reply enabled, if selected</li><li style="list-style-type: inherit;">Company mobile account transferred, suspended, or cancelled, as selected</li><li style="list-style-type: inherit;">Manager is granted access to email and OneDrive for 30 days</li></ul>]]></rich_text>
+<ul style="list-style-position: inside;"><li style="list-style-type: inherit;">Benefits updated to reflect termination date</li><li style="list-style-type: inherit;">Company/Segment HR Payroll update payroll system accordingly</li><li>Personal email may be used to communicate important benefits or document access information to the former team member.</li><li style="list-style-type: inherit;">Network access disabled</li><li style="list-style-type: inherit;">Removed from security groups and distribution lists</li><li style="list-style-type: inherit;">All business system access disabled</li><li style="list-style-type: inherit;">LMS access disabled</li><li style="list-style-type: inherit;">Microsoft 365 license disabled</li><li style="list-style-type: inherit;">Out of office message reply enabled</li><li style="list-style-type: inherit;">Company mobile account transferred, suspended, or cancelled, as selected</li><li style="list-style-type: inherit;">Manager is granted access to email and OneDrive for 30 days</li></ul>]]></rich_text>
         <roles_to_use_also_request_for/>
         <save_script/>
         <scale_max>5</scale_max>
@@ -69,14 +69,14 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-28 14:25:47</sys_created_on>
         <sys_id>fa641e1c1bcd555062e50ed2cd4bcbd0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>term_actions_taken</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_fa641e1c1bcd555062e50ed2cd4bcbd0</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-07-28 14:26:33</sys_updated_on>
+        <sys_updated_on>2022-08-25 19:25:16</sys_updated_on>
         <table/>
         <tooltip/>
         <type>32</type>
