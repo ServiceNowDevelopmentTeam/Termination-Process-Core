@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</catalog_item>
+        <catalog_variable>IO:d006d8d51b3d151062e50ed2cd4bcb2c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:12</sys_created_on>
+        <sys_id>682618191b3d151062e50ed2cd4bcb2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>eligible_for_rehire</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_682618191b3d151062e50ed2cd4bcb2b</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="On load">5c26d4191b3d151062e50ed2cd4bcb78</ui_policy>
+        <variable>eligible_for_rehire</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>catalog_ui_policy_action_682618191b3d151062e50ed2cd4bcb2b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</catalog_item><catalog_variable>IO:d006d8d51b3d151062e50ed2cd4bcb2c</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:33:12</sys_created_on><sys_id>682618191b3d151062e50ed2cd4bcb2b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>eligible_for_rehire</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>catalog_ui_policy_action_682618191b3d151062e50ed2cd4bcb2b</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:33:12</sys_updated_on><table/><ui_policy display_value="On load">5c26d4191b3d151062e50ed2cd4bcb78</ui_policy><variable>eligible_for_rehire</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-2058568825</payload_hash>
+        <record_name>eligible_for_rehire</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:12</sys_created_on>
+        <sys_id>e02618191b3d151062e50ed2cd4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18313382fa00000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:12</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>a4261819843d151069a9d466bd1f6336</update_guid>
+        <update_guid_history>a4261819843d151069a9d466bd1f6336:-2058568825,e4261819953d1510c96165a714a18e2f:1274583046</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="eligible_for_rehire">2b07141d1b3d151062e50ed2cd4bcb23</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:37:14</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>35f9b83e98d64d66a1dbaf6049910819</sys_id>
+        <sys_metadata>682618191b3d151062e50ed2cd4bcb2b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eligible_for_rehire</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_682618191b3d151062e50ed2cd4bcb2b</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_682618191b3d151062e50ed2cd4bcb2b">e02618191b3d151062e50ed2cd4bcb37</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -4,23 +4,22 @@
         <copied_from display_value="Set Variable Values (SP)">5213adc21b55f0108c5143f3cc4bcba9</copied_from>
         <description>Answer the questions on the form as follows:
 Employee number = 12345
-and Termination date/time = 
+and Termination Effective date/time = 
 and Type of Separation = Voluntary
 and Eligible for rehire = Yes
-and Last 4 numbers of SSN = 1234
 and Send check to = me
-and Date final check Is needed = 
-and All keys returned (Office, Vehicle, Toolbox) = 
-and All company equipment/tools/property returned = Yes
 and Person Leaving = 
-and Benefits contact form provided to non-union employees = 
-and Does employee have a company cell phone = true
 and Worker Classification = {{Parameters.worker classification}}
-and Employees Manager = 
-and None = true
-and Turn on out of office automatic reply? = No
-and Location = New Brighton MN
-and Voluntary Reason = Retired (R)</description>
+and Individual's Manager = 
+and Voluntary Reason = Deceased (X)
+and Worker Type = Employee with a company  email account
+and Union or Non-Union? = Non-Union
+and Last Day Worked = 
+and Personal Email Address = mail@mail.com
+and Is any severance agreement a part of this person's termination? = No
+and Is same-day payoff required? = No
+and Final Check Instructions = none
+and Does the employee have a company mobile device (cell phone, hot spot, tablet)? = No</description>
         <display_name>Set Variable Values (SP)</display_name>
         <inputs/>
         <inputs/>
@@ -33,14 +32,14 @@ and Voluntary Reason = Retired (R)</description>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2021-08-10 16:37:27</sys_created_on>
         <sys_id>1e53820f1bbd74108c5143f3cc4bcb43</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Set Variable Values (SP)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_atf_step_1e53820f1bbd74108c5143f3cc4bcb43</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:57:10</sys_updated_on>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-08-30 17:28:45</sys_updated_on>
         <table/>
         <test display_value="TC - 193 - Employee Termination - Task Auto Closure - SP">c2530acb1bbd74108c5143f3cc4bcb03</test>
         <timeout/>
@@ -69,10 +68,10 @@ and Voluntary Reason = Retired (R)</description>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2021-08-10 16:37:27</sys_created_on>
         <sys_id>6e53820f1bbd74108c5143f3cc4bcb4b</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-03-21 20:18:14</sys_updated_on>
-        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=12345^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['9253820f1bbd74108c5143f3cc4bcb37'].user.sys_created_on}}^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^IO:169786961b2f9c10f5a3635bbc4bcbe0=1234^IO:491c0e9a1b2f9c10f5a3635bbc4bcbed=me^IO:e3d512d21b6f9c10f5a3635bbc4bcb1c={{step['9253820f1bbd74108c5143f3cc4bcb37'].user.sys_created_on}}^IO:91646eaa1babdc10f5a3635bbc4bcb9e=^IO:7165ee2a1babdc10f5a3635bbc4bcb38=Yes^IO:d93c28591b492050e7004229bc4bcb0d={{step['5e53820f1bbd74108c5143f3cc4bcb29'].user}}^IO:5f05da921b6f9c10f5a3635bbc4bcbe0=^IO:090f921e1b6f9c10f5a3635bbc4bcb3a=true^IO:24077cbc1b993010e7004229bc4bcbf3={{parameter['c2530acb1bbd74108c5143f3cc4bcb03'].u_emp_type}}^IO:76b537001b316050e7004229bc4bcb74={{step['0653420f1bbd74108c5143f3cc4bcbc3'].user}}^IO:9f3f409b1b76381062e50ed2cd4bcb93=true^IO:9d71dc9f1b76381062e50ed2cd4bcb04=No^IO:ff738ed21b2f9c10f5a3635bbc4bcbcf=0f741a0d1baa305062e50ed2cd4bcb61^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Retired (R)^EQ</value>
+        <sys_updated_on>2022-08-30 17:28:45</sys_updated_on>
+        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=12345^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['9253820f1bbd74108c5143f3cc4bcb37'].user.sys_created_on}}^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^IO:491c0e9a1b2f9c10f5a3635bbc4bcbed=me^IO:d93c28591b492050e7004229bc4bcb0d={{step['5e53820f1bbd74108c5143f3cc4bcb29'].user}}^IO:24077cbc1b993010e7004229bc4bcbf3={{parameter['c2530acb1bbd74108c5143f3cc4bcb03'].u_emp_type}}^IO:76b537001b316050e7004229bc4bcb74={{step['0653420f1bbd74108c5143f3cc4bcbc3'].user}}^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Deceased (X)^IO:1ef36b101b54d1908c5143f3cc4bcb54=employee_email^IO:0b36a3141b54d1908c5143f3cc4bcbd2=Non-Union^IO:62777b181b94d1908c5143f3cc4bcbf1={{step['0653420f1bbd74108c5143f3cc4bcbc3'].user.sys_created_on}}^IO:e5b8f3981b94d1908c5143f3cc4bcb79=mail@mail.com^IO:4659b7981b94d1908c5143f3cc4bcbc2=No^IO:ea0a3fd81b94d1908c5143f3cc4bcbb6=No^IO:898d87d21bbc19108c5143f3cc4bcb8b=none^IO:2a5849cc1b45d1508c5143f3cc4bcbc7=No^EQ</value>
         <variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -96,11 +95,11 @@ and Voluntary Reason = Retired (R)</description>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2021-08-10 16:37:27</sys_created_on>
         <sys_id>a653820f1bbd74108c5143f3cc4bcb4c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-03-21 20:18:14</sys_updated_on>
+        <sys_updated_on>2022-08-30 17:28:45</sys_updated_on>
         <table>var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c</table>
-        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=12345^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['9253820f1bbd74108c5143f3cc4bcb37'].user.sys_created_on}}^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^IO:169786961b2f9c10f5a3635bbc4bcbe0=1234^IO:491c0e9a1b2f9c10f5a3635bbc4bcbed=me^IO:e3d512d21b6f9c10f5a3635bbc4bcb1c={{step['9253820f1bbd74108c5143f3cc4bcb37'].user.sys_created_on}}^IO:91646eaa1babdc10f5a3635bbc4bcb9e=^IO:7165ee2a1babdc10f5a3635bbc4bcb38=Yes^IO:d93c28591b492050e7004229bc4bcb0d={{step['5e53820f1bbd74108c5143f3cc4bcb29'].user}}^IO:5f05da921b6f9c10f5a3635bbc4bcbe0=^IO:090f921e1b6f9c10f5a3635bbc4bcb3a=true^IO:24077cbc1b993010e7004229bc4bcbf3={{parameter['c2530acb1bbd74108c5143f3cc4bcb03'].u_emp_type}}^IO:76b537001b316050e7004229bc4bcb74={{step['0653420f1bbd74108c5143f3cc4bcbc3'].user}}^IO:9f3f409b1b76381062e50ed2cd4bcb93=true^IO:9d71dc9f1b76381062e50ed2cd4bcb04=No^IO:ff738ed21b2f9c10f5a3635bbc4bcbcf=0f741a0d1baa305062e50ed2cd4bcb61^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Retired (R)^EQ</value>
+        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=12345^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['9253820f1bbd74108c5143f3cc4bcb37'].user.sys_created_on}}^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^IO:491c0e9a1b2f9c10f5a3635bbc4bcbed=me^IO:d93c28591b492050e7004229bc4bcb0d={{step['5e53820f1bbd74108c5143f3cc4bcb29'].user}}^IO:24077cbc1b993010e7004229bc4bcbf3={{parameter['c2530acb1bbd74108c5143f3cc4bcb03'].u_emp_type}}^IO:76b537001b316050e7004229bc4bcb74={{step['0653420f1bbd74108c5143f3cc4bcbc3'].user}}^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Deceased (X)^IO:1ef36b101b54d1908c5143f3cc4bcb54=employee_email^IO:0b36a3141b54d1908c5143f3cc4bcbd2=Non-Union^IO:62777b181b94d1908c5143f3cc4bcbf1={{step['0653420f1bbd74108c5143f3cc4bcbc3'].user.sys_created_on}}^IO:e5b8f3981b94d1908c5143f3cc4bcb79=mail@mail.com^IO:4659b7981b94d1908c5143f3cc4bcbc2=No^IO:ea0a3fd81b94d1908c5143f3cc4bcbb6=No^IO:898d87d21bbc19108c5143f3cc4bcb8b=none^IO:2a5849cc1b45d1508c5143f3cc4bcbc7=No^EQ</value>
     </sys_element_mapping>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>

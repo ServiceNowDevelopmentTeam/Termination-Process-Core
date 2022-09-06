@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>0</order>
+        <sc_cat_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:24</sys_created_on>
+        <sys_id>5f269c191b3d151062e50ed2cd4bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval - Manager Auto-Approver or Create Task.Employee Termination</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>io_set_item_5f269c191b3d151062e50ed2cd4bcb00</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:24</sys_updated_on>
+        <variable_set display_value="Approval - Manager Auto-Approver or Create Task">44b06a901b9b45d08c5143f3cc4bcb6a</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>io_set_item_5f269c191b3d151062e50ed2cd4bcb00</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>0</order><sc_cat_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:33:24</sys_created_on><sys_id>5f269c191b3d151062e50ed2cd4bcb00</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval - Manager Auto-Approver or Create Task.Employee Termination</sys_name><sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>io_set_item_5f269c191b3d151062e50ed2cd4bcb00</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:33:24</sys_updated_on><variable_set display_value="Approval - Manager Auto-Approver or Create Task">44b06a901b9b45d08c5143f3cc4bcb6a</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-308496449</payload_hash>
+        <record_name>b7f598d51b3d151062e50ed2cd4bcb9f</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:24</sys_created_on>
+        <sys_id>df269c191b3d151062e50ed2cd4bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18313385d1d0000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:24</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>17269c19833d1510cde2200fe99ccd07</update_guid>
+        <update_guid_history>17269c19833d1510cde2200fe99ccd07:-308496449</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1f37dc5d1b3d151062e50ed2cd4bcbbd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:38:02</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>a4bbc50f3bbe4e7e91d733b261baf149</sys_id>
+        <sys_metadata>5f269c191b3d151062e50ed2cd4bcb00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval - Manager Auto-Approver or Create Task.Employee Termination</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>io_set_item_5f269c191b3d151062e50ed2cd4bcb00</sys_update_name>
+        <sys_update_version display_value="io_set_item_5f269c191b3d151062e50ed2cd4bcb00">df269c191b3d151062e50ed2cd4bcb07</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:38:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

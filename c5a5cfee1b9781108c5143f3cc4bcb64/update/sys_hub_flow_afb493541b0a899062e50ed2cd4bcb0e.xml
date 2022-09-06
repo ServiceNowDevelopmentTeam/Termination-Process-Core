@@ -517,7 +517,7 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Trigger Event">df1e239f1b20e850f5a3635bbc4bcb6f</action_type>
+        <action_type display_value="Trigger Event on RITM">df1e239f1b20e850f5a3635bbc4bcb6f</action_type>
         <action_type_parent/>
         <comment/>
         <compiled_snapshot>df1e239f1b20e850f5a3635bbc4bcb6f</compiled_snapshot>
@@ -1796,8 +1796,8 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Trigger Event">df1e239f1b20e850f5a3635bbc4bcb6f</action_type>
-        <action_type_parent display_value="Trigger Event">7e2ba79b1b20e850f5a3635bbc4bcb1e</action_type_parent>
+        <action_type display_value="Trigger Event on RITM">df1e239f1b20e850f5a3635bbc4bcb6f</action_type>
+        <action_type_parent display_value="Trigger Event on RITM">7e2ba79b1b20e850f5a3635bbc4bcb1e</action_type_parent>
         <comment/>
         <compiled_snapshot>df1e239f1b20e850f5a3635bbc4bcb6f</compiled_snapshot>
         <display_text/>

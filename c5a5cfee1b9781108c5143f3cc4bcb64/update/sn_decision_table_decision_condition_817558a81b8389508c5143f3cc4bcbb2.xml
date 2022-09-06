@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
     <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
-        <decision_input display_value="company">bc759ca81b8389508c5143f3cc4bcbd4</decision_input>
+        <decision_input display_value="Company">bc759ca81b8389508c5143f3cc4bcbd4</decision_input>
         <decision_table display_value="term - company specialized tasks">47359ce41b8389508c5143f3cc4bcb5f</decision_table>
         <default_operator>=</default_operator>
         <description/>

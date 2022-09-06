@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>true</inactive>
+        <misc>0</misc>
+        <order>600</order>
+        <published_ref display_value="Other (Please explain in comment section)">d32b4b521b2ce450f5a3635bbc4bcb48</published_ref>
+        <question display_value="Involuntary Reason">8c1650191b3d151062e50ed2cd4bcb13</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:32:56</sys_created_on>
+        <sys_id>e41650191b3d151062e50ed2cd4bcbc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other (Please explain in comment section)</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>question_choice_e41650191b3d151062e50ed2cd4bcbc0</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:32:56</sys_updated_on>
+        <text>Other (Please explain in comment section)</text>
+        <value>Other (Please explain in comment section)</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=e41650191b3d151062e50ed2cd4bcbc0"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>e41650191b3d151062e50ed2cd4bcbc0</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:32:56</sys_created_on>
+        <sys_id>281650191b3d151062e50ed2cd4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:32:56</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>e41650191b3d151062e50ed2cd4bcbc0</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:32:56</sys_created_on>
+        <sys_id>e81650191b3d151062e50ed2cd4bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:32:56</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>question_choice_e41650191b3d151062e50ed2cd4bcbc0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>true</inactive><misc>0</misc><order>600</order><published_ref display_value="Other (Please explain in comment section)">d32b4b521b2ce450f5a3635bbc4bcb48</published_ref><question display_value="Involuntary Reason">8c1650191b3d151062e50ed2cd4bcb13</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:32:56</sys_created_on><sys_id>e41650191b3d151062e50ed2cd4bcbc0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Other (Please explain in comment section)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>question_choice_e41650191b3d151062e50ed2cd4bcbc0</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:32:56</sys_updated_on><text>Other (Please explain in comment section)</text><value>Other (Please explain in comment section)</value></question_choice><fx_price action="delete_multiple" query="id=e41650191b3d151062e50ed2cd4bcbc0"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>e41650191b3d151062e50ed2cd4bcbc0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:32:56</sys_created_on><sys_id>281650191b3d151062e50ed2cd4bcbc2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:32:56</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>e41650191b3d151062e50ed2cd4bcbc0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:32:56</sys_created_on><sys_id>e81650191b3d151062e50ed2cd4bcbc1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:32:56</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1604597311</payload_hash>
+        <record_name>Other (Please explain in comment section)</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:32:56</sys_created_on>
+        <sys_id>e41650191b3d151062e50ed2cd4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1831337ee190000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:32:56</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>2c165019423d15106c6dbdf3b4e155c5</update_guid>
+        <update_guid_history>2c165019423d15106c6dbdf3b4e155c5:-1604597311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Other (Please explain in comment section)">2cc650d91b3d151062e50ed2cd4bcb33</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-06 14:35:56</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>6ed3cf73a306431bbec0b84266ebd041</sys_id>
+        <sys_metadata>e41650191b3d151062e50ed2cd4bcbc0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other (Please explain in comment section)</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_parent display_value="">8c1650191b3d151062e50ed2cd4bcb13</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>question_choice_e41650191b3d151062e50ed2cd4bcbc0</sys_update_name>
+        <sys_update_version display_value="question_choice_e41650191b3d151062e50ed2cd4bcbc0">e41650191b3d151062e50ed2cd4bcbc6</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:35:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</catalog_item>
+        <catalog_variable>IO:d1061cd51b3d151062e50ed2cd4bcbb4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:17</sys_created_on>
+        <sys_id>ad2698191b3d151062e50ed2cd4bcb12</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>is_any_severance_agreement_a_part_of_this_person_s_termination</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:17</sys_updated_on>
+        <table/>
+        <ui_policy display_value="If Worker Type = Independent Contractor">d12658191b3d151062e50ed2cd4bcb60</ui_policy>
+        <variable>is_any_severance_agreement_a_part_of_this_person_s_termination</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</catalog_item><catalog_variable>IO:d1061cd51b3d151062e50ed2cd4bcbb4</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:33:17</sys_created_on><sys_id>ad2698191b3d151062e50ed2cd4bcb12</sys_id><sys_mod_count>1</sys_mod_count><sys_name>is_any_severance_agreement_a_part_of_this_person_s_termination</sys_name><sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:33:17</sys_updated_on><table/><ui_policy display_value="If Worker Type = Independent Contractor">d12658191b3d151062e50ed2cd4bcb60</ui_policy><variable>is_any_severance_agreement_a_part_of_this_person_s_termination</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-2017456436</payload_hash>
+        <record_name>is_any_severance_agreement_a_part_of_this_person_s_termination</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:17</sys_created_on>
+        <sys_id>292698191b3d151062e50ed2cd4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183133840c40000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:17</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>e9269819ef3d15102a00e4c1c635391d</update_guid>
+        <update_guid_history>e9269819ef3d15102a00e4c1c635391d:-2017456436,2d269819bb3d1510b6470690c09e9916:-302266442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="is_any_severance_agreement_a_part_of_this_person_s_termination">2c17941d1b3d151062e50ed2cd4bcbef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:37:18</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>13d62be640f8413083b41454d6cb1900</sys_id>
+        <sys_metadata>ad2698191b3d151062e50ed2cd4bcb12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>is_any_severance_agreement_a_part_of_this_person_s_termination</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12">292698191b3d151062e50ed2cd4bcb1e</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

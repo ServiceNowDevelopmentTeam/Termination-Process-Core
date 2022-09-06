@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</catalog_item>
+        <catalog_variable>IO:4216d0191b3d151062e50ed2cd4bcbf0</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:12</sys_created_on>
+        <sys_id>642618191b3d151062e50ed2cd4bcb44</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Person_Leaving</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:13</sys_updated_on>
+        <table/>
+        <ui_policy display_value="On load">5c26d4191b3d151062e50ed2cd4bcb78</ui_policy>
+        <variable>Person_Leaving</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Employee Termination">b7f598d51b3d151062e50ed2cd4bcb9f</catalog_item><catalog_variable>IO:4216d0191b3d151062e50ed2cd4bcbf0</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>Terry.Lillo</sys_created_by><sys_created_on>2022-09-06 14:33:12</sys_created_on><sys_id>642618191b3d151062e50ed2cd4bcb44</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Person_Leaving</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44</sys_update_name><sys_updated_by>Terry.Lillo</sys_updated_by><sys_updated_on>2022-09-06 14:33:13</sys_updated_on><table/><ui_policy display_value="On load">5c26d4191b3d151062e50ed2cd4bcb78</ui_policy><variable>Person_Leaving</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-2078750920</payload_hash>
+        <record_name>Person_Leaving</record_name>
+        <reverted_from/>
+        <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:33:13</sys_created_on>
+        <sys_id>ec2618191b3d151062e50ed2cd4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1831338309d0000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:33:13</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>a0261819843d1510f196866c317b434f</update_guid>
+        <update_guid_history>a0261819843d1510f196866c317b434f:-2078750920,e0261819943d15108a0ce77bb7f74a48:-470340227</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Person_Leaving">2307141d1b3d151062e50ed2cd4bcb1d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-06 14:37:13</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>039e4a78b9554c5595206cf47c7db1e1</sys_id>
+        <sys_metadata>642618191b3d151062e50ed2cd4bcb44</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Person_Leaving</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44">ec2618191b3d151062e50ed2cd4bcb4f</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

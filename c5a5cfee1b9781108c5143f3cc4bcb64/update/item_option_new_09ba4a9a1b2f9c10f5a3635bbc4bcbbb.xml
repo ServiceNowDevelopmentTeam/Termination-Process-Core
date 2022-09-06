@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>eligible_for_rehire</name>
-        <order>507</order>
+        <order>540</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +68,14 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 16:41:43</sys_created_on>
         <sys_id>09ba4a9a1b2f9c10f5a3635bbc4bcbbb</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Eligible for rehire</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_09ba4a9a1b2f9c10f5a3635bbc4bcbbb</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:04</sys_updated_on>
+        <sys_updated_on>2022-09-06 14:30:37</sys_updated_on>
         <table/>
         <tooltip>Select from drop down list</tooltip>
         <type>1</type>
