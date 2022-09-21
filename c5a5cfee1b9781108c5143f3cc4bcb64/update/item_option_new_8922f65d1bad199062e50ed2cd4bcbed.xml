@@ -44,7 +44,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Other Access</question_text>
+        <question_text>Other Access – please provide commentary for level of access (Role-level) being requested</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -68,14 +68,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-08-25 15:39:23</sys_created_on>
         <sys_id>8922f65d1bad199062e50ed2cd4bcbed</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Other Access</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Other Access – please provide commentary for level of access (Role-level) being requested</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_8922f65d1bad199062e50ed2cd4bcbed</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-08-30 14:02:13</sys_updated_on>
+        <sys_updated_on>2022-09-21 15:08:06</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
