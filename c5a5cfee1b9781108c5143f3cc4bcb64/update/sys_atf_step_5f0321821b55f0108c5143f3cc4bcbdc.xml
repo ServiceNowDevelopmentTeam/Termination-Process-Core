@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open "Employee Termination" in the "Service Portal" portal</description>
+        <display_name>Open a Catalog Item (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Open a Catalog Item (SP)">e81f02dc73e703008e6b0d573cf6a76f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:11:08</sys_created_on>
+        <sys_id>5f0321821b55f0108c5143f3cc4bcbdc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Open a Catalog Item (SP)</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_atf_step_5f0321821b55f0108c5143f3cc4bcbdc</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-23 19:19:49</sys_updated_on>
+        <table/>
+        <test display_value="TC - 41 - Employee Termination - Submit Validation - SP">ff422d021b55f0108c5143f3cc4bcb70</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=5f0321821b55f0108c5143f3cc4bcbdc"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>5f0321821b55f0108c5143f3cc4bcbdc</document_key>
+        <order>110</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:11:08</sys_created_on>
+        <sys_id>051361061b55f0108c5143f3cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2021-07-13 15:11:08</sys_updated_on>
+        <value>9f12251147132100ba13a5554ee490f4</value>
+        <variable display_value="Page">83d1dadc73e703008e6b0d573cf6a779</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>5f0321821b55f0108c5143f3cc4bcbdc</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:11:08</sys_created_on>
+        <sys_id>4d1361061b55f0108c5143f3cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2021-07-13 15:11:08</sys_updated_on>
+        <value>81b75d3147032100ba13a5554ee4902b</value>
+        <variable display_value="Portal">3731d6dc73e703008e6b0d573cf6a788</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>5f0321821b55f0108c5143f3cc4bcbdc</document_key>
+        <order>120</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:11:08</sys_created_on>
+        <sys_id>891361061b55f0108c5143f3cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2021-07-13 15:11:08</sys_updated_on>
+        <value>5f918a921b2f9c10f5a3635bbc4bcba9</value>
+        <variable display_value="Catalog Item">ac615adc73e703008e6b0d573cf6a702</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>5f0321821b55f0108c5143f3cc4bcbdc</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2021-07-13 15:11:08</sys_created_on>
+        <sys_id>c51361061b55f0108c5143f3cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2021-07-13 15:11:08</sys_updated_on>
+        <value/>
+        <variable display_value="Query parameters">3a6e5fb15f1013001f1e1f9f2f7313e3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_e81f02dc73e703008e6b0d573cf6a76f^id=5f0321821b55f0108c5143f3cc4bcbdc"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
+        <claim_timestamp>1836bcb0f270000001</claim_timestamp>
+        <metadata_update_name>sys_atf_step_5f0321821b55f0108c5143f3cc4bcbdc</metadata_update_name>
+        <previous_claim_app_version>1.2.7</previous_claim_app_version>
+        <previous_claim_name>Termination Process Core</previous_claim_name>
+        <previous_claim_scope>c5a5cfee1b9781108c5143f3cc4bcb64</previous_claim_scope>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-09-23 19:20:13</sys_created_on>
+        <sys_id>26da387e1b4695508c5143f3cc4bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-23 19:20:13</sys_updated_on>
+    </sys_claim>
+</record_update>
