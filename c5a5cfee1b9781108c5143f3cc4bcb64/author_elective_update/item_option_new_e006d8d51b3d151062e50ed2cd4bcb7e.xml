@@ -156,14 +156,13 @@
         <update_guid_history>6406d8d5d63d15103905097eafcd8a88:2089846964</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Employee number">f8d6d4d91b3d151062e50ed2cd4bcbe6</sys_audit_delete>
+        <sys_audit_delete display_value="">f8d6d4d91b3d151062e50ed2cd4bcbe6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-09-06 14:36:13</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>9eda1bd51a96478f851523ffe3dc3c09</sys_id>
         <sys_metadata>e006d8d51b3d151062e50ed2cd4bcb7e</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee number</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_e006d8d51b3d151062e50ed2cd4bcb7e</sys_update_name>
         <sys_update_version display_value="item_option_new_e006d8d51b3d151062e50ed2cd4bcb7e">2006d8d51b3d151062e50ed2cd4bcb89</sys_update_version>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:36:13</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

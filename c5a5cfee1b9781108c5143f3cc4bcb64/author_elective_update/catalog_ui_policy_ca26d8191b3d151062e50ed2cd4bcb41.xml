@@ -77,14 +77,13 @@
         <update_guid_history>0a26d819e13d15109ec98fd664b1cc45:1954693199</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="If Non employee with an email">9c17941d1b3d151062e50ed2cd4bcb41</sys_audit_delete>
+        <sys_audit_delete display_value="">9c17941d1b3d151062e50ed2cd4bcb41</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:17</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
         <sys_id>0c628f8046994f868fdc1737a5c38864</sys_id>
         <sys_metadata>ca26d8191b3d151062e50ed2cd4bcb41</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>If Non employee with an email</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -93,7 +92,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_ca26d8191b3d151062e50ed2cd4bcb41</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_ca26d8191b3d151062e50ed2cd4bcb41">c226d8191b3d151062e50ed2cd4bcb46</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:17</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

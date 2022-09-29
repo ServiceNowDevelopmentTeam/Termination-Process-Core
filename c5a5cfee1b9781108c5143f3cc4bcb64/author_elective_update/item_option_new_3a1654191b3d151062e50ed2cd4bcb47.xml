@@ -156,14 +156,13 @@
         <update_guid_history>3a1654194c3d1510ea625e1881457659:2002369500</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Final check given to employee per that specific state's regulations">6f171c1d1b3d151062e50ed2cd4bcbd2</sys_audit_delete>
+        <sys_audit_delete display_value="">6f171c1d1b3d151062e50ed2cd4bcbd2</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:31</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>07c02acc8df64ed08ea26d385e23d100</sys_id>
         <sys_metadata>3a1654191b3d151062e50ed2cd4bcb47</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Final check given to employee per that specific state's regulations</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_3a1654191b3d151062e50ed2cd4bcb47</sys_update_name>
         <sys_update_version display_value="item_option_new_3a1654191b3d151062e50ed2cd4bcb47">f21654191b3d151062e50ed2cd4bcb5a</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:31</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

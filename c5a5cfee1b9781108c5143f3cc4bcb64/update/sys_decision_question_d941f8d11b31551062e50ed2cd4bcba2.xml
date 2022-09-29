@@ -17,14 +17,11 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d941f8d11b31551062e50ed2cd4bcba2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>term - company specialized tasks_2000</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_decision_question_d941f8d11b31551062e50ed2cd4bcba2</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 16:36:43</sys_updated_on>
     </sys_decision_question>
 </record_update>

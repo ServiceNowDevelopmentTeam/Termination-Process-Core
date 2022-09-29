@@ -41,14 +41,13 @@
         <update_guid_history>ec75abd06054d190ce9917a4b7c0d119:-591257358</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Employee Termination">5f75ebd01b54d1908c5143f3cc4bcbc8</sys_audit_delete>
+        <sys_audit_delete display_value="">5f75ebd01b54d1908c5143f3cc4bcbc8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-06-21 13:31:02</sys_created_on>
         <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
         <sys_id>16f1ccaca3e542a09f856150eae4b240</sys_id>
         <sys_metadata>2475abd01b54d1908c5143f3cc4bcb16</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Employee Termination</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">6075abd01b54d1908c5143f3cc4bcb06</sys_parent>
@@ -57,7 +56,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>sc_cat_item_catalog_2475abd01b54d1908c5143f3cc4bcb16</sys_update_name>
         <sys_update_version display_value="sc_cat_item_catalog_2475abd01b54d1908c5143f3cc4bcb16">e475abd01b54d1908c5143f3cc4bcb1a</sys_update_version>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-06-21 13:31:02</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

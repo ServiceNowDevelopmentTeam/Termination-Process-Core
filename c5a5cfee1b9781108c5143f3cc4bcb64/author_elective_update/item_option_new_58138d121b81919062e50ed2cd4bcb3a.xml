@@ -156,14 +156,13 @@
         <update_guid_history>90138d122d819190c5298c698f22ef4f:2106252845</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Please Specify the financial system(s)?">12e80d5a1b81919062e50ed2cd4bcbb6</sys_audit_delete>
+        <sys_audit_delete display_value="">12e80d5a1b81919062e50ed2cd4bcbb6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:01:53</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>34b6be1d7f2044189d90dc6665de6040</sys_id>
         <sys_metadata>58138d121b81919062e50ed2cd4bcb3a</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Please Specify the financial system(s)?</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">60f281121b81919062e50ed2cd4bcb6d</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_58138d121b81919062e50ed2cd4bcb3a</sys_update_name>
         <sys_update_version display_value="item_option_new_58138d121b81919062e50ed2cd4bcb3a">5c138d121b81919062e50ed2cd4bcb4f</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:01:53</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

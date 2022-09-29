@@ -51,14 +51,13 @@
         <update_guid_history>0313c1529d819190d82809056555ad96:-1979964308,c313c1526f8191909c707ccac785c98e:-1583232764</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="payroll">12d8455a1b81919062e50ed2cd4bcbdc</sys_audit_delete>
+        <sys_audit_delete display_value="">12d8455a1b81919062e50ed2cd4bcbdc</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:01:37</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>53d93ce6f08e4380927d760a1cd5e100</sys_id>
         <sys_metadata>c713c1521b81919062e50ed2cd4bcb89</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>payroll</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_c713c1521b81919062e50ed2cd4bcb89</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_c713c1521b81919062e50ed2cd4bcb89">4f13c1521b81919062e50ed2cd4bcb96</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:01:37</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

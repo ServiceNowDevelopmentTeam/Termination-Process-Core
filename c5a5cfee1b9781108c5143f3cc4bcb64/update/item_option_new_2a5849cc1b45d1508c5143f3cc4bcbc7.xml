@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>has_mobile_device</name>
         <order>3120</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-27 14:13:46</sys_created_on>
         <sys_id>2a5849cc1b45d1508c5143f3cc4bcbc7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
         <sys_name>Does the employee have a company mobile device (cell phone, hot spot, tablet)?</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_2a5849cc1b45d1508c5143f3cc4bcbc7</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-02 18:22:40</sys_updated_on>
         <table/>
         <tooltip/>
         <type>1</type>

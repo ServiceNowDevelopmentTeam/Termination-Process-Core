@@ -51,14 +51,13 @@
         <update_guid_history>e9269819ef3d15102a00e4c1c635391d:-2017456436,2d269819bb3d1510b6470690c09e9916:-302266442</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="is_any_severance_agreement_a_part_of_this_person_s_termination">2c17941d1b3d151062e50ed2cd4bcbef</sys_audit_delete>
+        <sys_audit_delete display_value="">2c17941d1b3d151062e50ed2cd4bcbef</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:18</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>13d62be640f8413083b41454d6cb1900</sys_id>
         <sys_metadata>ad2698191b3d151062e50ed2cd4bcb12</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>is_any_severance_agreement_a_part_of_this_person_s_termination</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_ad2698191b3d151062e50ed2cd4bcb12">292698191b3d151062e50ed2cd4bcb1e</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:18</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

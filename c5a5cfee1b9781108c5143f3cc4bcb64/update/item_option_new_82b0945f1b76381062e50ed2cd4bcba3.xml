@@ -45,6 +45,7 @@ Thank you. &#13;
         <mask_use_encryption>false</mask_use_encryption>
         <name>databackupinfo</name>
         <order>3130</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -74,14 +75,11 @@ Thank you. &#13;
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2021-09-29 19:58:20</sys_created_on>
         <sys_id>82b0945f1b76381062e50ed2cd4bcba3</sys_id>
-        <sys_mod_count>7</sys_mod_count>
         <sys_name>Example</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_82b0945f1b76381062e50ed2cd4bcba3</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:55:46</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>
@@ -146,8 +144,5 @@ Thank you. &#13;
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:27</sys_created_on>
         <sys_id>37d54fa21bd781108c5143f3cc4bcb5d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:27</sys_updated_on>
     </sys_claim>
 </record_update>

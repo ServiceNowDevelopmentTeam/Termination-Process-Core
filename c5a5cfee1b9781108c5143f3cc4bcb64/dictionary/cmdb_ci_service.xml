@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="cmdb_ci" label="Service" max_length="40" name="cmdb_ci_service" sizeclass="226" type="collection">
+    <element audit="true" db_object_id="228664ab1b611010e7004229bc4bcbdf" extends="cmdb_ci" label="Service" max_length="40" name="cmdb_ci_service" type="collection">
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Used By(Companies)" max_length="1024" name="u_used_by" reference="core_company" type="glide_list"/>
     </element>
 </database>

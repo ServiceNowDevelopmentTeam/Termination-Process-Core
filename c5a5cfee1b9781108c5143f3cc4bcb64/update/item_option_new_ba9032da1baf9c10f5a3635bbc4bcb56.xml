@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>cell_phone_number</name>
         <order>3100</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,11 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 19:27:42</sys_created_on>
         <sys_id>ba9032da1baf9c10f5a3635bbc4bcb56</sys_id>
-        <sys_mod_count>6</sys_mod_count>
         <sys_name>Cell phone number</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_ba9032da1baf9c10f5a3635bbc4bcb56</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-07-26 14:04:48</sys_updated_on>
         <table/>
         <tooltip>Enter employee company cell phone number</tooltip>
         <type>6</type>
@@ -140,8 +138,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:39</sys_created_on>
         <sys_id>3ae587e21bd781108c5143f3cc4bcb7c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:39</sys_updated_on>
     </sys_claim>
 </record_update>

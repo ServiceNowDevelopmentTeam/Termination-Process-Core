@@ -82,14 +82,13 @@
         <update_guid_history>80165019bd3d1510d7b68b77c906e005:-2055060124</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Suspend - Retain line for a $10 monthly fee until ready to transfer to another e">39b6d8991b3d151062e50ed2cd4bcb17</sys_audit_delete>
+        <sys_audit_delete display_value="">39b6d8991b3d151062e50ed2cd4bcb17</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-09-06 14:35:45</sys_created_on>
         <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
         <sys_id>07590545203349af92fa84b390f71499</sys_id>
         <sys_metadata>0c1610191b3d151062e50ed2cd4bcbff</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Suspend - Retain line for a $10 monthly fee until ready to transfer to another e</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">0c1610191b3d151062e50ed2cd4bcbee</sys_parent>
@@ -98,7 +97,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>question_choice_0c1610191b3d151062e50ed2cd4bcbff</sys_update_name>
         <sys_update_version display_value="question_choice_0c1610191b3d151062e50ed2cd4bcbff">4c1650191b3d151062e50ed2cd4bcb05</sys_update_version>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:35:45</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

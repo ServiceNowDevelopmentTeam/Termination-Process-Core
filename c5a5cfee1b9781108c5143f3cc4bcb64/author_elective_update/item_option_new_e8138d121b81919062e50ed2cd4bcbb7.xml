@@ -156,14 +156,13 @@
         <update_guid_history>3c138d1215819190e2a5ae05af11eccc:1511652336</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Location">6a6981da1b81919062e50ed2cd4bcb28</sys_audit_delete>
+        <sys_audit_delete display_value="">6a6981da1b81919062e50ed2cd4bcb28</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:04:06</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>2a466799d91447849c49c366194baf71</sys_id>
         <sys_metadata>e8138d121b81919062e50ed2cd4bcbb7</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Location</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">60f281121b81919062e50ed2cd4bcb6d</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_e8138d121b81919062e50ed2cd4bcbb7</sys_update_name>
         <sys_update_version display_value="item_option_new_e8138d121b81919062e50ed2cd4bcbb7">f4138d121b81919062e50ed2cd4bcbcd</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:04:06</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

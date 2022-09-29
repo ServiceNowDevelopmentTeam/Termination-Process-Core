@@ -82,14 +82,13 @@
         <update_guid_history>52069cd5133d1510641174b38b3f676b:273967344</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Company to company transfer (T)">f6b65c991b3d151062e50ed2cd4bcb66</sys_audit_delete>
+        <sys_audit_delete display_value="">f6b65c991b3d151062e50ed2cd4bcb66</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-09-06 14:35:49</sys_created_on>
         <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
         <sys_id>c4c06e92d45344e4b001c0b5517fc244</sys_id>
         <sys_metadata>5e069cd51b3d151062e50ed2cd4bcb65</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Company to company transfer (T)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">ca069cd51b3d151062e50ed2cd4bcb08</sys_parent>
@@ -98,7 +97,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>question_choice_5e069cd51b3d151062e50ed2cd4bcb65</sys_update_name>
         <sys_update_version display_value="question_choice_5e069cd51b3d151062e50ed2cd4bcb65">1e069cd51b3d151062e50ed2cd4bcb6b</sys_update_version>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:35:49</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

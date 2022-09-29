@@ -163,7 +163,6 @@
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>8061d5ae79f8471c8c36c06562910081</sys_id>
         <sys_metadata>043d88951bf9151062e50ed2cd4bcbd2</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>formatter12</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_043d88951bf9151062e50ed2cd4bcbd2</sys_update_name>
         <sys_update_version display_value="item_option_new_043d88951bf9151062e50ed2cd4bcbd2">fe3d00d51bf9151062e50ed2cd4bcb17</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 13:57:00</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>webapps</name>
         <order>3451</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,11 @@
         <sys_created_by>bj.strohl</sys_created_by>
         <sys_created_on>2021-04-10 19:18:24</sys_created_on>
         <sys_id>03065eff1bd3ec50346ffd951a4bcb03</sys_id>
-        <sys_mod_count>3</sys_mod_count>
         <sys_name>WebApps</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_03065eff1bd3ec50346ffd951a4bcb03</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:00</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
@@ -140,8 +138,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:00</sys_created_on>
         <sys_id>45c50b621bd781108c5143f3cc4bcbb1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:00</sys_updated_on>
     </sys_claim>
 </record_update>

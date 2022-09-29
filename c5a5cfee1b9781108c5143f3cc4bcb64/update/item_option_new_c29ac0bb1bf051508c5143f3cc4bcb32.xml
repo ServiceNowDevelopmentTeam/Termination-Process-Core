@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>Employee</name>
         <order>0</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-26 15:05:11</sys_created_on>
         <sys_id>c29ac0bb1bf051508c5143f3cc4bcb32</sys_id>
-        <sys_mod_count>4</sys_mod_count>
         <sys_name>Employee</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_c29ac0bb1bf051508c5143f3cc4bcb32</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-15 16:09:47</sys_updated_on>
         <table/>
         <tooltip/>
         <type>19</type>

@@ -47,15 +47,12 @@ function populateDetails(newValue) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7350a35a1bfc19108c5143f3cc4bcbcf</sys_id>
-        <sys_mod_count>17</sys_mod_count>
         <sys_name>Set payroll on company change</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_script_client_7350a35a1bfc19108c5143f3cc4bcbcf</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 14:48:32</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
@@ -72,8 +69,5 @@ function populateDetails(newValue) {
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-22 15:01:57</sys_created_on>
         <sys_id>4d93ef1e1bfc19108c5143f3cc4bcb63</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-07-22 15:01:57</sys_updated_on>
     </sys_claim>
 </record_update>

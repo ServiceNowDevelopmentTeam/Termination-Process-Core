@@ -6,7 +6,6 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
-        <compiler_build>glide-rome-06-23-2021__patch9b-07-19-2022_08-04-2022_2150.zip</compiler_build>
         <copied_from/>
         <copied_from_name/>
         <description/>
@@ -16,6 +15,7 @@
         <name>Get Employee ID(Payroll) Source System</name>
         <natlang/>
         <outputs/>
+        <pre_compiled>false</pre_compiled>
         <remote_trigger_id/>
         <run_as>system</run_as>
         <run_with_roles/>
@@ -29,15 +29,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2f0cdb511b25599062e50ed2cd4bcb64</sys_id>
-        <sys_mod_count>5</sys_mod_count>
         <sys_name>Get Employee ID(Payroll) Source System</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_2f0cdb511b25599062e50ed2cd4bcb64</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:44</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=2f0cdb511b25599062e50ed2cd4bcb64"/>
@@ -90,6 +87,7 @@
         <element>company</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -136,6 +134,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -172,6 +171,7 @@
         <element>output_source_system_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -218,6 +218,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -315,42 +316,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=577c17911b25599062e50ed2cd4bcbac"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>577c17911b25599062e50ed2cd4bcbac</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-25 18:44:08</sys_created_on>
-        <sys_id>d37c17911b25599062e50ed2cd4bcbb2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:08</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_label</field>
-        <id>577c17911b25599062e50ed2cd4bcbac</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-25 18:44:08</sys_created_on>
-        <sys_id>5f7c17911b25599062e50ed2cd4bcbb2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:08</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>577c17911b25599062e50ed2cd4bcbac</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-25 18:44:08</sys_created_on>
-        <sys_id>9b7c17911b25599062e50ed2cd4bcbb2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:08</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>577c17911b25599062e50ed2cd4bcbac</id>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -428,11 +393,11 @@
         <sys_created_on>2022-08-25 18:42:40</sys_created_on>
         <sys_id>3d2c5f511b25599062e50ed2cd4bcbcd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Company</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_2f0cdb511b25599062e50ed2cd4bcb64_company_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-08-25 18:42:40</sys_updated_on>
         <url/>
@@ -453,11 +418,11 @@
         <sys_created_on>2022-08-25 18:43:16</sys_created_on>
         <sys_id>e24c13911b25599062e50ed2cd4bcb5c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Company ID Source System Name</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_2f0cdb511b25599062e50ed2cd4bcb64_output_source_system_name_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-08-25 18:43:16</sys_updated_on>
         <url/>
@@ -570,6 +535,7 @@
         <element>company</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -616,6 +582,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -652,6 +619,7 @@
         <element>output_source_system_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -698,6 +666,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -795,42 +764,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=639cdb911b25599062e50ed2cd4bcb46"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>639cdb911b25599062e50ed2cd4bcb46</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-25 18:44:43</sys_created_on>
-        <sys_id>a79cdb911b25599062e50ed2cd4bcb4b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:43</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_label</field>
-        <id>639cdb911b25599062e50ed2cd4bcb46</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-25 18:44:43</sys_created_on>
-        <sys_id>2f9cdb911b25599062e50ed2cd4bcb4b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:43</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>639cdb911b25599062e50ed2cd4bcb46</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-25 18:44:43</sys_created_on>
-        <sys_id>6b9cdb911b25599062e50ed2cd4bcb4b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:44:43</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>639cdb911b25599062e50ed2cd4bcb46</id>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -908,11 +841,11 @@
         <sys_created_on>2022-08-25 18:44:42</sys_created_on>
         <sys_id>af9cdb911b25599062e50ed2cd4bcb20</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Company</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_ab9c9b911b25599062e50ed2cd4bcbf6_company_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-08-25 18:44:42</sys_updated_on>
         <url/>
@@ -933,19 +866,20 @@
         <sys_created_on>2022-08-25 18:44:42</sys_created_on>
         <sys_id>e39cdb911b25599062e50ed2cd4bcb40</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Company ID Source System Name</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_ab9c9b911b25599062e50ed2cd4bcbf6_output_source_system_name_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-08-25 18:44:42</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_ab9c9b911b25599062e50ed2cd4bcbf6"/>
-    <sys_hub_flow action="update">
+    <sys_hub_flow action="UPDATE">
         <sys_id>2f0cdb511b25599062e50ed2cd4bcb64</sys_id>
         <latest_snapshot>ab9c9b911b25599062e50ed2cd4bcbf6</latest_snapshot>
+        <compiler_build>glide-rome-06-23-2021__patch9b-07-19-2022_08-04-2022_2150.zip</compiler_build>
     </sys_hub_flow>
 </record_update>

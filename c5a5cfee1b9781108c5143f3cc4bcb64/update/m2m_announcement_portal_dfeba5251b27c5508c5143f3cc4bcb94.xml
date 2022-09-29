@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
     <m2m_announcement_portal action="INSERT_OR_UPDATE">
-        <announcement display_value="DEV PORTAL">28d71a581b69c59062e50ed2cd4bcbf3</announcement>
+        <announcement display_value="">28d71a581b69c59062e50ed2cd4bcbf3</announcement>
         <order>100</order>
         <sp_portal display_value="Service Portal">81b75d3147032100ba13a5554ee4902b</sp_portal>
         <sys_class_name>m2m_announcement_portal</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-18 19:05:27</sys_created_on>
         <sys_id>dfeba5251b27c5508c5143f3cc4bcb94</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>DEV PORTAL.Service Portal</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>m2m_announcement_portal_dfeba5251b27c5508c5143f3cc4bcb94</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-18 19:05:27</sys_updated_on>
     </m2m_announcement_portal>
 </record_update>

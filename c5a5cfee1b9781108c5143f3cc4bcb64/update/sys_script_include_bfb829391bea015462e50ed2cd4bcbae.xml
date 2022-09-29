@@ -75,14 +75,11 @@ get_erp_values.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-03-30 20:29:58</sys_created_on>
         <sys_id>bfb829391bea015462e50ed2cd4bcbae</sys_id>
-        <sys_mod_count>47</sys_mod_count>
         <sys_name>get_erp_values</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_script_include_bfb829391bea015462e50ed2cd4bcbae</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-20 17:58:38</sys_updated_on>
     </sys_script_include>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
@@ -94,8 +91,5 @@ get_erp_values.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-25 17:46:55</sys_created_on>
         <sys_id>b216af971b74dd1062e50ed2cd4bcb96</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-07-25 17:46:55</sys_updated_on>
     </sys_claim>
 </record_update>

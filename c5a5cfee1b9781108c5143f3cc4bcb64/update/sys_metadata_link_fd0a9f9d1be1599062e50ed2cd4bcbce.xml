@@ -36,14 +36,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-25 18:33:24</sys_created_on>
         <sys_id>fd0a9f9d1be1599062e50ed2cd4bcbce</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Employee ID Source Lookup_7100</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_metadata_link_fd0a9f9d1be1599062e50ed2cd4bcbce</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:33:24</sys_updated_on>
         <tablename>sys_decision_question</tablename>
     </sys_metadata_link>
 </record_update>

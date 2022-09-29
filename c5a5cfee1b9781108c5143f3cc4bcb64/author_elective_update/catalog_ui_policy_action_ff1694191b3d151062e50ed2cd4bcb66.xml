@@ -51,14 +51,13 @@
         <update_guid_history>3f169419aa3d151029796f1e5ebf0d71:404133316,7f169419703d15104a93a4db8ad4b36a:-1127643805</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="data_needed_onedrive">c417541d1b3d151062e50ed2cd4bcbf1</sys_audit_delete>
+        <sys_audit_delete display_value="">c417541d1b3d151062e50ed2cd4bcbf1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:16</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>0221c3be79db44998009baac058f7421</sys_id>
         <sys_metadata>ff1694191b3d151062e50ed2cd4bcb66</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>data_needed_onedrive</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_ff1694191b3d151062e50ed2cd4bcb66</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_ff1694191b3d151062e50ed2cd4bcb66">7b1694191b3d151062e50ed2cd4bcb72</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:16</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

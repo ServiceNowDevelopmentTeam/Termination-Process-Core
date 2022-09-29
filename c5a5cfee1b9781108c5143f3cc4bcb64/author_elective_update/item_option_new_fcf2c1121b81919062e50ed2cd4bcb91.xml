@@ -156,14 +156,13 @@
         <update_guid_history>b8f2c112ca81919065405f02cf9bba9b:1791435844</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Does employee have a company cell phone">4369c1da1b81919062e50ed2cd4bcb25</sys_audit_delete>
+        <sys_audit_delete display_value="">4369c1da1b81919062e50ed2cd4bcb25</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:04:08</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>ab7542f4f055404c904a0ca4da345c31</sys_id>
         <sys_metadata>fcf2c1121b81919062e50ed2cd4bcb91</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Does employee have a company cell phone</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">60f281121b81919062e50ed2cd4bcb6d</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_fcf2c1121b81919062e50ed2cd4bcb91</sys_update_name>
         <sys_update_version display_value="item_option_new_fcf2c1121b81919062e50ed2cd4bcb91">74f2c1121b81919062e50ed2cd4bcb9c</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:04:08</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

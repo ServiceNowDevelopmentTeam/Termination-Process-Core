@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>turn_on_out_of_office_automatic_reply</name>
         <order>3125</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2021-09-29 20:02:47</sys_created_on>
         <sys_id>9d71dc9f1b76381062e50ed2cd4bcb04</sys_id>
-        <sys_mod_count>5</sys_mod_count>
         <sys_name>Turn on out of office automatic reply?</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_9d71dc9f1b76381062e50ed2cd4bcb04</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-25 18:55:45</sys_updated_on>
         <table/>
         <tooltip/>
         <type>1</type>
@@ -140,8 +138,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:32</sys_created_on>
         <sys_id>4de503e21bd781108c5143f3cc4bcbe2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:32</sys_updated_on>
     </sys_claim>
 </record_update>

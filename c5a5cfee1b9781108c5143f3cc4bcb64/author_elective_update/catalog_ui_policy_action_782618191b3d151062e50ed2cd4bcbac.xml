@@ -51,14 +51,13 @@
         <update_guid_history>b4261819a43d1510a61e074f735b01b7:1641217718,f4261819f43d1510daac9f5ff0fdd3b0:14400940</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="desk_phone_number_if_known">f607901d1b3d151062e50ed2cd4bcbd8</sys_audit_delete>
+        <sys_audit_delete display_value="">f607901d1b3d151062e50ed2cd4bcbd8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:11</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>1dd19a4c77de4f6e8d3cbfea6277dde4</sys_id>
         <sys_metadata>782618191b3d151062e50ed2cd4bcbac</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>desk_phone_number_if_known</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_782618191b3d151062e50ed2cd4bcbac</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_782618191b3d151062e50ed2cd4bcbac">f02618191b3d151062e50ed2cd4bcbb8</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:11</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

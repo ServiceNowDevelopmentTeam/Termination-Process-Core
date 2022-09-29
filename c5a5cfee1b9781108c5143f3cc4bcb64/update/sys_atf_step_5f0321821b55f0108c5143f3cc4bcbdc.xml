@@ -8,20 +8,16 @@
         <mugshots_cache_json/>
         <notes/>
         <order>4</order>
-        <snapshot/>
         <step_config display_value="Open a Catalog Item (SP)">e81f02dc73e703008e6b0d573cf6a76f</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2021-07-13 15:11:08</sys_created_on>
         <sys_id>5f0321821b55f0108c5143f3cc4bcbdc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
         <sys_name>Open a Catalog Item (SP)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_atf_step_5f0321821b55f0108c5143f3cc4bcbdc</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-23 19:19:49</sys_updated_on>
         <table/>
         <test display_value="TC - 41 - Employee Termination - Submit Validation - SP">ff422d021b55f0108c5143f3cc4bcb70</test>
         <timeout/>
@@ -95,8 +91,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-23 19:20:13</sys_created_on>
         <sys_id>26da387e1b4695508c5143f3cc4bcb66</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-23 19:20:13</sys_updated_on>
     </sys_claim>
 </record_update>

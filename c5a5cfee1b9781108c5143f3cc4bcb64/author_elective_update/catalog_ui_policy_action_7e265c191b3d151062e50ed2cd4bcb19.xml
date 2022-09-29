@@ -51,14 +51,13 @@
         <update_guid_history>c3265c19e03d15106d4f85db8b4df931:-1476146754,7e265c19733d15106fbedebabca8a31d:1654986457</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="what_time_is_payoff_needed">b607d01d1b3d151062e50ed2cd4bcb0a</sys_audit_delete>
+        <sys_audit_delete display_value="">b607d01d1b3d151062e50ed2cd4bcb0a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:11</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>949a7a8efdd447f59e226ddec078a5a9</sys_id>
         <sys_metadata>7e265c191b3d151062e50ed2cd4bcb19</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>what_time_is_payoff_needed</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_7e265c191b3d151062e50ed2cd4bcb19</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_7e265c191b3d151062e50ed2cd4bcb19">03265c191b3d151062e50ed2cd4bcb32</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:11</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

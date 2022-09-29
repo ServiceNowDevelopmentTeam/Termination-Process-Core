@@ -156,14 +156,13 @@
         <update_guid_history>ab061019d23d15103ace4a0423104418:-1023578324</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Car allowance amount to be paid is confirmed; if applicable">46371c5d1b3d151062e50ed2cd4bcb6d</sys_audit_delete>
+        <sys_audit_delete display_value="">46371c5d1b3d151062e50ed2cd4bcb6d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:57</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>1b3e23b0ea47456f869676fb189102d9</sys_id>
         <sys_metadata>e30610191b3d151062e50ed2cd4bcb09</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Car allowance amount to be paid is confirmed; if applicable</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_e30610191b3d151062e50ed2cd4bcb09</sys_update_name>
         <sys_update_version display_value="item_option_new_e30610191b3d151062e50ed2cd4bcb09">670610191b3d151062e50ed2cd4bcb19</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:57</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

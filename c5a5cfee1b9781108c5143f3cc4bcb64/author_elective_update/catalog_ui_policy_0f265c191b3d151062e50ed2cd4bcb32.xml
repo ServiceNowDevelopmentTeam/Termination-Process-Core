@@ -81,14 +81,13 @@
         <update_guid_history>4b265c19fb3d1510dcc413c3db146436:1737593054</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="if worker type = employee">3207901d1b3d151062e50ed2cd4bcbb1</sys_audit_delete>
+        <sys_audit_delete display_value="">3207901d1b3d151062e50ed2cd4bcbb1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:11</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
         <sys_id>3928bb401f934da0a60918082bd84400</sys_id>
         <sys_metadata>0f265c191b3d151062e50ed2cd4bcb32</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>if worker type = employee</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -97,7 +96,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_0f265c191b3d151062e50ed2cd4bcb32</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_0f265c191b3d151062e50ed2cd4bcb32">07265c191b3d151062e50ed2cd4bcb37</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:11</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

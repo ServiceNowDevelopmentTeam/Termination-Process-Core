@@ -156,14 +156,13 @@
         <update_guid_history>adf20512c18191900a73dce4fa1f9389:-1369480564</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Does the employee have a company mobile device (cell phone, hot spot, tablet)?">59f8819a1b81919062e50ed2cd4bcb9b</sys_audit_delete>
+        <sys_audit_delete display_value="">59f8819a1b81919062e50ed2cd4bcb9b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:02:06</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>39aba3ce4f7a4838ac37b785dc720010</sys_id>
         <sys_metadata>a5f205121b81919062e50ed2cd4bcb7d</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Does the employee have a company mobile device (cell phone, hot spot, tablet)?</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">60f281121b81919062e50ed2cd4bcb6d</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_a5f205121b81919062e50ed2cd4bcb7d</sys_update_name>
         <sys_update_version display_value="item_option_new_a5f205121b81919062e50ed2cd4bcb7d">69f205121b81919062e50ed2cd4bcb8a</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:02:06</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

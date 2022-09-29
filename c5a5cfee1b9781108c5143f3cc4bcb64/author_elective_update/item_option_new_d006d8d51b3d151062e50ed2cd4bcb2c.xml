@@ -156,14 +156,13 @@
         <update_guid_history>9806d8d58c3d151070b5a01ce98fbe35:-1886868599</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Eligible for rehire">5937985d1b3d151062e50ed2cd4bcb53</sys_audit_delete>
+        <sys_audit_delete display_value="">5937985d1b3d151062e50ed2cd4bcb53</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:54</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>27e538b9b5b64e6e8bd3489f78675a44</sys_id>
         <sys_metadata>d006d8d51b3d151062e50ed2cd4bcb2c</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Eligible for rehire</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_d006d8d51b3d151062e50ed2cd4bcb2c</sys_update_name>
         <sys_update_version display_value="item_option_new_d006d8d51b3d151062e50ed2cd4bcb2c">5406d8d51b3d151062e50ed2cd4bcb36</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:54</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

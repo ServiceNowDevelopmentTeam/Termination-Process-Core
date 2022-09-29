@@ -82,14 +82,13 @@
         <update_guid_history>a4165019923d151005eb6f176b808ae6:1199879599</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Union suspension or termination (U)">3bb6dc991b3d151062e50ed2cd4bcb2f</sys_audit_delete>
+        <sys_audit_delete display_value="">3bb6dc991b3d151062e50ed2cd4bcb2f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-09-06 14:35:53</sys_created_on>
         <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
         <sys_id>40b379f206e148c0a0dea9b79f631000</sys_id>
         <sys_metadata>a01650191b3d151062e50ed2cd4bcbe1</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Union suspension or termination (U)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">8c1650191b3d151062e50ed2cd4bcb13</sys_parent>
@@ -98,7 +97,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>question_choice_a01650191b3d151062e50ed2cd4bcbe1</sys_update_name>
         <sys_update_version display_value="question_choice_a01650191b3d151062e50ed2cd4bcbe1">601650191b3d151062e50ed2cd4bcbe7</sys_update_version>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:35:53</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -41,14 +41,13 @@
         <update_guid_history>aebff678931999105da0affae6ea9f95:1006930843</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Marketing.iNSIDE APi Change Request">6bae9b741b1d991062e50ed2cd4bcbb8</sys_audit_delete>
+        <sys_audit_delete display_value="">6bae9b741b1d991062e50ed2cd4bcbb8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-08-11 19:21:04</sys_created_on>
         <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
         <sys_id>0803c53bfa1f49d5822a3c8bb66da951</sys_id>
         <sys_metadata>6abff6781b19991062e50ed2cd4bcb91</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Marketing.iNSIDE APi Change Request</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -57,7 +56,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>sc_cat_item_category_6abff6781b19991062e50ed2cd4bcb91</sys_update_name>
         <sys_update_version display_value="sc_cat_item_category_6abff6781b19991062e50ed2cd4bcb91">a6bff6781b19991062e50ed2cd4bcb96</sys_update_version>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-08-11 19:21:04</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

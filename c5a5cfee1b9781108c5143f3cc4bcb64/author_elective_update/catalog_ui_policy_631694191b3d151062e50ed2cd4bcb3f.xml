@@ -77,14 +77,13 @@
         <update_guid_history>eb1694191a3d1510d5a57f7d44884044:-2078608639</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="inVoluntary">7707141d1b3d151062e50ed2cd4bcb95</sys_audit_delete>
+        <sys_audit_delete display_value="">7707141d1b3d151062e50ed2cd4bcb95</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:15</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
         <sys_id>040845ec944e4ec6a6a40105be79f759</sys_id>
         <sys_metadata>631694191b3d151062e50ed2cd4bcb3f</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>inVoluntary</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -93,7 +92,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_631694191b3d151062e50ed2cd4bcb3f</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_631694191b3d151062e50ed2cd4bcb3f">a71694191b3d151062e50ed2cd4bcb45</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:15</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

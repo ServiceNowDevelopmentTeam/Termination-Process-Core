@@ -156,14 +156,13 @@
         <update_guid_history>1706dcd5c73d15100c98d2cbffa8e5e6:-1241180199</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Carrier">10d6d4d91b3d151062e50ed2cd4bcb4b</sys_audit_delete>
+        <sys_audit_delete display_value="">10d6d4d91b3d151062e50ed2cd4bcb4b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-09-06 14:36:12</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>3c4373ff627740619718d9cbcfb5fe41</sys_id>
         <sys_metadata>5706dcd51b3d151062e50ed2cd4bcbca</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Carrier</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_5706dcd51b3d151062e50ed2cd4bcbca</sys_update_name>
         <sys_update_version display_value="item_option_new_5706dcd51b3d151062e50ed2cd4bcbca">df06dcd51b3d151062e50ed2cd4bcbe6</sys_update_version>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:36:12</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

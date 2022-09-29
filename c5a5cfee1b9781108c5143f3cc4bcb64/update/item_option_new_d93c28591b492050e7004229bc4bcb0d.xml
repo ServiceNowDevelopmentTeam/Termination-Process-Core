@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>Person_Leaving</name>
         <order>175</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -80,14 +81,11 @@
         <sys_created_by>kirolos.iskander@cdw.com</sys_created_by>
         <sys_created_on>2020-12-11 20:50:41</sys_created_on>
         <sys_id>d93c28591b492050e7004229bc4bcb0d</sys_id>
-        <sys_mod_count>22</sys_mod_count>
         <sys_name>Person Leaving</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_d93c28591b492050e7004229bc4bcb0d</sys_update_name>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-08-24 14:40:17</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
@@ -152,8 +150,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:47</sys_created_on>
         <sys_id>68f50fe21bd781108c5143f3cc4bcb3e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:47</sys_updated_on>
     </sys_claim>
 </record_update>

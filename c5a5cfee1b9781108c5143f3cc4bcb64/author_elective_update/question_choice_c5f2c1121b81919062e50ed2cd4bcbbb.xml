@@ -82,14 +82,13 @@
         <update_guid_history>c1f2c112a181919094039e2000f170c1:1016523381</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Non-Union">366981da1b81919062e50ed2cd4bcbc4</sys_audit_delete>
+        <sys_audit_delete display_value="">366981da1b81919062e50ed2cd4bcbc4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:04:07</sys_created_on>
         <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
         <sys_id>214e65f23365429ea1fe1e14f8dd0404</sys_id>
         <sys_metadata>c5f2c1121b81919062e50ed2cd4bcbbb</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Non-Union</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -98,7 +97,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>question_choice_c5f2c1121b81919062e50ed2cd4bcbbb</sys_update_name>
         <sys_update_version display_value="question_choice_c5f2c1121b81919062e50ed2cd4bcbbb">8df2c1121b81919062e50ed2cd4bcbc1</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:04:07</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

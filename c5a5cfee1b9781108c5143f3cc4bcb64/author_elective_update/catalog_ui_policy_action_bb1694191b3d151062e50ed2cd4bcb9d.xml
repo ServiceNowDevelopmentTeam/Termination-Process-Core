@@ -51,14 +51,13 @@
         <update_guid_history>bf169419dc3d1510dfc27171ff927eb4:916013596,ff1694198e3d1510c3daa0a70c328bad:1236461879</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Person_Leaving">f307141d1b3d151062e50ed2cd4bcbd6</sys_audit_delete>
+        <sys_audit_delete display_value="">f307141d1b3d151062e50ed2cd4bcbd6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:15</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>9d30e80d2efc4260b7824a63d473bfa4</sys_id>
         <sys_metadata>bb1694191b3d151062e50ed2cd4bcb9d</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Person_Leaving</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_bb1694191b3d151062e50ed2cd4bcb9d</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_bb1694191b3d151062e50ed2cd4bcb9d">fb1694191b3d151062e50ed2cd4bcbb5</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:15</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

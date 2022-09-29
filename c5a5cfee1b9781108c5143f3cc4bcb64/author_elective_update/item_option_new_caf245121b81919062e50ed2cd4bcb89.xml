@@ -143,7 +143,7 @@
         <reverted_from/>
         <source>42252f9c1b98d91062e50ed2cd4bcb20</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 13:35:56</sys_created_on>
         <sys_id>c2f245121b81919062e50ed2cd4bcb98</sys_id>
@@ -156,14 +156,13 @@
         <update_guid_history>0af24512768191908501b95baa3e7297:-545418451</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Employee has a company email address">96f8059a1b81919062e50ed2cd4bcb7b</sys_audit_delete>
+        <sys_audit_delete display_value="">96f8059a1b81919062e50ed2cd4bcb7b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:02:10</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>242380b32baf4e4a9d4903ec75145f44</sys_id>
         <sys_metadata>caf245121b81919062e50ed2cd4bcb89</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee has a company email address</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">60f281121b81919062e50ed2cd4bcb6d</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_caf245121b81919062e50ed2cd4bcb89</sys_update_name>
         <sys_update_version display_value="item_option_new_caf245121b81919062e50ed2cd4bcb89">c2f245121b81919062e50ed2cd4bcb98</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:02:10</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

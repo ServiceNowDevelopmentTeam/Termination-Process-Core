@@ -156,14 +156,13 @@
         <update_guid_history>7f061019e73d1510d0e79ad89fe1d3ad:45187578</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Is the employee a CRM user">b127d05d1b3d151062e50ed2cd4bcb68</sys_audit_delete>
+        <sys_audit_delete display_value="">b127d05d1b3d151062e50ed2cd4bcb68</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:39</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>16ed5f37cec045409aa7477903253100</sys_id>
         <sys_metadata>7b0610191b3d151062e50ed2cd4bcb6c</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Is the employee a CRM user</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_7b0610191b3d151062e50ed2cd4bcb6c</sys_update_name>
         <sys_update_version display_value="item_option_new_7b0610191b3d151062e50ed2cd4bcb6c">3b0610191b3d151062e50ed2cd4bcbae</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:39</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

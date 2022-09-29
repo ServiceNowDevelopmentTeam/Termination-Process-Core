@@ -217,14 +217,13 @@
         <update_guid_history>4e961c59493d1510e864586a1c604270:117897866,33269c19dc3d1510f0ca566e3cac343f:44639068,0c0698d5dc3d15103018d35733eeddb5:912878262</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Employee Termination">d337109d1b3d151062e50ed2cd4bcb5d</sys_audit_delete>
+        <sys_audit_delete display_value="">d337109d1b3d151062e50ed2cd4bcb5d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:38:03</sys_created_on>
         <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
         <sys_id>5d267778e61f4e7396a63b598a7b0571</sys_id>
         <sys_metadata>b7f598d51b3d151062e50ed2cd4bcb9f</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee Termination</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -233,7 +232,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>sc_cat_item_b7f598d51b3d151062e50ed2cd4bcb9f</sys_update_name>
         <sys_update_version display_value="sc_cat_item_b7f598d51b3d151062e50ed2cd4bcb9f">ca961c591b3d151062e50ed2cd4bcb71</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:38:03</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

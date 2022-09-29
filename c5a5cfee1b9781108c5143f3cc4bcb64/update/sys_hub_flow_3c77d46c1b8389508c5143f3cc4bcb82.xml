@@ -17,6 +17,7 @@
         <name>Copy of Company specific tasks</name>
         <natlang/>
         <outputs/>
+        <pre_compiled>false</pre_compiled>
         <remote_trigger_id/>
         <run_as>system</run_as>
         <run_with_roles/>
@@ -30,15 +31,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3c77d46c1b8389508c5143f3cc4bcb82</sys_id>
-        <sys_mod_count>2</sys_mod_count>
         <sys_name>Copy of Company specific tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_3c77d46c1b8389508c5143f3cc4bcb82</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:57:07</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=3c77d46c1b8389508c5143f3cc4bcb82"/>
@@ -53,9 +51,6 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:57:07</sys_created_on>
         <sys_id>e1060f261bd781108c5143f3cc4bcbc9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:57:07</sys_updated_on>
     </sys_claim>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=3c77d46c1b8389508c5143f3cc4bcb82"/>
     <sys_hub_flow_stage action="delete_multiple" query="flow=3c77d46c1b8389508c5143f3cc4bcb82"/>
@@ -104,6 +99,7 @@
         <element>generic_description</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -150,6 +146,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -185,6 +182,7 @@
         <element>seco</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -231,6 +229,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -266,6 +265,7 @@
         <element>employee_type</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -312,6 +312,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -347,6 +348,7 @@
         <element>short_description</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -393,6 +395,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -428,6 +431,7 @@
         <element>targeted_user</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -474,6 +478,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -509,6 +514,7 @@
         <element>parent_ritm</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -555,6 +561,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -590,6 +597,7 @@
         <element>company</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -636,6 +644,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -1641,9 +1650,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=8577d46c1b8389508c5143f3cc4bcbfc"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="validate has roles">616b19d61b6d091062e50ed2cd4bcbf3</action_type>
-        <action_type_parent display_value="validate has roles">658a91561b6d091062e50ed2cd4bcb5e</action_type_parent>
+        <action_type display_value="">616b19d61b6d091062e50ed2cd4bcbf3</action_type>
+        <action_type_parent display_value="">658a91561b6d091062e50ed2cd4bcb5e</action_type_parent>
         <comment/>
         <compiled_snapshot>616b19d61b6d091062e50ed2cd4bcbf3</compiled_snapshot>
         <display_text/>
@@ -1661,19 +1669,6 @@
         <ui_id>557eacf1-571b-4dff-978a-81b19d3e3701</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9177186c1b8389508c5143f3cc4bcb28"/>
-    <sys_element_mapping action="delete_multiple" query="id=9177186c1b8389508c5143f3cc4bcb28"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>user_ref</field>
-        <id>9177186c1b8389508c5143f3cc4bcb28</id>
-        <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-04-20 13:50:53</sys_created_on>
-        <sys_id>5577186c1b8389508c5143f3cc4bcb29</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-04-20 13:50:53</sys_updated_on>
-        <table>var__m_sys_hub_action_input_616b19d61b6d091062e50ed2cd4bcbf3</table>
-        <value>{{subflow.targeted_user}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=9177186c1b8389508c5143f3cc4bcb28"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=9177186c1b8389508c5143f3cc4bcb28"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -2071,6 +2066,7 @@
         <element>wait_for_completion</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -2117,6 +2113,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -2427,42 +2424,6 @@
         <variable display_value="Decision Table">a9a0bc2b0b2313009002cab937673ac6</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=8177d46c1b8389508c5143f3cc4bcbca"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>8177d46c1b8389508c5143f3cc4bcbca</id>
-        <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-04-20 13:50:52</sys_created_on>
-        <sys_id>4177d46c1b8389508c5143f3cc4bcbcf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-04-20 13:50:52</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>8177d46c1b8389508c5143f3cc4bcbca</id>
-        <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-04-20 13:50:52</sys_created_on>
-        <sys_id>0577d46c1b8389508c5143f3cc4bcbcf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-04-20 13:50:52</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>execution</field>
-        <id>8177d46c1b8389508c5143f3cc4bcbca</id>
-        <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-04-20 13:50:52</sys_created_on>
-        <sys_id>8d77d46c1b8389508c5143f3cc4bcbce</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-04-20 13:50:52</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>8177d46c1b8389508c5143f3cc4bcbca</id>
@@ -2972,7 +2933,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>4577d46c1b8389508c5143f3cc4bcbbd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>targeted user</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -2995,7 +2956,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>4d77d46c1b8389508c5143f3cc4bcbc3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>generic_description</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -3018,7 +2979,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>b477d46c1b8389508c5143f3cc4bcba5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>seco</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -3041,7 +3002,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>b477d46c1b8389508c5143f3cc4bcbb2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>employee type</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -3064,7 +3025,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>bc77d46c1b8389508c5143f3cc4bcb9e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>parent_ritm</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -3087,7 +3048,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>bc77d46c1b8389508c5143f3cc4bcbab</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>short description</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>
@@ -3110,7 +3071,7 @@
         <sys_created_on>2022-04-20 13:50:51</sys_created_on>
         <sys_id>fc77d46c1b8389508c5143f3cc4bcb93</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>company</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Global">global</sys_scope>

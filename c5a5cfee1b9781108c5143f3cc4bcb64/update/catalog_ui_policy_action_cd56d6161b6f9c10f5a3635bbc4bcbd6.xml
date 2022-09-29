@@ -11,14 +11,11 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 17:32:39</sys_created_on>
         <sys_id>cd56d6161b6f9c10f5a3635bbc4bcbd6</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>if_car_allowance_enter_car_allowance_amount</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_cd56d6161b6f9c10f5a3635bbc4bcbd6</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-11 19:38:05</sys_updated_on>
         <table/>
         <ui_policy display_value="If car allowance - Enter car allowance amount = Yes">b93656161b6f9c10f5a3635bbc4bcbe3</ui_policy>
         <variable>if_car_allowance_enter_car_allowance_amount</variable>
@@ -35,8 +32,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-11 19:38:05</sys_created_on>
         <sys_id>89922fbc1b91d5108c5143f3cc4bcbb6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-11 19:38:05</sys_updated_on>
     </sys_claim>
 </record_update>

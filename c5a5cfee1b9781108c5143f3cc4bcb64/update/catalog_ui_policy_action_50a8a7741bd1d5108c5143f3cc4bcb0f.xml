@@ -11,14 +11,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-11 20:04:48</sys_created_on>
         <sys_id>50a8a7741bd1d5108c5143f3cc4bcb0f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>last_day_worked</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_50a8a7741bd1d5108c5143f3cc4bcb0f</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-11 20:04:48</sys_updated_on>
         <table/>
         <ui_policy display_value="If Worker Type = Independent Contractor">aab609ce1b5df810e7004229bc4bcbfe</ui_policy>
         <variable>last_day_worked</variable>

@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>term_actions_taken</name>
         <order>3145</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -69,14 +70,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-28 14:25:47</sys_created_on>
         <sys_id>fa641e1c1bcd555062e50ed2cd4bcbd0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
         <sys_name>term_actions_taken</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_fa641e1c1bcd555062e50ed2cd4bcbd0</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:51:59</sys_updated_on>
         <table/>
         <tooltip/>
         <type>32</type>

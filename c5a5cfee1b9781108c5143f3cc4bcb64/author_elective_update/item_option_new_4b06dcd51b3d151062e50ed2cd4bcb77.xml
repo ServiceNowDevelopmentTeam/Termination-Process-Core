@@ -168,14 +168,13 @@ Thank you. &amp;#13;
         <update_guid_history>0b06dcd5703d15107f3428722179a586:403397939</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Example">18279c1d1b3d151062e50ed2cd4bcb7b</sys_audit_delete>
+        <sys_audit_delete display_value="">18279c1d1b3d151062e50ed2cd4bcb7b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:33</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>7c97717086cc418bbdce0057d1be2771</sys_id>
         <sys_metadata>4b06dcd51b3d151062e50ed2cd4bcb77</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Example</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -184,7 +183,5 @@ Thank you. &amp;#13;
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_4b06dcd51b3d151062e50ed2cd4bcb77</sys_update_name>
         <sys_update_version display_value="item_option_new_4b06dcd51b3d151062e50ed2cd4bcb77">c306dcd51b3d151062e50ed2cd4bcb87</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:33</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

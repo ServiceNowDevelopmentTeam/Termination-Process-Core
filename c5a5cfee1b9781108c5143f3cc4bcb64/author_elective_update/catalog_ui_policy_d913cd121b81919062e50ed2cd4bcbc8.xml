@@ -77,14 +77,13 @@
         <update_guid_history>9513cd1200819190db1c9324eed516cd:-151639877</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="worker type (email status) is employee (with or without email)">0bd8c55a1b81919062e50ed2cd4bcb40</sys_audit_delete>
+        <sys_audit_delete display_value="">0bd8c55a1b81919062e50ed2cd4bcb40</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:01:40</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
         <sys_id>2401218e8e5c4ac09a09f426874df510</sys_id>
         <sys_metadata>d913cd121b81919062e50ed2cd4bcbc8</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>worker type (email status) is employee (with or without email)</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -93,7 +92,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_d913cd121b81919062e50ed2cd4bcbc8</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_d913cd121b81919062e50ed2cd4bcbc8">5113cd121b81919062e50ed2cd4bcbce</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:01:40</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

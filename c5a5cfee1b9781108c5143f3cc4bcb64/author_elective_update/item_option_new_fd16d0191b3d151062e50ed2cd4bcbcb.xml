@@ -156,14 +156,13 @@
         <update_guid_history>8e16d019753d1510f0ba985d261a8cdc:1553708298</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="follow_up_with_hr">c737dc5d1b3d151062e50ed2cd4bcb2d</sys_audit_delete>
+        <sys_audit_delete display_value="">c737dc5d1b3d151062e50ed2cd4bcb2d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:38:01</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>04370d649eb74a8690d4d1cad916fa04</sys_id>
         <sys_metadata>fd16d0191b3d151062e50ed2cd4bcbcb</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>follow_up_with_hr</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_fd16d0191b3d151062e50ed2cd4bcbcb</sys_update_name>
         <sys_update_version display_value="item_option_new_fd16d0191b3d151062e50ed2cd4bcbcb">4a16d0191b3d151062e50ed2cd4bcbdd</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:38:01</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -156,14 +156,13 @@
         <update_guid_history>4e065cd5ba3d15101c23d245cc79c8cf:-1477992764</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Account types">88279c1d1b3d151062e50ed2cd4bcb2b</sys_audit_delete>
+        <sys_audit_delete display_value="">88279c1d1b3d151062e50ed2cd4bcb2b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:32</sys_created_on>
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>5728ed35def943f5bd17733b070486c9</sys_id>
         <sys_metadata>46065cd51b3d151062e50ed2cd4bcbc2</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Account types</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -172,7 +171,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_46065cd51b3d151062e50ed2cd4bcbc2</sys_update_name>
         <sys_update_version display_value="item_option_new_46065cd51b3d151062e50ed2cd4bcbc2">0a065cd51b3d151062e50ed2cd4bcbd0</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:32</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -90,15 +90,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b610f1541b9038108c5143f3cc4bcb12</sys_id>
-        <sys_mod_count>62</sys_mod_count>
         <sys_name>Get Employee Info and AutoFill</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_script_client_b610f1541b9038108c5143f3cc4bcb12</sys_update_name>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-08-11 19:06:29</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
@@ -115,8 +112,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-22 15:01:57</sys_created_on>
         <sys_id>0d93ef1e1bfc19108c5143f3cc4bcb74</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-07-22 15:01:57</sys_updated_on>
     </sys_claim>
 </record_update>

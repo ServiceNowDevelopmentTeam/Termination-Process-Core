@@ -93,14 +93,13 @@
         <update_guid_history>883cd4abd778dd102b90e4bf306e8e91:-538869924,6bcb5c6b9878dd1025b336a6cf2df22e:-1457685462,b49bd86bd278dd10b1e129151b4c42a7:1595403282,096bd46bf878dd10f2b658c05b63ff88:1994068464,b52b906b2978dd10026f07b195ecb370:-114810486,52ea102bdc78dd10883d833b0320bb4b:-1803616415,f75ad02b3f78dd10b263085bc463466d:1513933304,653a14e74778dd10600d22f1f5e569d2:-782020073,f01a5ce73278dd104effbdf514a42662:-1363164284,8899d8a79278dd10b4853638a7d45996:-948420367,4b491ca78778dd10ff98671d7d60bc97:739207411,f03954676078dd10dab3e7079f9b7a8a:-1505185387,1a489467bd78dd1036055fc05f22f533:9031763,f52814676d78dd1091e5ee740af86826:1104198082,3bc75827aa78dd109d73ca2352540cd1:1894959849,7dc718270878dd10cd20b5932a437dfe:-1156282227,d797dce35778dd10f048bbd0244d8855:-732513248,b01798e3b778dd104529efca513d0974:-820938044,52f6d4e3bb78dd10db60954661fc50f9:1084814841,e4c6d0e3e478dd10ccc0c7f293d72401:-1580656577,c92690a38778dd103cd400104453aeaa:991326281</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Set employee number on employee change">3b2284731b7051508c5143f3cc4bcbc6</sys_audit_delete>
+        <sys_audit_delete display_value="">3b2284731b7051508c5143f3cc4bcbc6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-07-26 14:28:04</sys_created_on>
         <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
         <sys_id>58b3801f0b5d49d1947f33274224c379</sys_id>
         <sys_metadata>aa06d0a31b78dd1062e50ed2cd4bcb81</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Set employee number on employee change</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -109,7 +108,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_script_client_aa06d0a31b78dd1062e50ed2cd4bcb81</sys_update_name>
         <sys_update_version display_value="catalog_script_client_aa06d0a31b78dd1062e50ed2cd4bcb81">043cd4ab1b78dd1062e50ed2cd4bcb92</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-07-26 14:28:04</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

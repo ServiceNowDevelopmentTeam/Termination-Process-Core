@@ -8,14 +8,11 @@
         <sys_created_by>kirolos.iskander@cdw.com</sys_created_by>
         <sys_created_on>2020-10-27 01:23:12</sys_created_on>
         <sys_id>32c170ae1bcca450e7004229bc4bcbf8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>Voluntary</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>question_choice_32c170ae1bcca450e7004229bc4bcbf8</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:58</sys_updated_on>
         <text>Voluntary</text>
         <value>Voluntary</value>
     </question_choice>
@@ -64,8 +61,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:58</sys_created_on>
         <sys_id>d7f547261bd781108c5143f3cc4bcb52</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:58</sys_updated_on>
     </sys_claim>
 </record_update>

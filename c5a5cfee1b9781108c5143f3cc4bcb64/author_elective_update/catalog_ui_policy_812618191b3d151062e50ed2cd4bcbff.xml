@@ -77,14 +77,13 @@
         <update_guid_history>85265819913d15106692e3311ff0f20f:724509924</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Employee Type Mandatory only on portal">bb07141d1b3d151062e50ed2cd4bcbf4</sys_audit_delete>
+        <sys_audit_delete display_value="">bb07141d1b3d151062e50ed2cd4bcbf4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:15</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
         <sys_id>19e398ead2bd4acf86d85522cc3a8d69</sys_id>
         <sys_metadata>812618191b3d151062e50ed2cd4bcbff</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee Type Mandatory only on portal</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -93,7 +92,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_812618191b3d151062e50ed2cd4bcbff</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_812618191b3d151062e50ed2cd4bcbff">412658191b3d151062e50ed2cd4bcb10</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:15</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

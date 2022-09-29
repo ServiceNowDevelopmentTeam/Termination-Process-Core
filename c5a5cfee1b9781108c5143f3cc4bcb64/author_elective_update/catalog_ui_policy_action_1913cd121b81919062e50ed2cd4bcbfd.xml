@@ -51,14 +51,13 @@
         <update_guid_history>51130152e3819190c2ed071b3599410a:139265001,1513015202819190d4ead49bd2f32102:1241326466</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="mobile_number">d2d8855a1b81919062e50ed2cd4bcb01</sys_audit_delete>
+        <sys_audit_delete display_value="">d2d8855a1b81919062e50ed2cd4bcb01</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:01:38</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>0671c49fd1ed4dc180950b68e7d80751</sys_id>
         <sys_metadata>1913cd121b81919062e50ed2cd4bcbfd</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile_number</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_1913cd121b81919062e50ed2cd4bcbfd</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_1913cd121b81919062e50ed2cd4bcbfd">9d1301521b81919062e50ed2cd4bcb0a</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:01:38</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -77,14 +77,13 @@
         <update_guid_history>1113cd12d08191902bcd476f2f30f1ee:-47699352</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="If employee has mobile device">2ed8855a1b81919062e50ed2cd4bcb0a</sys_audit_delete>
+        <sys_audit_delete display_value="">2ed8855a1b81919062e50ed2cd4bcb0a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:01:38</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
         <sys_id>28711c65d7fe4395a46304e47632a4b1</sys_id>
         <sys_metadata>9d13cd121b81919062e50ed2cd4bcbdc</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>If employee has mobile device</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -93,7 +92,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_9d13cd121b81919062e50ed2cd4bcbdc</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_9d13cd121b81919062e50ed2cd4bcbdc">d913cd121b81919062e50ed2cd4bcbee</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:01:38</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

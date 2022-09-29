@@ -10,14 +10,11 @@
         <sys_created_by>bj.strohl</sys_created_by>
         <sys_created_on>2021-05-17 20:26:00</sys_created_on>
         <sys_id>1b6889f31b4834108c5143f3cc4bcbfd</sys_id>
-        <sys_mod_count>3</sys_mod_count>
         <sys_name>DA Account</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>question_choice_1b6889f31b4834108c5143f3cc4bcbfd</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:57</sys_updated_on>
         <text>DA Account</text>
         <value>DA Account</value>
     </question_choice>
@@ -66,8 +63,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:57</sys_created_on>
         <sys_id>07f507261bd781108c5143f3cc4bcba9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-05-09 17:56:57</sys_updated_on>
     </sys_claim>
 </record_update>

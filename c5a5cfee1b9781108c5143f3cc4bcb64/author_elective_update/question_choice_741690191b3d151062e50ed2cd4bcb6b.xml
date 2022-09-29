@@ -82,14 +82,13 @@
         <update_guid_history>b8169019513d15105456e9b79dc44270:-1733747809</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Yes">8bb65c991b3d151062e50ed2cd4bcbfb</sys_audit_delete>
+        <sys_audit_delete display_value="">8bb65c991b3d151062e50ed2cd4bcbfb</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-09-06 14:35:51</sys_created_on>
         <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
         <sys_id>2281a617811841a887b3a89764ad7a10</sys_id>
         <sys_metadata>741690191b3d151062e50ed2cd4bcb6b</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Yes</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">341690191b3d151062e50ed2cd4bcb4d</sys_parent>
@@ -98,7 +97,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>question_choice_741690191b3d151062e50ed2cd4bcb6b</sys_update_name>
         <sys_update_version display_value="question_choice_741690191b3d151062e50ed2cd4bcb6b">741690191b3d151062e50ed2cd4bcb71</sys_update_version>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:35:51</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

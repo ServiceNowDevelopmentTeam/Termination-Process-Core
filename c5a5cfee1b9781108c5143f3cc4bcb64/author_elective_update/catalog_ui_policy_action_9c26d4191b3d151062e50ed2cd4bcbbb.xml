@@ -51,14 +51,13 @@
         <update_guid_history>e826d4196f3d151039ca18f35c2975c6:290870276,1c26d4198e3d15103f77b182ac4d47bf:815645226</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="employees_manager">e707141d1b3d151062e50ed2cd4bcb50</sys_audit_delete>
+        <sys_audit_delete display_value="">e707141d1b3d151062e50ed2cd4bcb50</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:14</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>1b6bdef293894860908cd6d2e895ce40</sys_id>
         <sys_metadata>9c26d4191b3d151062e50ed2cd4bcbbb</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>employees_manager</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_9c26d4191b3d151062e50ed2cd4bcbbb</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_9c26d4191b3d151062e50ed2cd4bcbbb">2826d4191b3d151062e50ed2cd4bcbc7</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:14</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -197,14 +197,13 @@
         <update_guid_history>d82385522481919057b90f1ad0d8b645:331239673</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Get Employee Info and AutoFill">4fd8c55a1b81919062e50ed2cd4bcb52</sys_audit_delete>
+        <sys_audit_delete display_value="">4fd8c55a1b81919062e50ed2cd4bcb52</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-03 14:01:40</sys_created_on>
         <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
         <sys_id>4da1a1ce77d342529c8dfbba16cf1364</sys_id>
         <sys_metadata>182385521b81919062e50ed2cd4bcb40</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Get Employee Info and AutoFill</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -213,7 +212,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_script_client_182385521b81919062e50ed2cd4bcb40</sys_update_name>
         <sys_update_version display_value="catalog_script_client_182385521b81919062e50ed2cd4bcb40">942385521b81919062e50ed2cd4bcb46</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-03 14:01:40</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

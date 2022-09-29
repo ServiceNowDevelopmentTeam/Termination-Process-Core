@@ -35,15 +35,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d8d079b61b0f059062e50ed2cd4bcb05</sys_id>
-        <sys_mod_count>3</sys_mod_count>
         <sys_name>if worker type = employee</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_d8d079b61b0f059062e50ed2cd4bcb05</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-11 19:38:02</sys_updated_on>
         <table/>
         <ui_type>10</ui_type>
         <variable_set/>
@@ -59,8 +56,5 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-11 19:38:02</sys_created_on>
         <sys_id>c492ebbc1b91d5108c5143f3cc4bcb2b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-08-11 19:38:02</sys_updated_on>
     </sys_claim>
 </record_update>

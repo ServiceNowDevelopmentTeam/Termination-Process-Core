@@ -51,14 +51,13 @@
         <update_guid_history>a0261819843d1510f196866c317b434f:-2078750920,e0261819943d15108a0ce77bb7f74a48:-470340227</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Person_Leaving">2307141d1b3d151062e50ed2cd4bcb1d</sys_audit_delete>
+        <sys_audit_delete display_value="">2307141d1b3d151062e50ed2cd4bcb1d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-06 14:37:13</sys_created_on>
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>039e4a78b9554c5595206cf47c7db1e1</sys_id>
         <sys_metadata>642618191b3d151062e50ed2cd4bcb44</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Person_Leaving</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -67,7 +66,5 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_642618191b3d151062e50ed2cd4bcb44">ec2618191b3d151062e50ed2cd4bcb4f</sys_update_version>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-09-06 14:37:13</sys_updated_on>
     </sys_metadata_delete>
 </record_update>
