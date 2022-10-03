@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Company ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: true</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:04:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a330ab391b56155062e50ed2cd4bcb0d</sys_id>
+        <sys_name>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: true</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_a330ab391b56155062e50ed2cd4bcb0d</sys_update_name>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=a330ab391b56155062e50ed2cd4bcb0d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>a330ab391b56155062e50ed2cd4bcb0d</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:04:36</sys_created_on>
+        <sys_id>2f30ab391b56155062e50ed2cd4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 15:04:36</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>a330ab391b56155062e50ed2cd4bcb0d</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:04:36</sys_created_on>
+        <sys_id>6b30ab391b56155062e50ed2cd4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 15:04:36</sys_updated_on>
+        <value>ViewPoint</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>a330ab391b56155062e50ed2cd4bcb0d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:04:36</sys_created_on>
+        <sys_id>a730ab391b56155062e50ed2cd4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 15:04:36</sys_updated_on>
+        <value>ViewPoint</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+</record_update>

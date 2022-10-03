@@ -7,7 +7,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:039c2c591b492050e7004229bc4bcb27=true^EQ</catalog_conditions>
-        <catalog_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
+        <catalog_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
         <conditions/>
         <description/>
         <global>true</global>

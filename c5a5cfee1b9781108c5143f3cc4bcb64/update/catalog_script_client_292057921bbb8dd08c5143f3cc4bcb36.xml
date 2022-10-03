@@ -7,7 +7,7 @@
         <applies_sc_task>true</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
+        <cat_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
         <cat_variable/>
         <condition/>
         <description/>

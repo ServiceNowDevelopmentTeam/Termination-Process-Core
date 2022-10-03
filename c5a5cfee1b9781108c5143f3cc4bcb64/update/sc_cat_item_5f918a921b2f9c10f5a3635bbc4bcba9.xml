@@ -29,7 +29,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Employee Termination</name>
+        <name>Termination Request</name>
         <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>true</no_cart_v2>
@@ -57,7 +57,7 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <short_description>Termination Request</short_description>
+        <short_description>Offboard and employee</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state>published</state>
@@ -65,7 +65,7 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 16:02:35</sys_created_on>
         <sys_id>5f918a921b2f9c10f5a3635bbc4bcba9</sys_id>
-        <sys_name>Employee Termination</sys_name>
+        <sys_name>Termination Request</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>

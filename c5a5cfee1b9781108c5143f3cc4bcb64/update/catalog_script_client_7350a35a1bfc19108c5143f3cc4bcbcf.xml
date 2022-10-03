@@ -7,7 +7,7 @@
         <applies_sc_task>true</applies_sc_task>
         <applies_target_record>true</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
+        <cat_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
         <cat_variable>IO:0622506f1be0e450e7004229bc4bcb9e</cat_variable>
         <condition/>
         <description/>
@@ -18,27 +18,40 @@
         <name>Set payroll on company change</name>
         <order>0</order>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-   if ( newValue == '') {
-      return;
-   }
+	if ( newValue == '') {
+		return;
+	}
 	populateDetails(newValue.toString());
 }
 
 function populateDetails(newValue) {		
-		//set Payroll
-		ajax = new GlideAjax('global.get_erp_values'); 
-		ajax.addParam('sysparm_name', 'findPayrollByCompanyRefId'); 
-		ajax.addParam('val1', newValue.toString());
-		ajax.getXML(function(response) { 
-			var out = response.responseXML.documentElement.getAttribute("answer");
+	//set Payroll
+	ajax = new GlideAjax('global.getERPAndPayrollInfo'); 
+	ajax.addParam('sysparm_name', 'getInfo'); 
+	ajax.addParam('val1', newValue.toString());
+	ajax.getXML(function(response) { 
+		var out = response.responseXML.documentElement.getAttribute("answer");
+		try{
 			if(out == null || out == ''){
 				g_form.setLabelOf('employee_number', 'Employee Number');
 			}
 			else{
-				g_form.setLabelOf('employee_number', out + ' Employee Number');
+				var payrollInfo = JSON.parse(out.toString());
+				var payrollSystem = '';
+				if(payrollInfo.is_dayforce_employee_id === true || payrollInfo.is_dayforce_employee_id.toString().toLowerCase === 'true'){
+					payrollSystem = 'Dayforce';
+				}
+				else{
+					payrollSystem = payrollInfo.payroll.toString();
+				}
+				g_form.setLabelOf('employee_number', payrollSystem + ' Employee Number');
 			}
-			g_form.setValue('payroll_source_system', out);
-		}); 
+		}
+		catch(e){
+			g_form.setLabelOf('employee_number', 'Employee Number');
+		}
+		g_form.setValue('payroll_source_system', out);
+	}); 
 
 }]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>global.getERPAndPayrollInfo</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>getERPAndPayrollInfo</name>
+        <script><![CDATA[var getERPAndPayrollInfo = Class.create();
+getERPAndPayrollInfo.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getInfo: function(company_sys_id){
+		try {
+			var inputs = {};
+			var companyGr = new GlideRecord('core_company');
+			companyGr.get(this.getParameter('val1') || company_sys_id);
+			inputs['company'] = companyGr; // GlideRecord of table: core_company 
+
+			// Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+			var result = sn_fd.FlowAPI.getRunner().subflow('global.look_up_company_erp_and_payroll').inForeground().withInputs(inputs).run();
+			var outputs = result.getOutputs();
+
+			// Get Outputs:
+			var erp = outputs['erp']; // String
+			var payroll = outputs['payroll']; // String
+			var is_dayforce_employee_id = outputs['is_dayforce_employee_id']; // True/False
+			return '{"erp":"'+erp+'","payroll":"'+payroll+'","is_dayforce_employee_id":'+is_dayforce_employee_id+'}'
+		} catch (ex) {
+			var message = ex.getMessage();
+			gs.error(message);
+		}
+	},
+	type: 'getERPAndPayrollInfo'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 16:28:06</sys_created_on>
+        <sys_id>be5373b51b1a155062e50ed2cd4bcb25</sys_id>
+        <sys_name>getERPAndPayrollInfo</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_script_include_be5373b51b1a155062e50ed2cd4bcb25</sys_update_name>
+    </sys_script_include>
+</record_update>

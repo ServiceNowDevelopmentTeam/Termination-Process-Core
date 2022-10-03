@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Employee Termination">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
+        <catalog_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
         <catalog_variable>IO:befb0eda1b2f9c10f5a3635bbc4bcb47</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
