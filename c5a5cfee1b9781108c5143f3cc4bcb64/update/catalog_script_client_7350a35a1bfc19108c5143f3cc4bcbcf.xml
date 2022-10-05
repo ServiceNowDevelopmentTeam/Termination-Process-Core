@@ -32,12 +32,12 @@ function populateDetails(newValue) {
 	ajax.getXML(function(response) { 
 		var out = response.responseXML.documentElement.getAttribute("answer");
 		try{
+			var payrollSystem = '';
 			if(out == null || out == ''){
 				g_form.setLabelOf('employee_number', 'Employee Number');
 			}
 			else{
 				var payrollInfo = JSON.parse(out.toString());
-				var payrollSystem = '';
 				if(payrollInfo.is_dayforce_employee_id === true || payrollInfo.is_dayforce_employee_id.toString().toLowerCase === 'true'){
 					payrollSystem = 'Dayforce';
 				}
@@ -50,7 +50,7 @@ function populateDetails(newValue) {
 		catch(e){
 			g_form.setLabelOf('employee_number', 'Employee Number');
 		}
-		g_form.setValue('payroll_source_system', out);
+		g_form.setValue('payroll_source_system', payrollSystem);
 	}); 
 
 }]]></script>
