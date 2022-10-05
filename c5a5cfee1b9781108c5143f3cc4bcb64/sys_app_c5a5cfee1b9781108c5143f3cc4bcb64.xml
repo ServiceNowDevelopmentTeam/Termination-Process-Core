@@ -22,7 +22,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
-        <store_correlation_id>REPOAPP0000679598</store_correlation_id>
+        <store_correlation_id>REPOAPP0000681675</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
@@ -35,6 +35,6 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.2.11</version>
+        <version>1.2.12</version>
     </sys_app>
 </record_update>
