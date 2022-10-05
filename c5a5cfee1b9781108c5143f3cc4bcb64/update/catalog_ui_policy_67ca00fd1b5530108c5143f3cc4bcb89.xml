@@ -20,7 +20,7 @@
         <reverse_if_false>true</reverse_if_false>
         <run_scripts>true</run_scripts>
         <script_false><![CDATA[function onCondition() {
-	var payrollFields = ['date_final_check_is_needed', 'eligible_for_rehire', 'if_car_allowance_enter_car_allowance_amount','last_known_personal_phone_number', 'last_known_mailing_address', 'final_hours_worked_o_t', 'type_of_separation', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to', 'final_hours_vacation', 'employee_type', 'voluntary', 'final_hours_severance', 'car_allowance_amount_to_be_paid_is_confirmed_if_applicable', 'final_hours_worked_d_t', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to','final_hours_worked_clock','final_expense_report_is_received_reviewed_and_approved_if_applicable','benefits_contact_form_provided_to_non_union_employees','what_time_is_payoff_needed','is_same_day_payoff_required','personal_email_address','is_any_severance_agreement_a_part_of_this_person_s_termination'];
+	var payrollFields = ['date_final_check_is_needed', 'eligible_for_rehire', 'if_car_allowance_enter_car_allowance_amount','last_known_personal_phone_number', 'last_known_mailing_address', 'final_hours_worked_o_t', 'type_of_separation', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to', 'final_hours_vacation', 'employee_type', 'voluntary', 'final_hours_severance', 'car_allowance_amount_to_be_paid_is_confirmed_if_applicable', 'final_hours_worked_d_t', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to','final_hours_worked_clock','final_expense_report_is_received_reviewed_and_approved_if_applicable','benefits_contact_form_provided_to_non_union_employees','what_time_is_payoff_needed','is_same_day_payoff_required','personal_email_address','is_any_severance_agreement_a_part_of_this_person_s_termination','involuntary'];
 	var userID = g_user.userID;
 	//Specialty Services
 	var gr = new GlideRecord('sys_user_grmember');
@@ -40,19 +40,19 @@
 	
 	if(!gr.hasNext() && !gr1.hasNext() && !gr2.hasNext()){
 		for(i=0;i<payrollFields.length;i++){
-			g_form.setVisible(payrollFields[i],false);
+			g_form.setDisplay(payrollFields[i],false);
 		}
 		g_form.setSectionDisplay('payroll', false);
 	}
 	else{
 		for(i=0;i<payrollFields.length;i++){
-			g_form.setDisplay(payrollFields[i],true);
+			g_form.setVisible(payrollFields[i],true);
 		}
 		g_form.setSectionDisplay('payroll', true);
 	}
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
-	var payrollFields = ['date_final_check_is_needed', 'eligible_for_rehire', 'if_car_allowance_enter_car_allowance_amount','last_known_personal_phone_number', 'last_known_mailing_address', 'final_hours_worked_o_t', 'type_of_separation', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to', 'final_hours_vacation', 'employee_type', 'voluntary', 'final_hours_severance', 'car_allowance_amount_to_be_paid_is_confirmed_if_applicable', 'final_hours_worked_d_t', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to','final_hours_worked_clock','final_expense_report_is_received_reviewed_and_approved_if_applicable','benefits_contact_form_provided_to_non_union_employees','what_time_is_payoff_needed','is_same_day_payoff_required','personal_email_address','is_any_severance_agreement_a_part_of_this_person_s_termination'];
+	var payrollFields = ['date_final_check_is_needed', 'eligible_for_rehire', 'if_car_allowance_enter_car_allowance_amount','last_known_personal_phone_number', 'last_known_mailing_address', 'final_hours_worked_o_t', 'type_of_separation', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to', 'final_hours_vacation', 'employee_type', 'voluntary', 'final_hours_severance', 'car_allowance_amount_to_be_paid_is_confirmed_if_applicable', 'final_hours_worked_d_t', 'final_check_given_to_employee_per_that_specific_state_s_regulations', 'last_4_numbers_of_ssn', 'send_check_to','final_hours_worked_clock','final_expense_report_is_received_reviewed_and_approved_if_applicable','benefits_contact_form_provided_to_non_union_employees','what_time_is_payoff_needed','is_same_day_payoff_required','personal_email_address','is_any_severance_agreement_a_part_of_this_person_s_termination','involuntary'];
 	var userID = g_user.userID;
 	//Specialty Services
 	var gr = new GlideRecord('sys_user_grmember');
