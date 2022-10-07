@@ -38,7 +38,7 @@
         <label>Payroll System</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Company ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</model>
+        <model display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</model>
         <model_id>e2be9b711b56155062e50ed2cd4bcbfb</model_id>
         <model_table/>
         <name>var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb</name>

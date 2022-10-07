@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
     <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
         <decision_input display_value="Company">240f57751b56155062e50ed2cd4bcb06</decision_input>
-        <decision_table display_value="Company ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
         <default_operator>=</default_operator>
         <description/>
         <field/>

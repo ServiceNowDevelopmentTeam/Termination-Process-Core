@@ -179,13 +179,13 @@
     </sys_ui_related>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
-        <claim_timestamp>183a9e48a040000001</claim_timestamp>
+        <claim_timestamp>183ae16244a0000001</claim_timestamp>
         <metadata_update_name>sys_ui_related_sc_cat_item_null</metadata_update_name>
-        <previous_claim_app_version>1.2.15</previous_claim_app_version>
+        <previous_claim_app_version>1.2.16</previous_claim_app_version>
         <previous_claim_name>Termination Process Core</previous_claim_name>
         <previous_claim_scope>c5a5cfee1b9781108c5143f3cc4bcb64</previous_claim_scope>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-05 20:44:30</sys_created_on>
-        <sys_id>5a314ba21b1295508c5143f3cc4bcb29</sys_id>
+        <sys_created_on>2022-10-06 16:17:10</sys_created_on>
+        <sys_id>739d47321bda1d5062e50ed2cd4bcbad</sys_id>
     </sys_claim>
 </record_update>
