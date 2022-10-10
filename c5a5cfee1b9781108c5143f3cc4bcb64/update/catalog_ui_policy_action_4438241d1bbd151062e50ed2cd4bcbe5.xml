@@ -5,7 +5,7 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
-        <mandatory>ignore</mandatory>
+        <mandatory>true</mandatory>
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
