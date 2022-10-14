@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Set Variable Values (SP)">68c696081b98c51062e50ed2cd4bcbfe</copied_from>
+        <description>Answer the questions on the form as follows:
+Employee number = 1234
+and Termination Effective date/time = 
+and Agency = true
+and Agency = No
+and Agency = true
+and Worker Type = Employee with a company  email account
+and Person Leaving = 
+and Union or Non-Union? = Union
+and Type of Separation = Voluntary
+and Voluntary Reason = Other employment (O)
+and Is any severance agreement a part of this person's termination? = No
+and Is same-day payoff required? = No
+and Do you have any special requests or additional comments? = No
+and Last Day Worked = 
+and Eligible for rehire = Yes</description>
+        <display_name>Set Variable Values (SP)</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Fill form with OneDrive backup set to true</notes>
+        <order>6</order>
+        <step_config display_value="Set Variable Values (SP)">2e4229b48703030070870cf888cb0b5c</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-10 15:54:58</sys_created_on>
+        <sys_id>29eee3c01beed19062e50ed2cd4bcbe5</sys_id>
+        <sys_name>Set Variable Values (SP)</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_atf_step_29eee3c01beed19062e50ed2cd4bcbe5</sys_update_name>
+        <table/>
+        <test display_value="TC - 236 - Termination - Manager Approval - ITIL">edee23c01beed19062e50ed2cd4bcb40</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=29eee3c01beed19062e50ed2cd4bcbe5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>29eee3c01beed19062e50ed2cd4bcbe5</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-10 15:54:58</sys_created_on>
+        <sys_id>39eee3c01beed19062e50ed2cd4bcbea</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-10 19:11:38</sys_updated_on>
+        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=1234^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['25ee23c01beed19062e50ed2cd4bcb47'].user.sys_created_on}}^IO:8ff808201b18d1908c5143f3cc4bcb1f=true^IO:8ff808201b18d1908c5143f3cc4bcb1f=No^IO:8ff808201b18d1908c5143f3cc4bcb1f=true^IO:1ef36b101b54d1908c5143f3cc4bcb54=employee_email^IO:d93c28591b492050e7004229bc4bcb0d={{step['69eee3c01beed19062e50ed2cd4bcbc4'].user}}^IO:0b36a3141b54d1908c5143f3cc4bcbd2=Union^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Other employment (O)^IO:4659b7981b94d1908c5143f3cc4bcbc2=No^IO:ea0a3fd81b94d1908c5143f3cc4bcbb6=No^IO:bc8a58551b7d151062e50ed2cd4bcb09=No^IO:62777b181b94d1908c5143f3cc4bcbf1={{step['25ee23c01beed19062e50ed2cd4bcb47'].user.sys_created_on}}^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^EQ</value>
+        <variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>29eee3c01beed19062e50ed2cd4bcbe5</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-10 15:54:58</sys_created_on>
+        <sys_id>75eee3c01beed19062e50ed2cd4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-10 15:54:58</sys_updated_on>
+        <value/>
+        <variable display_value="Multi-row Variable Set">2fba49d673142300688e0d573cf6a748</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>29eee3c01beed19062e50ed2cd4bcbe5</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-10 15:54:58</sys_created_on>
+        <sys_id>f9eee3c01beed19062e50ed2cd4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-10 15:54:58</sys_updated_on>
+        <value>5f918a921b2f9c10f5a3635bbc4bcba9</value>
+        <variable display_value="Item">d164adb48703030070870cf888cb0b30</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=29eee3c01beed19062e50ed2cd4bcbe5"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>variable_values</field>
+        <id>29eee3c01beed19062e50ed2cd4bcbe5</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-10 15:54:58</sys_created_on>
+        <sys_id>71eee3c01beed19062e50ed2cd4bcbeb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-10 19:11:38</sys_updated_on>
+        <table>var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c</table>
+        <value>IO:1b1302161b2f9c10f5a3635bbc4bcbcb=1234^IO:02838e921b2f9c10f5a3635bbc4bcb82={{step['25ee23c01beed19062e50ed2cd4bcb47'].user.sys_created_on}}^IO:8ff808201b18d1908c5143f3cc4bcb1f=true^IO:8ff808201b18d1908c5143f3cc4bcb1f=No^IO:8ff808201b18d1908c5143f3cc4bcb1f=true^IO:1ef36b101b54d1908c5143f3cc4bcb54=employee_email^IO:d93c28591b492050e7004229bc4bcb0d={{step['69eee3c01beed19062e50ed2cd4bcbc4'].user}}^IO:0b36a3141b54d1908c5143f3cc4bcbd2=Union^IO:48a1b46e1bcca450e7004229bc4bcbe7=Voluntary^IO:6278cf9e1be8e450f5a3635bbc4bcb5f=Other employment (O)^IO:4659b7981b94d1908c5143f3cc4bcbc2=No^IO:ea0a3fd81b94d1908c5143f3cc4bcbb6=No^IO:bc8a58551b7d151062e50ed2cd4bcb09=No^IO:62777b181b94d1908c5143f3cc4bcbf1={{step['25ee23c01beed19062e50ed2cd4bcb47'].user.sys_created_on}}^IO:09ba4a9a1b2f9c10f5a3635bbc4bcbbb=Yes^EQ</value>
+    </sys_element_mapping>
+</record_update>
