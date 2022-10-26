@@ -25,7 +25,7 @@ getERPAndPayrollInfo.prototype = Object.extendsObject(global.AbstractAjaxProcess
 			var erp = outputs['erp']; // String
 			var payroll = outputs['payroll']; // String
 			var is_dayforce_employee_id = outputs['is_dayforce_employee_id']; // True/False
-			return '{"erp":"'+erp+'","payroll":"'+payroll+'","is_dayforce_employee_id":'+is_dayforce_employee_id+'}'
+			return '{"erp":"'+erp+'","payroll":"'+payroll+'","is_dayforce_employee_id":'+is_dayforce_employee_id+'}';
 		} catch (ex) {
 			var message = ex.getMessage();
 			gs.error(message);
