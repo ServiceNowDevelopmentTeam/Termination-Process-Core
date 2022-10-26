@@ -10,7 +10,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>create_termination_tasks</internal_name>
-        <label_cache>[{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"11 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.context","label":"11 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_is_dayforce_employee_id","label":"1 - Make a decision➛Result Record➛Is Dayforce Employee ID","reference":"","reference_display":"Is Dayforce Employee ID","type":"boolean","base_type":"boolean","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_is_dayforce_employee_id"},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.table_name","label":"6 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.record","label":"6 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.task_created","label":"3 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.context","label":"3 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"bb2a83a2-a0ac-4eac-b6f2-d653420c629c.context","label":"3 - Dynamic Flow➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.answer","label":"1 - Make a decision➛Choice Record","reference":"sys_choice","reference_display":"Choice","type":"reference","base_type":"reference","attributes":{}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.table_name","label":"1 - Make a decision➛Choice Table","reference":"sys_choice","reference_display":"Choice","type":"table_name","base_type":"table_name","attributes":{}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer","label":"1 - Make a decision➛Result Record","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"reference","base_type":"reference","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.table_name","label":"1 - Make a decision➛Result Table","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"table_name","base_type":"table_name","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_erp","label":"1 - Make a decision➛Result Record➛ERP","reference":"","reference_display":"ERP","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_erp"},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.record","label":"4 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.table_name","label":"4 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__action_status__","label":"4 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__dont_treat_as_error__","label":"4 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.context","label":"5 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"5 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.context","label":"8 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.task_created","label":"8 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.record","label":"9 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.table_name","label":"9 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__action_status__","label":"9 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__dont_treat_as_error__","label":"9 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__dont_treat_as_error__","label":"11 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__action_status__","label":"11 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.table_name","label":"11 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.record","label":"11 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.task_created","label":"9 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.context","label":"9 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"4 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.context","label":"4 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.table_name","label":"6 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.record","label":"6 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_erp","label":"1 - Make a decision➛Result Record➛ERP","reference":"","reference_display":"ERP","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_erp"},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.table_name","label":"1 - Make a decision➛Result Table","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"table_name","base_type":"table_name","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer","label":"1 - Make a decision➛Result Record","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"reference","base_type":"reference","attributes":{}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.table_name","label":"1 - Make a decision➛Choice Table","reference":"sys_choice","reference_display":"Choice","type":"table_name","base_type":"table_name","attributes":{}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.answer","label":"1 - Make a decision➛Choice Record","reference":"sys_choice","reference_display":"Choice","type":"reference","base_type":"reference","attributes":{}},{"name":"bb2a83a2-a0ac-4eac-b6f2-d653420c629c.context","label":"3 - Dynamic Flow➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.context","label":"3 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.task_created","label":"3 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.record","label":"7 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.table_name","label":"7 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__action_status__","label":"7 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__dont_treat_as_error__","label":"7 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_is_dayforce_employee_id","label":"1 - Make a decision➛Result Record➛Is Dayforce Employee ID","reference":"","reference_display":"Is Dayforce Employee ID","type":"boolean","base_type":"boolean","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_is_dayforce_employee_id"},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.context","label":"13 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"13 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number","label":"1➛Result Record➛Company Number","reference":"","reference_display":"Company Number","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_company_number"}]</label_cache>
         <master_snapshot>cc52ce191bb6dd1062e50ed2cd4bcbaa</master_snapshot>
         <name>Create termination Tasks</name>
         <natlang/>
@@ -398,16 +398,16 @@
         <comment>Unassign WebApps Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>6</order>
-        <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
+        <order>7</order>
+        <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:20:21</sys_created_on>
         <sys_id>7e6046551bb6dd1062e50ed2cd4bcb2b</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
         <ui_id>550444cf-0955-49df-8c62-0e05bc6d8826</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7e6046551bb6dd1062e50ed2cd4bcb2b"/>
@@ -486,16 +486,16 @@
         <comment>Unassign AX Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>9</order>
-        <parent_ui_id>7b33449c-56f1-4192-b652-6fce975284ce</parent_ui_id>
+        <order>11</order>
+        <parent_ui_id>6fd92c78-f960-4cef-ac6d-13496ef802b8</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:25:06</sys_created_on>
         <sys_id>d481c6d51bb6dd1062e50ed2cd4bcb63</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:05</sys_updated_on>
         <ui_id>1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d481c6d51bb6dd1062e50ed2cd4bcb63"/>
@@ -574,16 +574,16 @@
         <comment>Unassign Astea Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>4</order>
-        <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
+        <order>6</order>
+        <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:20:21</sys_created_on>
         <sys_id>f66046551bb6dd1062e50ed2cd4bcb13</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
         <ui_id>de8d9c37-b433-4a37-b074-bd8e59a2cb9b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f66046551bb6dd1062e50ed2cd4bcb13"/>
@@ -661,7 +661,7 @@
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
         <inputs/>
         <inputs/>
-        <order>5</order>
+        <order>4</order>
         <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -669,10 +669,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:20:21</sys_created_on>
         <sys_id>3a6046551bb6dd1062e50ed2cd4bcb16</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
         <ui_id>9f29801f-3351-4ed7-b3bb-2e45b268261c</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3a6046551bb6dd1062e50ed2cd4bcb16"/>
@@ -917,10 +917,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:17:55</sys_created_on>
         <sys_id>43df75151bb6dd1062e50ed2cd4bcb7a</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
         <ui_id>373b4cee-2d0c-4520-be0e-48aa79967cfa</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=43df75151bb6dd1062e50ed2cd4bcb7a"/>
@@ -1157,7 +1157,7 @@
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
         <inputs/>
         <inputs/>
-        <order>11</order>
+        <order>13</order>
         <parent_ui_id>1ea56d3d-e6a2-49ce-97b9-68e991df243a</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -1165,10 +1165,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:26:56</sys_created_on>
         <sys_id>57e1c2191bb6dd1062e50ed2cd4bcb35</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:05</sys_updated_on>
         <ui_id>14bc05d1-5bf0-46f7-8a7b-37b461bd5173</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=57e1c2191bb6dd1062e50ed2cd4bcb35"/>
@@ -1405,7 +1405,7 @@
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
         <inputs/>
         <inputs/>
-        <order>8</order>
+        <order>9</order>
         <parent_ui_id>7b33449c-56f1-4192-b652-6fce975284ce</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -1413,10 +1413,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:25:06</sys_created_on>
         <sys_id>9881c6d51bb6dd1062e50ed2cd4bcb4c</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:05</sys_updated_on>
         <ui_id>ed556a2f-ccba-45a0-9cdd-89d48531010b</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9881c6d51bb6dd1062e50ed2cd4bcb4c"/>
@@ -1647,7 +1647,7 @@
         <xml_view>false</xml_view>
     </sys_hub_sub_flow_instance_inputs>
     <sys_hub_input_scripts action="delete_multiple" query="instance=9881c6d51bb6dd1062e50ed2cd4bcb4c"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=182d399d1b76dd1062e50ed2cd4bcbf8^sys_idNOT IN122f75911bb6dd1062e50ed2cd4bcbda,6901c6951bb6dd1062e50ed2cd4bcb85,97e1c2191bb6dd1062e50ed2cd4bcb0b,9a2f75911bb6dd1062e50ed2cd4bcbcf"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=182d399d1b76dd1062e50ed2cd4bcbf8^sys_idNOT IN122f75911bb6dd1062e50ed2cd4bcbda,1b1856991b7add1062e50ed2cd4bcbb4,6901c6951bb6dd1062e50ed2cd4bcb85,97e1c2191bb6dd1062e50ed2cd4bcb0b,9a2f75911bb6dd1062e50ed2cd4bcbcf,9f1856991b7add1062e50ed2cd4bcbcc"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">da2f75911bb6dd1062e50ed2cd4bcbd9</block>
         <comment/>
@@ -1670,10 +1670,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:14:52</sys_created_on>
         <sys_id>122f75911bb6dd1062e50ed2cd4bcbda</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
         <ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1721,6 +1721,78 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=122f75911bb6dd1062e50ed2cd4bcbda"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=122f75911bb6dd1062e50ed2cd4bcbda"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">df1856991b7add1062e50ed2cd4bcbb3</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>1b1856991b7add1062e50ed2cd4bcbb4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
+        <ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=1b1856991b7add1062e50ed2cd4bcbb4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>1b1856991b7add1062e50ed2cd4bcbb4</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>531856991b7add1062e50ed2cd4bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:53</sys_updated_on>
+        <value>company number not empty</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=1b1856991b7add1062e50ed2cd4bcbb4"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>1b1856991b7add1062e50ed2cd4bcbb4</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>df1856991b7add1062e50ed2cd4bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:53</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number}}!=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>1b1856991b7add1062e50ed2cd4bcbb4</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>1b1856991b7add1062e50ed2cd4bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:53</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=1b1856991b7add1062e50ed2cd4bcbb4"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=1b1856991b7add1062e50ed2cd4bcbb4"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">2101c6951bb6dd1062e50ed2cd4bcb85</block>
         <comment/>
         <connected_to/>
@@ -1734,7 +1806,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>7</order>
+        <order>8</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -1742,10 +1814,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:23:00</sys_created_on>
         <sys_id>6901c6951bb6dd1062e50ed2cd4bcb85</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:05</sys_updated_on>
         <ui_id>7b33449c-56f1-4192-b652-6fce975284ce</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1806,7 +1878,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>10</order>
+        <order>12</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -1814,10 +1886,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:26:56</sys_created_on>
         <sys_id>97e1c2191bb6dd1062e50ed2cd4bcb0b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:05</sys_updated_on>
         <ui_id>1ea56d3d-e6a2-49ce-97b9-68e991df243a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1886,10 +1958,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:14:52</sys_created_on>
         <sys_id>9a2f75911bb6dd1062e50ed2cd4bcbcf</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:42</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
         <ui_id>10e79bf5-fad6-4366-9880-1bac7826226d</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2003,6 +2075,78 @@
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d^id=9a2f75911bb6dd1062e50ed2cd4bcbcf"/>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=9a2f75911bb6dd1062e50ed2cd4bcbcf"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=9a2f75911bb6dd1062e50ed2cd4bcbcf"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">5b1856991b7add1062e50ed2cd4bcbcc</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>10</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>7b33449c-56f1-4192-b652-6fce975284ce</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>9f1856991b7add1062e50ed2cd4bcbcc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:04:05</sys_updated_on>
+        <ui_id>6fd92c78-f960-4cef-ac6d-13496ef802b8</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=9f1856991b7add1062e50ed2cd4bcbcc"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>9f1856991b7add1062e50ed2cd4bcbcc</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>df1856991b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:53</sys_updated_on>
+        <value>company number not empty</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=9f1856991b7add1062e50ed2cd4bcbcc"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>9f1856991b7add1062e50ed2cd4bcbcc</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>5f1856991b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:53</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number}}!=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>9f1856991b7add1062e50ed2cd4bcbcc</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:53</sys_created_on>
+        <sys_id>9b1856991b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:53</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=9f1856991b7add1062e50ed2cd4bcbcc"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=9f1856991b7add1062e50ed2cd4bcbcc"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=182d399d1b76dd1062e50ed2cd4bcbf8"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=182d399d1b76dd1062e50ed2cd4bcbf8"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_182d399d1b76dd1062e50ed2cd4bcbf8^sys_idNOT IN2b5ebd111bb6dd1062e50ed2cd4bcb5e,675ebd111bb6dd1062e50ed2cd4bcb65,6b5ebd111bb6dd1062e50ed2cd4bcb62,e75ebd111bb6dd1062e50ed2cd4bcb5a"/>
@@ -2104,7 +2248,7 @@
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=182d399d1b76dd1062e50ed2cd4bcbf8"/>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=182d399d1b76dd1062e50ed2cd4bcbf8^sys_idNOT INbc5202591bb6dd1062e50ed2cd4bcbc5"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>com.snc.process_flow.engine.ProcessPlan@1eb0184</plan>
+        <plan>com.snc.process_flow.engine.ProcessPlan@b38ad8</plan>
         <plan_id display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</plan_id>
         <snapshot>cc52ce191bb6dd1062e50ed2cd4bcbaa</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -2112,11 +2256,11 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bc5202591bb6dd1062e50ed2cd4bcbc5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:41</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:04</sys_updated_on>
     </sys_flow_subflow_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -2129,7 +2273,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>create_termination_tasks</internal_name>
-        <label_cache>[{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"11 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.context","label":"11 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_is_dayforce_employee_id","label":"1 - Make a decision➛Result Record➛Is Dayforce Employee ID","reference":"","reference_display":"Is Dayforce Employee ID","type":"boolean","base_type":"boolean","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_is_dayforce_employee_id"},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.table_name","label":"6 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.record","label":"6 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.task_created","label":"3 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.context","label":"3 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"bb2a83a2-a0ac-4eac-b6f2-d653420c629c.context","label":"3 - Dynamic Flow➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.answer","label":"1 - Make a decision➛Choice Record","reference":"sys_choice","reference_display":"Choice","type":"reference","base_type":"reference","attributes":{}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.table_name","label":"1 - Make a decision➛Choice Table","reference":"sys_choice","reference_display":"Choice","type":"table_name","base_type":"table_name","attributes":{}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer","label":"1 - Make a decision➛Result Record","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"reference","base_type":"reference","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.table_name","label":"1 - Make a decision➛Result Table","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"table_name","base_type":"table_name","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_erp","label":"1 - Make a decision➛Result Record➛ERP","reference":"","reference_display":"ERP","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_erp"},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.record","label":"4 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.table_name","label":"4 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__action_status__","label":"4 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__dont_treat_as_error__","label":"4 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.context","label":"5 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"5 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.context","label":"8 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.task_created","label":"8 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.record","label":"9 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.table_name","label":"9 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__action_status__","label":"9 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__dont_treat_as_error__","label":"9 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__dont_treat_as_error__","label":"11 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.__action_status__","label":"11 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.table_name","label":"11 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37.record","label":"11 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.task_created","label":"9 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"ed556a2f-ccba-45a0-9cdd-89d48531010b.context","label":"9 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"4 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.context","label":"4 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.table_name","label":"6 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"de8d9c37-b433-4a37-b074-bd8e59a2cb9b.record","label":"6 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_erp","label":"1 - Make a decision➛Result Record➛ERP","reference":"","reference_display":"ERP","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_erp"},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.table_name","label":"1 - Make a decision➛Result Table","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"table_name","base_type":"table_name","attributes":{}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer","label":"1 - Make a decision➛Result Record","reference":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","reference_display":"Result","type":"reference","base_type":"reference","attributes":{}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.table_name","label":"1 - Make a decision➛Choice Table","reference":"sys_choice","reference_display":"Choice","type":"table_name","base_type":"table_name","attributes":{}},{"name":"03668442-5d4c-434a-8405-bf005e72c4cf.answer","label":"1 - Make a decision➛Choice Record","reference":"sys_choice","reference_display":"Choice","type":"reference","base_type":"reference","attributes":{}},{"name":"bb2a83a2-a0ac-4eac-b6f2-d653420c629c.context","label":"3 - Dynamic Flow➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.context","label":"3 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"373b4cee-2d0c-4520-be0e-48aa79967cfa.task_created","label":"3 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.record","label":"7 - Update Record➛Catalog Task Record","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.table_name","label":"7 - Update Record➛Catalog Task Table","reference":"sc_task","reference_display":"Catalog Task","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__action_status__","label":"7 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"550444cf-0955-49df-8c62-0e05bc6d8826.__dont_treat_as_error__","label":"7 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_is_dayforce_employee_id","label":"1 - Make a decision➛Result Record➛Is Dayforce Employee ID","reference":"","reference_display":"Is Dayforce Employee ID","type":"boolean","base_type":"boolean","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_is_dayforce_employee_id"},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.context","label":"13 - Create Access Task From Variables➛Context","reference":"sys_flow_context","reference_display":"Flow engine context","type":"reference","base_type":"reference","attributes":{}},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"13 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number","label":"1➛Result Record➛Company Number","reference":"","reference_display":"Company Number","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_company_number"}]</label_cache>
         <master>true</master>
         <name>Create termination Tasks</name>
         <natlang/>
@@ -2146,7 +2290,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cc52ce191bb6dd1062e50ed2cd4bcbaa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -2154,7 +2298,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:38</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=cc52ce191bb6dd1062e50ed2cd4bcbaa"/>
@@ -2518,16 +2662,16 @@
         <comment>Unassign WebApps Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>6</order>
-        <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
+        <order>7</order>
+        <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>185202591bb6dd1062e50ed2cd4bcb03</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <ui_id>550444cf-0955-49df-8c62-0e05bc6d8826</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=185202591bb6dd1062e50ed2cd4bcb03"/>
@@ -2606,16 +2750,16 @@
         <comment>Unassign AX Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>9</order>
-        <parent_ui_id>7b33449c-56f1-4192-b652-6fce975284ce</parent_ui_id>
+        <order>11</order>
+        <parent_ui_id>6fd92c78-f960-4cef-ac6d-13496ef802b8</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>d45202591bb6dd1062e50ed2cd4bcb09</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <ui_id>1d50c9ac-09ca-4ee2-9c4e-8c84cef5aa37</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d45202591bb6dd1062e50ed2cd4bcb09"/>
@@ -2694,16 +2838,16 @@
         <comment>Unassign Astea Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>4</order>
-        <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
+        <order>6</order>
+        <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>dc52ce191bb6dd1062e50ed2cd4bcbfc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:00</sys_updated_on>
         <ui_id>de8d9c37-b433-4a37-b074-bd8e59a2cb9b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=dc52ce191bb6dd1062e50ed2cd4bcbfc"/>
@@ -2781,7 +2925,7 @@
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
         <inputs/>
         <inputs/>
-        <order>8</order>
+        <order>9</order>
         <parent_ui_id>7b33449c-56f1-4192-b652-6fce975284ce</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -2789,10 +2933,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:40</sys_created_on>
         <sys_id>285202591bb6dd1062e50ed2cd4bcb38</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:40</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <ui_id>ed556a2f-ccba-45a0-9cdd-89d48531010b</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=285202591bb6dd1062e50ed2cd4bcb38"/>
@@ -3029,7 +3173,7 @@
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
         <inputs/>
         <inputs/>
-        <order>11</order>
+        <order>13</order>
         <parent_ui_id>1ea56d3d-e6a2-49ce-97b9-68e991df243a</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -3037,10 +3181,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:40</sys_created_on>
         <sys_id>285202591bb6dd1062e50ed2cd4bcb46</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:40</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <ui_id>14bc05d1-5bf0-46f7-8a7b-37b461bd5173</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=285202591bb6dd1062e50ed2cd4bcb46"/>
@@ -3277,7 +3421,7 @@
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
         <inputs/>
         <inputs/>
-        <order>5</order>
+        <order>4</order>
         <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -3285,10 +3429,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:40</sys_created_on>
         <sys_id>605202591bb6dd1062e50ed2cd4bcb1e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:40</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:00</sys_updated_on>
         <ui_id>9f29801f-3351-4ed7-b3bb-2e45b268261c</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=605202591bb6dd1062e50ed2cd4bcb1e"/>
@@ -3533,10 +3677,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>945202591bb6dd1062e50ed2cd4bcb0b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:40</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:00</sys_updated_on>
         <ui_id>373b4cee-2d0c-4520-be0e-48aa79967cfa</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=945202591bb6dd1062e50ed2cd4bcb0b"/>
@@ -3767,7 +3911,7 @@
         <xml_view>false</xml_view>
     </sys_hub_sub_flow_instance_inputs>
     <sys_hub_input_scripts action="delete_multiple" query="instance=945202591bb6dd1062e50ed2cd4bcb0b"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=cc52ce191bb6dd1062e50ed2cd4bcbaa^sys_idNOT IN5852ce191bb6dd1062e50ed2cd4bcbe1,9852ce191bb6dd1062e50ed2cd4bcbf3,9c52ce191bb6dd1062e50ed2cd4bcbef,d852ce191bb6dd1062e50ed2cd4bcbeb"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=cc52ce191bb6dd1062e50ed2cd4bcbaa^sys_idNOT IN5852ce191bb6dd1062e50ed2cd4bcbe1,9852ce191bb6dd1062e50ed2cd4bcbf3,9c52ce191bb6dd1062e50ed2cd4bcbef,d852ce191bb6dd1062e50ed2cd4bcbeb,f028d6991b7add1062e50ed2cd4bcbed,fc28d6991b7add1062e50ed2cd4bcbd6"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">522f75911bb6dd1062e50ed2cd4bcbcf</block>
         <comment/>
@@ -3790,10 +3934,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>5852ce191bb6dd1062e50ed2cd4bcbe1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:00</sys_updated_on>
         <ui_id>10e79bf5-fad6-4366-9880-1bac7826226d</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3921,7 +4065,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>10</order>
+        <order>12</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -3929,10 +4073,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>9852ce191bb6dd1062e50ed2cd4bcbf3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <ui_id>1ea56d3d-e6a2-49ce-97b9-68e991df243a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3993,7 +4137,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>7</order>
+        <order>8</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -4001,10 +4145,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>9c52ce191bb6dd1062e50ed2cd4bcbef</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
         <ui_id>7b33449c-56f1-4192-b652-6fce975284ce</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4073,10 +4217,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>d852ce191bb6dd1062e50ed2cd4bcbeb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 15:28:39</sys_updated_on>
+        <sys_updated_on>2022-10-26 17:04:00</sys_updated_on>
         <ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4123,6 +4267,150 @@
     </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=d852ce191bb6dd1062e50ed2cd4bcbeb"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=d852ce191bb6dd1062e50ed2cd4bcbeb"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">5b1856991b7add1062e50ed2cd4bcbcc</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>10</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>7b33449c-56f1-4192-b652-6fce975284ce</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>f028d6991b7add1062e50ed2cd4bcbed</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:04:01</sys_updated_on>
+        <ui_id>6fd92c78-f960-4cef-ac6d-13496ef802b8</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=f028d6991b7add1062e50ed2cd4bcbed"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>f028d6991b7add1062e50ed2cd4bcbed</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>7428d6991b7add1062e50ed2cd4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:59</sys_updated_on>
+        <value>company number not empty</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=f028d6991b7add1062e50ed2cd4bcbed"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>f028d6991b7add1062e50ed2cd4bcbed</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>f028d6991b7add1062e50ed2cd4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:59</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number}}!=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>f028d6991b7add1062e50ed2cd4bcbed</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>3028d6991b7add1062e50ed2cd4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:59</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=f028d6991b7add1062e50ed2cd4bcbed"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=f028d6991b7add1062e50ed2cd4bcbed"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">df1856991b7add1062e50ed2cd4bcbb3</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>1f854ea3-024c-4534-9201-0fa5c9f16c0c</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>fc28d6991b7add1062e50ed2cd4bcbd6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:04:00</sys_updated_on>
+        <ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=fc28d6991b7add1062e50ed2cd4bcbd6"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>fc28d6991b7add1062e50ed2cd4bcbd6</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>3828d6991b7add1062e50ed2cd4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:59</sys_updated_on>
+        <value>company number not empty</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=fc28d6991b7add1062e50ed2cd4bcbd6"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>fc28d6991b7add1062e50ed2cd4bcbd6</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>b428d6991b7add1062e50ed2cd4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:59</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number}}!=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>fc28d6991b7add1062e50ed2cd4bcbd6</id>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 17:03:59</sys_created_on>
+        <sys_id>f028d6991b7add1062e50ed2cd4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:03:59</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=fc28d6991b7add1062e50ed2cd4bcbd6"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=fc28d6991b7add1062e50ed2cd4bcbd6"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=cc52ce191bb6dd1062e50ed2cd4bcbaa"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=cc52ce191bb6dd1062e50ed2cd4bcbaa"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_cc52ce191bb6dd1062e50ed2cd4bcbaa^sys_idNOT IN1852ce191bb6dd1062e50ed2cd4bcbd2,1c52ce191bb6dd1062e50ed2cd4bcbbc,5852ce191bb6dd1062e50ed2cd4bcbc7,9052ce191bb6dd1062e50ed2cd4bcbda"/>
