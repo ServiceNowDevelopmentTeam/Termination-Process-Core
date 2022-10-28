@@ -163,6 +163,7 @@
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>11fad5d7bd1549ac81553cc7371e32c9</sys_id>
         <sys_metadata>7bf2c5121b81919062e50ed2cd4bcbfc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Final check will be provided to the individual based on their current distribution method (ie. Direct deposit, mailed to office location, etc)." </sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">60f281121b81919062e50ed2cd4bcb6d</sys_parent>
@@ -171,5 +172,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_7bf2c5121b81919062e50ed2cd4bcbfc</sys_update_name>
         <sys_update_version display_value="item_option_new_7bf2c5121b81919062e50ed2cd4bcbfc">3bf209121b81919062e50ed2cd4bcb0d</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:02:00</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

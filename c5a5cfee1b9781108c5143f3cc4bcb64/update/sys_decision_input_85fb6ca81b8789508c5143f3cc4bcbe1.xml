@@ -64,6 +64,8 @@
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_decision_input_85fb6ca81b8789508c5143f3cc4bcbe1</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -86,5 +88,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:55:57</sys_created_on>
         <sys_id>acc5c7621bd781108c5143f3cc4bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
     </sys_claim>
 </record_update>

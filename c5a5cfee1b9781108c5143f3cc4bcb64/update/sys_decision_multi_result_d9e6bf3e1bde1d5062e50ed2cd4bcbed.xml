@@ -8,11 +8,14 @@
         <sys_created_on>2022-10-06 19:17:30</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>d9e6bf3e1bde1d5062e50ed2cd4bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 65</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_decision_multi_result_d9e6bf3e1bde1d5062e50ed2cd4bcbed</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-07 13:12:36</sys_updated_on>
     </sys_decision_multi_result>
     <sys_variable_value action="delete_multiple" query="document_key=d9e6bf3e1bde1d5062e50ed2cd4bcbed"/>
     <sys_variable_value action="INSERT_OR_UPDATE">

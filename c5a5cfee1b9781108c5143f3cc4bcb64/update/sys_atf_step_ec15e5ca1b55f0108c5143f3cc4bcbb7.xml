@@ -13,11 +13,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2021-07-13 15:19:52</sys_created_on>
         <sys_id>ec15e5ca1b55f0108c5143f3cc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Order a Catalog Item (SP)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_atf_step_ec15e5ca1b55f0108c5143f3cc4bcbb7</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
         <table/>
         <test display_value="TC - 41 - Employee Termination - Submit Validation - SP">ff422d021b55f0108c5143f3cc4bcb70</test>
         <timeout/>
@@ -48,5 +51,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-23 19:20:13</sys_created_on>
         <sys_id>e6da387e1b4695508c5143f3cc4bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
     </sys_claim>
 </record_update>

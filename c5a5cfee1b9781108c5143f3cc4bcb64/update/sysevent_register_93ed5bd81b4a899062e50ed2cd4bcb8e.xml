@@ -10,11 +10,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-03-01 16:37:28</sys_created_on>
         <sys_id>93ed5bd81b4a899062e50ed2cd4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>modular.notification.termination.comment</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sysevent_register_93ed5bd81b4a899062e50ed2cd4bcb8e</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
         <table>sc_req_item</table>
     </sysevent_register>
     <sys_claim action="INSERT_OR_UPDATE">
@@ -27,5 +30,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:57:39</sys_created_on>
         <sys_id>992687a61bd781108c5143f3cc4bcb79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
     </sys_claim>
 </record_update>

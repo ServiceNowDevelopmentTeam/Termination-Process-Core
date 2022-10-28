@@ -11,11 +11,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-08-11 17:25:23</sys_created_on>
         <sys_id>c034c7b01b59991062e50ed2cd4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>sharepoint_page_address</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_c034c7b01b59991062e50ed2cd4bcb38</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
         <table/>
         <ui_policy display_value="init">3514c3b01b59991062e50ed2cd4bcbca</ui_policy>
         <variable>sharepoint_page_address</variable>

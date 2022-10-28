@@ -16,12 +16,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a5fba0e81b8789508c5143f3cc4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>term - wsfp cards_1100</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_decision_question_a5fba0e81b8789508c5143f3cc4bcb50</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
     </sys_decision_question>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
@@ -33,5 +36,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:57:39</sys_created_on>
         <sys_id>112687a61bd781108c5143f3cc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
     </sys_claim>
 </record_update>

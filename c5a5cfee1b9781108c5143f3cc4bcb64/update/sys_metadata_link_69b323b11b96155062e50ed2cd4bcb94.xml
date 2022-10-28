@@ -36,11 +36,14 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-03 15:19:45</sys_created_on>
         <sys_id>69b323b11b96155062e50ed2cd4bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Company ERP and Payroll Lookup_2000</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_metadata_link_69b323b11b96155062e50ed2cd4bcb94</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-07 13:12:36</sys_updated_on>
         <tablename>sys_decision_question</tablename>
     </sys_metadata_link>
 </record_update>

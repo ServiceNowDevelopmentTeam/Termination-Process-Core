@@ -48,6 +48,7 @@
         <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
         <sys_id>52ad3e249cb84f14a3f3ad286c8164c9</sys_id>
         <sys_metadata>ac75abd01b54d1908c5143f3cc4bcb1a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Can We Help You?.Employee Termination</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -56,5 +57,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>sc_cat_item_category_ac75abd01b54d1908c5143f3cc4bcb1a</sys_update_name>
         <sys_update_version display_value="sc_cat_item_category_ac75abd01b54d1908c5143f3cc4bcb1a">e475abd01b54d1908c5143f3cc4bcb1f</sys_update_version>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-06-21 13:31:03</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

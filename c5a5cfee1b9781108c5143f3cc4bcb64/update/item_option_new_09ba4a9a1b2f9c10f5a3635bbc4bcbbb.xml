@@ -69,11 +69,14 @@
         <sys_created_by>ryan.myers1</sys_created_by>
         <sys_created_on>2020-10-01 16:41:43</sys_created_on>
         <sys_id>09ba4a9a1b2f9c10f5a3635bbc4bcbbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Eligible for rehire</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>item_option_new_09ba4a9a1b2f9c10f5a3635bbc4bcbbb</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
         <table/>
         <tooltip>Select from drop down list</tooltip>
         <type>1</type>
@@ -138,5 +141,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:56:04</sys_created_on>
         <sys_id>c2c50f621bd781108c5143f3cc4bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
     </sys_claim>
 </record_update>

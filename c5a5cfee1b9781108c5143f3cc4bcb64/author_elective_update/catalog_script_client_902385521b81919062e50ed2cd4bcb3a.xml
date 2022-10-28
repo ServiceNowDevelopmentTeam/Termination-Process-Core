@@ -108,6 +108,7 @@
         <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
         <sys_id>2941484b656244a8b1634c39f301efc4</sys_id>
         <sys_metadata>902385521b81919062e50ed2cd4bcb3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Auto-Fill First/Last Name</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -116,5 +117,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_script_client_902385521b81919062e50ed2cd4bcb3a</sys_update_name>
         <sys_update_version display_value="catalog_script_client_902385521b81919062e50ed2cd4bcb3a">102385521b81919062e50ed2cd4bcb40</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:01:40</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -50,11 +50,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-04-20 15:16:52</sys_created_on>
         <sys_id>b42bec281b8789508c5143f3cc4bcb11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>term - if not webapps_100</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_metadata_link_b42bec281b8789508c5143f3cc4bcb11</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
         <tablename>sys_decision_question</tablename>
     </sys_metadata_link>
     <sys_claim action="INSERT_OR_UPDATE">
@@ -67,5 +70,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-09 17:55:58</sys_created_on>
         <sys_id>64c5c7621bd781108c5143f3cc4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:32:25</sys_updated_on>
     </sys_claim>
 </record_update>

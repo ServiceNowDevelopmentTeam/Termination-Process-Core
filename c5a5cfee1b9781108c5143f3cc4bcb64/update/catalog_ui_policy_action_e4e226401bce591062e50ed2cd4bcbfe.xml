@@ -11,11 +11,14 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-15 13:51:36</sys_created_on>
         <sys_id>e4e226401bce591062e50ed2cd4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>send_check_to</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_e4e226401bce591062e50ed2cd4bcbfe</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
         <table/>
         <ui_policy display_value="Final check is true">dcad0b161bbc19108c5143f3cc4bcbd2</ui_policy>
         <variable>send_check_to</variable>

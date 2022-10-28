@@ -58,6 +58,7 @@
         <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
         <sys_id>3ec0e81a85684cac835cfcbb4a4a5bf9</sys_id>
         <sys_metadata>7e261c191b3d151062e50ed2cd4bcbb8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>does_employee_have_a_company_cell_phone</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -66,5 +67,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_ui_policy_action_7e261c191b3d151062e50ed2cd4bcbb8</sys_update_name>
         <sys_update_version display_value="catalog_ui_policy_action_7e261c191b3d151062e50ed2cd4bcbb8">f6261c191b3d151062e50ed2cd4bcbc4</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:12</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

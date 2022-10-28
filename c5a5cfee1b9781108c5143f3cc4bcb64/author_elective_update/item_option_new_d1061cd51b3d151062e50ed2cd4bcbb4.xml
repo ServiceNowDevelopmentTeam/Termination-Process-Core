@@ -163,6 +163,7 @@
         <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
         <sys_id>026d993950e84d86912ab66dbe1e7604</sys_id>
         <sys_metadata>d1061cd51b3d151062e50ed2cd4bcbb4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Is any severance agreement a part of this person's termination?</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent display_value="">b7f598d51b3d151062e50ed2cd4bcb9f</sys_parent>
@@ -171,5 +172,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>item_option_new_d1061cd51b3d151062e50ed2cd4bcbb4</sys_update_name>
         <sys_update_version display_value="item_option_new_d1061cd51b3d151062e50ed2cd4bcbb4">9d061cd51b3d151062e50ed2cd4bcbc0</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:54</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

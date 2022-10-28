@@ -11,11 +11,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2021-07-02 18:53:31</sys_created_on>
         <sys_id>f46c6da61b413014e7004229bc4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>email_back_up_required</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_f46c6da61b413014e7004229bc4bcbf5</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
         <table/>
         <ui_policy display_value="email backup required">ef2ce1a61b413014e7004229bc4bcb21</ui_policy>
         <variable>email_back_up_required</variable>
@@ -32,5 +35,8 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-11 19:38:00</sys_created_on>
         <sys_id>2b82abbc1b91d5108c5143f3cc4bcb1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
     </sys_claim>
 </record_update>

@@ -100,6 +100,7 @@
         <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
         <sys_id>58b3801f0b5d49d1947f33274224c379</sys_id>
         <sys_metadata>aa06d0a31b78dd1062e50ed2cd4bcb81</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Set employee number on employee change</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -108,5 +109,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_script_client_aa06d0a31b78dd1062e50ed2cd4bcb81</sys_update_name>
         <sys_update_version display_value="catalog_script_client_aa06d0a31b78dd1062e50ed2cd4bcb81">043cd4ab1b78dd1062e50ed2cd4bcb92</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-07-26 14:28:04</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -48,6 +48,7 @@
         <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
         <sys_id>5c1adb3451ba49aa9e903de5cc863921</sys_id>
         <sys_metadata>26bff6781b19991062e50ed2cd4bcb65</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>iNSIDE APi Change Request.SNC External</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_parent/>
@@ -56,5 +57,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>sc_cat_item_user_criteria_no_mtom_26bff6781b19991062e50ed2cd4bcb65</sys_update_name>
         <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_26bff6781b19991062e50ed2cd4bcb65">f3ae9b741b1d991062e50ed2cd4bcbe1</sys_update_version>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-08-11 19:21:04</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

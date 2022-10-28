@@ -104,6 +104,7 @@ function ajaxResponse(response) {
         <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
         <sys_id>3891e2b83bb14ee6b5236040b0ea11c4</sys_id>
         <sys_metadata>97265c191b3d151062e50ed2cd4bcbd8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>If user safety services company</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -112,5 +113,7 @@ function ajaxResponse(response) {
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_script_client_97265c191b3d151062e50ed2cd4bcbd8</sys_update_name>
         <sys_update_version display_value="catalog_script_client_97265c191b3d151062e50ed2cd4bcbd8">17265c191b3d151062e50ed2cd4bcbdd</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:19</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

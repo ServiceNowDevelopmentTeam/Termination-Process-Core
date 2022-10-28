@@ -78,6 +78,7 @@
         <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
         <sys_id>06a0db5f06584984806befea8e76e064</sys_id>
         <sys_metadata>df265c191b3d151062e50ed2cd4bcbf4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Hide checkbox labels</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent/>
@@ -86,5 +87,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>catalog_script_client_df265c191b3d151062e50ed2cd4bcbf4</sys_update_name>
         <sys_update_version display_value="catalog_script_client_df265c191b3d151062e50ed2cd4bcbf4">5f265c191b3d151062e50ed2cd4bcbf9</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:37:19</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

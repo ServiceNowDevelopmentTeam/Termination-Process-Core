@@ -89,6 +89,7 @@
         <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
         <sys_id>76b23f13205b4af68277209d4b1dc3b1</sys_id>
         <sys_metadata>d2069cd51b3d151062e50ed2cd4bcb18</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Relocation (M)</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_parent display_value="">ca069cd51b3d151062e50ed2cd4bcb08</sys_parent>
@@ -97,5 +98,7 @@
         <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
         <sys_update_name>question_choice_d2069cd51b3d151062e50ed2cd4bcb18</sys_update_name>
         <sys_update_version display_value="question_choice_d2069cd51b3d151062e50ed2cd4bcb18">92069cd51b3d151062e50ed2cd4bcb37</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-06 14:35:54</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

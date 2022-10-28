@@ -11,11 +11,14 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-06-21 16:02:31</sys_created_on>
         <sys_id>102844ec1bd4d1908c5143f3cc4bcb76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>it</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_102844ec1bd4d1908c5143f3cc4bcb76</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
         <table/>
         <ui_policy display_value="employee without email">0e07486c1bd4d1908c5143f3cc4bcbc6</ui_policy>
         <variable>it</variable>
