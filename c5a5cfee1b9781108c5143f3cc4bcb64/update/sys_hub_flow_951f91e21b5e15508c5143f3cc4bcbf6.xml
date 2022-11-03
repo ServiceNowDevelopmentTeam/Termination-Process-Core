@@ -10,9 +10,9 @@
         <copied_from_name/>
         <description/>
         <internal_name>wait_for_question_to_change</internal_name>
-        <label_cache>[{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record.value","label":"3 - Look Up Record➛Options Record➛Value","reference":"","reference_display":"Value","type":"string","base_type":"string","parent_table_name":"sc_item_option","column_name":"value"},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__dont_treat_as_error__","label":"5 - Wait For Condition➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__action_status__","label":"5 - Wait For Condition➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.state","label":"5 - Wait For Condition➛State","reference_display":"State","type":"choice","base_type":"choice","choices":[{"label":"Complete","value":"0","order":0.0},{"label":"Timeout","value":"1","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"2e334039-7a20-4ead-9148-909988f1a7e4"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record.sc_item_option.sys_id","label":"1 - Look Up Record➛Variable Ownership Record➛Dependent Item➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sc_item_option","column_name":"sys_id"},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__dont_treat_as_error__","label":"3 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__action_status__","label":"3 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.error_message","label":"3 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.status","label":"3 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Table","label":"3 - Look Up Record➛Options Table","reference":"sc_item_option","reference_display":"Options","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record","label":"3 - Look Up Record➛Options Record","reference":"sc_item_option","reference_display":"Options","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.flow_question","label":"Input➛Flow Question","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6fe29c03-0971-4e78-8315-419c29915edc","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm","label":"Input➛RITM","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"a87f4316-90f7-4f06-b5e6-6d0dd56d07aa"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__dont_treat_as_error__","label":"1 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__action_status__","label":"1 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.error_message","label":"1 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Table","label":"1 - Look Up Record➛Variable Ownership Table","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record","label":"1 - Look Up Record➛Variable Ownership Record","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record","label":"1 - Look Up Record➛Variable Ownership Record","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Table","label":"1 - Look Up Record➛Variable Ownership Table","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.error_message","label":"1 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__action_status__","label":"1 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__dont_treat_as_error__","label":"1 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.ritm","label":"Input➛RITM","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"a87f4316-90f7-4f06-b5e6-6d0dd56d07aa"}},{"name":"subflow.flow_question","label":"Input➛Flow Question","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6fe29c03-0971-4e78-8315-419c29915edc","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record","label":"3 - Look Up Record➛Options Record","reference":"sc_item_option","reference_display":"Options","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Table","label":"3 - Look Up Record➛Options Table","reference":"sc_item_option","reference_display":"Options","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.status","label":"3 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.error_message","label":"3 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__action_status__","label":"3 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__dont_treat_as_error__","label":"3 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record.sc_item_option.sys_id","label":"1 - Look Up Record➛Variable Ownership Record➛Dependent Item➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sc_item_option","column_name":"sys_id"},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.state","label":"5 - Wait For Condition➛State","reference_display":"State","type":"choice","base_type":"choice","choices":[{"label":"Complete","value":"0","order":0.0},{"label":"Timeout","value":"1","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"2e334039-7a20-4ead-9148-909988f1a7e4"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__action_status__","label":"5 - Wait For Condition➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__dont_treat_as_error__","label":"5 - Wait For Condition➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record.value","label":"3 - Look Up Record➛Options Record➛Value","reference":"","reference_display":"Value","type":"string","base_type":"string","parent_table_name":"sc_item_option","column_name":"value"}]</label_cache>
         <master_snapshot>5c29a5221bde15508c5143f3cc4bcb18</master_snapshot>
-        <name>wait for question to change</name>
+        <name>wait for empty question to change</name>
         <natlang/>
         <outputs/>
         <pre_compiled>false</pre_compiled>
@@ -29,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>951f91e21b5e15508c5143f3cc4bcbf6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>wait for question to change</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>wait for empty question to change</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_951f91e21b5e15508c5143f3cc4bcbf6</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-14 19:53:36</sys_updated_on>
+        <sys_updated_on>2022-11-02 15:34:38</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=951f91e21b5e15508c5143f3cc4bcbf6"/>
@@ -98,7 +98,7 @@
         <label>Flow Question</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</model>
+        <model display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</model>
         <model_id>951f91e21b5e15508c5143f3cc4bcbf6</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_input_951f91e21b5e15508c5143f3cc4bcbf6</name>
@@ -181,7 +181,7 @@
         <label>RITM</label>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <model display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</model>
+        <model display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</model>
         <model_id>951f91e21b5e15508c5143f3cc4bcbf6</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_input_951f91e21b5e15508c5143f3cc4bcbf6</name>
@@ -234,17 +234,17 @@
         <action_type_parent/>
         <comment/>
         <display_text/>
-        <flow display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
+        <flow display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:02:34</sys_created_on>
         <sys_id>223561e61b9e15508c5143f3cc4bcb4e</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-10-28 14:05:04</sys_updated_on>
+        <sys_updated_on>2022-11-02 17:31:40</sys_updated_on>
         <ui_id>374cf429-b596-44e4-9ce7-c36ef0a597ed</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=223561e61b9e15508c5143f3cc4bcb4e"/>
@@ -322,17 +322,17 @@
         <action_type_parent/>
         <comment/>
         <display_text/>
-        <flow display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
+        <flow display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
         <order>5</order>
         <parent_ui_id>8c9aa778-7236-42ed-af3e-85663bbe3632</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:02:34</sys_created_on>
         <sys_id>223561e61b9e15508c5143f3cc4bcb68</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-10-28 14:05:04</sys_updated_on>
+        <sys_updated_on>2022-11-02 17:31:40</sys_updated_on>
         <ui_id>739709db-7f04-4ff3-b899-be72bbba3744</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=223561e61b9e15508c5143f3cc4bcb68"/>
@@ -358,10 +358,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:02:34</sys_created_on>
         <sys_id>6e3561e61b9e15508c5143f3cc4bcb6a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 14:02:34</sys_updated_on>
-        <value>1970-01-02 00:00:00</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:34</sys_updated_on>
+        <value>1970-01-15 00:00:00</value>
         <variable display_value="Duration">cdce8a4187120010663ca1bb36cb0bf9</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -462,17 +462,17 @@
         <action_type_parent/>
         <comment/>
         <display_text/>
-        <flow display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
+        <flow display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
         <order>3</order>
         <parent_ui_id>a7ffc128-eb95-42a9-9978-4f0c9450a63f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:02:34</sys_created_on>
         <sys_id>e23561e61b9e15508c5143f3cc4bcb5d</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-10-28 14:05:04</sys_updated_on>
+        <sys_updated_on>2022-11-02 17:31:40</sys_updated_on>
         <ui_id>ef96f8b6-f078-40d8-92d6-624406d79e9b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e23561e61b9e15508c5143f3cc4bcb5d"/>
@@ -553,7 +553,7 @@
         <decision_table_inputs/>
         <display_text/>
         <extended_inputs/>
-        <flow display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
+        <flow display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
         <flow_variable/>
         <flow_variables_assigned/>
         <inputs/>
@@ -567,10 +567,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:02:34</sys_created_on>
         <sys_id>263561e61b9e15508c5143f3cc4bcb52</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:37</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:38</sys_updated_on>
         <ui_id>a7ffc128-eb95-42a9-9978-4f0c9450a63f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -625,7 +625,7 @@
         <decision_table_inputs/>
         <display_text/>
         <extended_inputs/>
-        <flow display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
+        <flow display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</flow>
         <flow_variable/>
         <flow_variables_assigned/>
         <inputs/>
@@ -639,10 +639,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:02:34</sys_created_on>
         <sys_id>ae3561e61b9e15508c5143f3cc4bcb5f</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:37</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:38</sys_updated_on>
         <ui_id>8c9aa778-7236-42ed-af3e-85663bbe3632</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -719,18 +719,18 @@
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=951f91e21b5e15508c5143f3cc4bcbf6^sys_idNOT INb429a5221bde15508c5143f3cc4bcbf7"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"b429a5221bde15508c5143f3cc4bcbf7","name":"plan","plan_signature":null}}</plan>
-        <plan_id display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</plan_id>
-        <snapshot>5b528cca1bb251108c5143f3cc4bcb03</snapshot>
+        <plan_id display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</plan_id>
+        <snapshot>da9162ef1b7a99108c5143f3cc4bcb63</snapshot>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b429a5221bde15508c5143f3cc4bcbf7</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:37</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:38</sys_updated_on>
     </sys_flow_subflow_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -743,12 +743,12 @@
         <copied_from_name/>
         <description/>
         <internal_name>wait_for_question_to_change</internal_name>
-        <label_cache>[{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record.value","label":"3 - Look Up Record➛Options Record➛Value","reference":"","reference_display":"Value","type":"string","base_type":"string","parent_table_name":"sc_item_option","column_name":"value"},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__dont_treat_as_error__","label":"5 - Wait For Condition➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__action_status__","label":"5 - Wait For Condition➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.state","label":"5 - Wait For Condition➛State","reference_display":"State","type":"choice","base_type":"choice","choices":[{"label":"Complete","value":"0","order":0.0},{"label":"Timeout","value":"1","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"2e334039-7a20-4ead-9148-909988f1a7e4"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record.sc_item_option.sys_id","label":"1 - Look Up Record➛Variable Ownership Record➛Dependent Item➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sc_item_option","column_name":"sys_id"},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__dont_treat_as_error__","label":"3 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__action_status__","label":"3 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.error_message","label":"3 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.status","label":"3 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Table","label":"3 - Look Up Record➛Options Table","reference":"sc_item_option","reference_display":"Options","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record","label":"3 - Look Up Record➛Options Record","reference":"sc_item_option","reference_display":"Options","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.flow_question","label":"Input➛Flow Question","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6fe29c03-0971-4e78-8315-419c29915edc","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm","label":"Input➛RITM","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"a87f4316-90f7-4f06-b5e6-6d0dd56d07aa"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__dont_treat_as_error__","label":"1 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__action_status__","label":"1 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.error_message","label":"1 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Table","label":"1 - Look Up Record➛Variable Ownership Table","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record","label":"1 - Look Up Record➛Variable Ownership Record","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record","label":"1 - Look Up Record➛Variable Ownership Record","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Table","label":"1 - Look Up Record➛Variable Ownership Table","reference":"sc_item_option_mtom","reference_display":"Variable Ownership","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.error_message","label":"1 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__action_status__","label":"1 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.__dont_treat_as_error__","label":"1 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.ritm","label":"Input➛RITM","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"a87f4316-90f7-4f06-b5e6-6d0dd56d07aa"}},{"name":"subflow.flow_question","label":"Input➛Flow Question","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6fe29c03-0971-4e78-8315-419c29915edc","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record","label":"3 - Look Up Record➛Options Record","reference":"sc_item_option","reference_display":"Options","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Table","label":"3 - Look Up Record➛Options Table","reference":"sc_item_option","reference_display":"Options","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.status","label":"3 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.error_message","label":"3 - Look Up Record➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__action_status__","label":"3 - Look Up Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.__dont_treat_as_error__","label":"3 - Look Up Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"374cf429-b596-44e4-9ce7-c36ef0a597ed.Record.sc_item_option.sys_id","label":"1 - Look Up Record➛Variable Ownership Record➛Dependent Item➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sc_item_option","column_name":"sys_id"},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.state","label":"5 - Wait For Condition➛State","reference_display":"State","type":"choice","base_type":"choice","choices":[{"label":"Complete","value":"0","order":0.0},{"label":"Timeout","value":"1","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"2e334039-7a20-4ead-9148-909988f1a7e4"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__action_status__","label":"5 - Wait For Condition➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"739709db-7f04-4ff3-b899-be72bbba3744.__dont_treat_as_error__","label":"5 - Wait For Condition➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ef96f8b6-f078-40d8-92d6-624406d79e9b.Record.value","label":"3 - Look Up Record➛Options Record➛Value","reference":"","reference_display":"Value","type":"string","base_type":"string","parent_table_name":"sc_item_option","column_name":"value"}]</label_cache>
         <master>true</master>
-        <name>wait for question to change</name>
+        <name>wait for empty question to change</name>
         <natlang/>
         <outputs/>
-        <parent_flow display_value="wait for question to change">951f91e21b5e15508c5143f3cc4bcbf6</parent_flow>
+        <parent_flow display_value="wait for empty question to change">951f91e21b5e15508c5143f3cc4bcbf6</parent_flow>
         <remote_trigger_id/>
         <run_as>system</run_as>
         <run_with_roles/>
@@ -760,15 +760,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c29a5221bde15508c5143f3cc4bcb18</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:36</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:37</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=5c29a5221bde15508c5143f3cc4bcb18"/>
@@ -829,7 +829,7 @@
         <label>RITM</label>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <model display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</model>
+        <model display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</model>
         <model_id>5c29a5221bde15508c5143f3cc4bcb18</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_input_5c29a5221bde15508c5143f3cc4bcb18</name>
@@ -912,7 +912,7 @@
         <label>Flow Question</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</model>
+        <model display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</model>
         <model_id>5c29a5221bde15508c5143f3cc4bcb18</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_input_5c29a5221bde15508c5143f3cc4bcb18</name>
@@ -965,17 +965,17 @@
         <action_type_parent display_value="Look Up Record">b93f42810b30030085c083eb37673a63</action_type_parent>
         <comment/>
         <display_text/>
-        <flow display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
+        <flow display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:38</sys_created_on>
         <sys_id>2029a5221bde15508c5143f3cc4bcb89</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:36</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:37</sys_updated_on>
         <ui_id>374cf429-b596-44e4-9ce7-c36ef0a597ed</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2029a5221bde15508c5143f3cc4bcb89"/>
@@ -1053,17 +1053,17 @@
         <action_type_parent display_value="Wait For Condition">8bb9a8160b10030085c083eb37673aec</action_type_parent>
         <comment/>
         <display_text/>
-        <flow display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
+        <flow display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
         <order>5</order>
         <parent_ui_id>8c9aa778-7236-42ed-af3e-85663bbe3632</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:38</sys_created_on>
         <sys_id>6029a5221bde15508c5143f3cc4bcb9d</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:36</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:37</sys_updated_on>
         <ui_id>739709db-7f04-4ff3-b899-be72bbba3744</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6029a5221bde15508c5143f3cc4bcb9d"/>
@@ -1089,10 +1089,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:38</sys_created_on>
         <sys_id>6c29a5221bde15508c5143f3cc4bcb9f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 14:19:38</sys_updated_on>
-        <value>1970-01-02 00:00:00</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:36</sys_updated_on>
+        <value>1970-01-15 00:00:00</value>
         <variable display_value="Duration">cdce8a4187120010663ca1bb36cb0bf9</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1193,17 +1193,17 @@
         <action_type_parent display_value="Look Up Record">b93f42810b30030085c083eb37673a63</action_type_parent>
         <comment/>
         <display_text/>
-        <flow display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
+        <flow display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
         <order>3</order>
         <parent_ui_id>a7ffc128-eb95-42a9-9978-4f0c9450a63f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:38</sys_created_on>
         <sys_id>e029a5221bde15508c5143f3cc4bcb93</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:36</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:37</sys_updated_on>
         <ui_id>ef96f8b6-f078-40d8-92d6-624406d79e9b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e029a5221bde15508c5143f3cc4bcb93"/>
@@ -1284,7 +1284,7 @@
         <decision_table_inputs/>
         <display_text/>
         <extended_inputs/>
-        <flow display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
+        <flow display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
         <flow_variable/>
         <flow_variables_assigned/>
         <inputs/>
@@ -1298,10 +1298,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:38</sys_created_on>
         <sys_id>2029a5221bde15508c5143f3cc4bcb70</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:36</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:37</sys_updated_on>
         <ui_id>8c9aa778-7236-42ed-af3e-85663bbe3632</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1330,7 +1330,7 @@
         <decision_table_inputs/>
         <display_text/>
         <extended_inputs/>
-        <flow display_value="wait for question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
+        <flow display_value="wait for empty question to change">5c29a5221bde15508c5143f3cc4bcb18</flow>
         <flow_variable/>
         <flow_variables_assigned/>
         <inputs/>
@@ -1344,10 +1344,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-10-05 14:19:38</sys_created_on>
         <sys_id>2c29a5221bde15508c5143f3cc4bcb6a</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-10-05 15:24:36</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-11-02 15:34:37</sys_updated_on>
         <ui_id>a7ffc128-eb95-42a9-9978-4f0c9450a63f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
