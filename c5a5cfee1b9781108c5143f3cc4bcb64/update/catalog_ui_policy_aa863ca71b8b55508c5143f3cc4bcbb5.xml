@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_ui_policy">
     <catalog_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applies_catalog>false</applies_catalog>
+        <applies_catalog>true</applies_catalog>
         <applies_req_item>true</applies_req_item>
         <applies_sc_task>true</applies_sc_task>
-        <applies_target_record>false</applies_target_record>
-        <applies_to>item</applies_to>
+        <applies_target_record>true</applies_target_record>
+        <applies_to>set</applies_to>
         <catalog_conditions/>
-        <catalog_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</catalog_item>
+        <catalog_item/>
         <conditions/>
         <description/>
         <global>true</global>
@@ -26,25 +26,25 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>Hide review stuff in tasks</short_description>
+        <short_description>init</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-09-22 19:36:58</sys_created_on>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-11-14 19:59:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>1905b7921bce595062e50ed2cd4bcbfc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Hide review stuff in tasks</sys_name>
+        <sys_id>aa863ca71b8b55508c5143f3cc4bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>init</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name>catalog_ui_policy_1905b7921bce595062e50ed2cd4bcbfc</sys_update_name>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-11-14 20:35:07</sys_updated_on>
+        <sys_update_name>catalog_ui_policy_aa863ca71b8b55508c5143f3cc4bcbb5</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-11-14 19:59:45</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
-        <variable_set/>
+        <variable_set display_value="Individual Data">c737816d1b4f59108c5143f3cc4bcbf7</variable_set>
         <view/>
     </catalog_ui_policy>
 </record_update>

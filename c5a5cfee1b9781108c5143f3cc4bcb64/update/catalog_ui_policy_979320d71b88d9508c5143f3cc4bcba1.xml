@@ -33,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>979320d71b88d9508c5143f3cc4bcba1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Employee Type Mandatory only on portal</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -41,7 +41,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_979320d71b88d9508c5143f3cc4bcba1</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
+        <sys_updated_on>2022-11-14 20:35:07</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <variable_set/>

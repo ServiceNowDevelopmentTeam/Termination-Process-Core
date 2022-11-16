@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -39,13 +39,13 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>type_of_termination</name>
-        <order>1</order>
+        <name>employee_first_name_variable_set</name>
+        <order>0</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Type of termination</question_text>
+        <question_text>Employee First Name</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -73,26 +73,26 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-11-08 14:51:48</sys_created_on>
-        <sys_id>476638e11b0f59108c5143f3cc4bcb5b</sys_id>
+        <sys_created_on>2022-11-08 17:43:36</sys_created_on>
+        <sys_id>b5cd996d1bcf59108c5143f3cc4bcb7e</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Type of termination</sys_name>
+        <sys_name>Employee First Name</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name>item_option_new_476638e11b0f59108c5143f3cc4bcb5b</sys_update_name>
+        <sys_update_name>item_option_new_b5cd996d1bcf59108c5143f3cc4bcb7e</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-11-08 21:05:45</sys_updated_on>
+        <sys_updated_on>2022-11-14 19:59:14</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>advanced</use_reference_qualifier>
+        <use_reference_qualifier>simple</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
-        <variable_set/>
+        <variable_set display_value="Individual Data">c737816d1b4f59108c5143f3cc4bcbf7</variable_set>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
@@ -101,22 +101,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=476638e11b0f59108c5143f3cc4bcb5b"/>
-    <fx_price action="delete_multiple" query="id=476638e11b0f59108c5143f3cc4bcb5b"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=b5cd996d1bcf59108c5143f3cc4bcb7e"/>
+    <fx_price action="delete_multiple" query="id=b5cd996d1bcf59108c5143f3cc4bcb7e"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>476638e11b0f59108c5143f3cc4bcb5b</id>
+        <id>b5cd996d1bcf59108c5143f3cc4bcb7e</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-11-08 14:51:48</sys_created_on>
-        <sys_id>8386f8e11b0f59108c5143f3cc4bcb6d</sys_id>
+        <sys_created_on>2022-11-08 17:43:36</sys_created_on>
+        <sys_id>2fdd9d6d1bcf59108c5143f3cc4bcb28</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-11-08 14:51:48</sys_updated_on>
+        <sys_updated_on>2022-11-08 17:43:36</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -124,16 +124,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>476638e11b0f59108c5143f3cc4bcb5b</id>
+        <id>b5cd996d1bcf59108c5143f3cc4bcb7e</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>John.Schwab</sys_created_by>
-        <sys_created_on>2022-11-08 14:51:48</sys_created_on>
-        <sys_id>8f86f8e11b0f59108c5143f3cc4bcb6b</sys_id>
+        <sys_created_on>2022-11-08 17:43:36</sys_created_on>
+        <sys_id>2fdd9d6d1bcf59108c5143f3cc4bcb27</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-11-08 14:51:48</sys_updated_on>
+        <sys_updated_on>2022-11-08 17:43:36</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

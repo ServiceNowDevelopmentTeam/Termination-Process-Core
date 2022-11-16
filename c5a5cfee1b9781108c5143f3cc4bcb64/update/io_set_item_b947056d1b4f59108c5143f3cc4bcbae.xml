@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>204</order>
+        <sc_cat_item display_value="Termination Request">5f918a921b2f9c10f5a3635bbc4bcba9</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2022-11-08 16:04:54</sys_created_on>
+        <sys_id>b947056d1b4f59108c5143f3cc4bcbae</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Individual Data.Termination Request</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>io_set_item_b947056d1b4f59108c5143f3cc4bcbae</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2022-11-08 21:42:02</sys_updated_on>
+        <variable_set display_value="Individual Data">c737816d1b4f59108c5143f3cc4bcbf7</variable_set>
+    </io_set_item>
+</record_update>
