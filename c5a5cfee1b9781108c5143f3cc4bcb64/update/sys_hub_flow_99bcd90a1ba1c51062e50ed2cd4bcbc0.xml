@@ -1576,7 +1576,7 @@
         <inputs/>
         <order>38</order>
         <parent_ui_id>5a173f0c-7c1f-41be-8f1a-66418dee551a</parent_ui_id>
-        <subflow display_value="termination ERP and stuff">ad9160271b0b55508c5143f3cc4bcb25</subflow>
+        <subflow display_value="Termination Tasks and Automation">ad9160271b0b55508c5143f3cc4bcb25</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
@@ -1830,7 +1830,7 @@
         <inputs/>
         <order>40</order>
         <parent_ui_id>2db5aeef-3159-4426-9f50-bdd8712daeae</parent_ui_id>
-        <subflow display_value="termination ERP and stuff">ad9160271b0b55508c5143f3cc4bcb25</subflow>
+        <subflow display_value="Termination Tasks and Automation">ad9160271b0b55508c5143f3cc4bcb25</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
@@ -8784,7 +8784,7 @@
         <inputs/>
         <order>38</order>
         <parent_ui_id>5a173f0c-7c1f-41be-8f1a-66418dee551a</parent_ui_id>
-        <subflow display_value="termination ERP and stuff">ad9160271b0b55508c5143f3cc4bcb25</subflow>
+        <subflow display_value="Termination Tasks and Automation">ad9160271b0b55508c5143f3cc4bcb25</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
@@ -9184,7 +9184,7 @@
         <inputs/>
         <order>40</order>
         <parent_ui_id>2db5aeef-3159-4426-9f50-bdd8712daeae</parent_ui_id>
-        <subflow display_value="termination ERP and stuff">ad9160271b0b55508c5143f3cc4bcb25</subflow>
+        <subflow display_value="Termination Tasks and Automation">ad9160271b0b55508c5143f3cc4bcb25</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
