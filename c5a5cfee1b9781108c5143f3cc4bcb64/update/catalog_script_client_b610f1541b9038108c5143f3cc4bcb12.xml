@@ -18,79 +18,77 @@
         <name>Get Employee Info and AutoFill</name>
         <order>100</order>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-    if (isLoading || newValue == '') {
-        return;
-    }
+	if (isLoading || newValue == '') {
+		return;
+	}
 
 
-    g_form.getReference('Person_Leaving', populateDeptDetails);
-    //console.log("reqFor: "+ reqFor.sys_id);
+	g_form.getReference('Person_Leaving', populateDeptDetails);
+	//console.log("reqFor: "+ reqFor.sys_id);
 
-    /*
-    var reqForI = g_form.getValue('Person_Leaving');
-    console.log('reqFor: ' + reqForI);
-    //console.log('reqFor.company' + company);
-    var gr = new GlideRecord('sys_user');
-    gr.addQuery('sys_id', reqForI);
-    gr.query();
-    var reqFor = gr.next();
-    console.log('reqFor.company' + reqFor.company);
-    */
+	function populateDeptDetails(reqFor) {
+		//ensure that a record exists, then set the value correctly and set permissions correctly
+		//if no record exists, then empty the value correctly and set permissions correctly
 
-    function populateDeptDetails(reqFor) {
-        //ensure that a record exists, then set the value correctly and set permissions correctly
-        //if no record exists, then empty the value correctly and set permissions correctly
+		//autofill manager
+		if (reqFor.manager != '') {
+			var gr = new GlideRecord('sys_user');
+			gr.addQuery('sys_id',reqFor.manager.toString());
+			gr.query(function(managerGr){
+				if(managerGr.next() && managerGr.active == 'true'){
+					g_form.setValue('employees_manager', managerGr.sys_id.toString());
+				}
+				else{
+					g_form.setValue('employees_manager','');
+				}
+			});
+		}
 
-        //autofill manager
-        if (reqFor.manager != '') {
-            g_form.setValue('employees_manager', reqFor.manager);
-        }
-
-        var company_not_blank = 'false';
-        var ga = new GlideAjax('global.company_validation');
-            ga.addParam('sysparm_name', 'validateCompany'); ga.addParam('val1', reqFor.company); ga.getXML(function(response) {
-                company_not_blank = response.responseXML.documentElement.getAttribute("answer");
-				
-				
-				
-                if (reqFor.company != '' && company_not_blank == 'true') {
-                    //g_form.setValue('company', 'test company');
-                    g_form.setValue('company', reqFor.company);
-                    g_form.setReadOnly('company', true);
-                    g_form.setMandatory('company', false);
-                } else {
-                    g_form.setValue('company', '');
-                    g_form.setReadOnly('company', false);
-                    g_form.setMandatory('company', true);
-					
-					
-					
-                }
-            });
+		var company_not_blank = 'false';
+		var ga = new GlideAjax('global.company_validation');
+		ga.addParam('sysparm_name', 'validateCompany'); ga.addParam('val1', reqFor.company); ga.getXML(function(response) {
+			company_not_blank = response.responseXML.documentElement.getAttribute("answer");
 
 
-            //if company record is not empty
+
+			if (reqFor.company != '' && company_not_blank == 'true') {
+				//g_form.setValue('company', 'test company');
+				g_form.setValue('company', reqFor.company);
+				g_form.setReadOnly('company', true);
+				g_form.setMandatory('company', false);
+			} else {
+				g_form.setValue('company', '');
+				g_form.setReadOnly('company', false);
+				g_form.setMandatory('company', true);
 
 
-            //if location record is not empty
-            if (reqFor.location != '') {
-                g_form.setValue('location', reqFor.location);
-                g_form.setReadOnly('location', true);
-                g_form.setMandatory('location', false);
-            } else {
-                g_form.setValue('location', '');
-                g_form.setReadOnly('location', false);
-                g_form.setMandatory('location', true);
-            }
-        }
-    }]]></script>
+
+			}
+		});
+
+
+		//if company record is not empty
+
+
+		//if location record is not empty
+		if (reqFor.location != '') {
+			g_form.setValue('location', reqFor.location);
+			g_form.setReadOnly('location', true);
+			g_form.setMandatory('location', false);
+		} else {
+			g_form.setValue('location', '');
+			g_form.setReadOnly('location', false);
+			g_form.setMandatory('location', true);
+		}
+	}
+}]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2021-05-19 12:42:09</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b610f1541b9038108c5143f3cc4bcb12</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Get Employee Info and AutoFill</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
@@ -98,7 +96,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_script_client_b610f1541b9038108c5143f3cc4bcb12</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
+        <sys_updated_on>2022-12-22 22:23:01</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
