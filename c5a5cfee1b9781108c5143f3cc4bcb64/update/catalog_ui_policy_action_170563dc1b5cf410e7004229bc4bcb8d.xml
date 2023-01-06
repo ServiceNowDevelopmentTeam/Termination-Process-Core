@@ -25,18 +25,4 @@
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</claim_owner_scope>
-        <claim_timestamp>1828e69f2d70000001</claim_timestamp>
-        <metadata_update_name>catalog_ui_policy_action_170563dc1b5cf410e7004229bc4bcb8d</metadata_update_name>
-        <previous_claim_app_version>1.0.24</previous_claim_app_version>
-        <previous_claim_name>Termination Process Core</previous_claim_name>
-        <previous_claim_scope>c5a5cfee1b9781108c5143f3cc4bcb64</previous_claim_scope>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-08-11 19:38:04</sys_created_on>
-        <sys_id>a4922fbc1b91d5108c5143f3cc4bcb11</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
-    </sys_claim>
 </record_update>

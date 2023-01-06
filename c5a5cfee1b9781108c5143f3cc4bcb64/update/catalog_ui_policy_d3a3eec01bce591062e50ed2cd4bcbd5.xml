@@ -16,7 +16,7 @@
         <model_id/>
         <model_table/>
         <on_load>true</on_load>
-        <order>200</order>
+        <order>1000</order>
         <reverse_if_false>false</reverse_if_false>
         <run_scripts>false</run_scripts>
         <script_false><![CDATA[function onCondition() {
@@ -33,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d3a3eec01bce591062e50ed2cd4bcbd5</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Check here not required</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -41,7 +41,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_d3a3eec01bce591062e50ed2cd4bcbd5</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-11-14 20:35:07</sys_updated_on>
+        <sys_updated_on>2023-01-06 16:49:24</sys_updated_on>
         <table/>
         <ui_type>0</ui_type>
         <variable_set/>
