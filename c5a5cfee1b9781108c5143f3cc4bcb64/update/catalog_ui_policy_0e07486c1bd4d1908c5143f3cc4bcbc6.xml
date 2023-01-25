@@ -25,11 +25,13 @@
         <script_true><![CDATA[function onCondition() {
 	g_form.setValue('user_not_found' , true);
 	
-	/*
+	
 	g_form.setReadOnly('check_here_to_delegate_this_access_to_someone_else_in_the_organization', false);
 g_form.setMandatory('check_here_to_delegate_this_access_to_someone_else_in_the_organization', false);
 g_form.setVisible('check_here_to_delegate_this_access_to_someone_else_in_the_organization', false);
-	g_form.setVisible('check_here_to_delegate_this_access_to_someone_else_in_the_organization', false);*/
+	g_form.setVisible('check_here_to_delegate_this_access_to_someone_else_in_the_organization', false);
+	
+	g_form.setMandatory('final_check_instructions', false);
 }]]></script_true>
         <set_values/>
         <short_description>employee without email</short_description>
@@ -39,7 +41,7 @@ g_form.setVisible('check_here_to_delegate_this_access_to_someone_else_in_the_org
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0e07486c1bd4d1908c5143f3cc4bcbc6</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>employee without email</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -47,7 +49,7 @@ g_form.setVisible('check_here_to_delegate_this_access_to_someone_else_in_the_org
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_0e07486c1bd4d1908c5143f3cc4bcbc6</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2023-01-24 16:37:54</sys_updated_on>
+        <sys_updated_on>2023-01-25 14:22:29</sys_updated_on>
         <table/>
         <ui_type>10</ui_type>
         <variable_set/>
