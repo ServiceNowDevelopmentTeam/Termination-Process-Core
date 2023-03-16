@@ -16,7 +16,7 @@
         <column_label/>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>false</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -65,7 +65,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_variable_e1e82ade1b65491062e50ed2cd4bcb95</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2022-11-21 15:32:41</sys_updated_on>
+        <sys_updated_on>2023-03-16 18:39:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
