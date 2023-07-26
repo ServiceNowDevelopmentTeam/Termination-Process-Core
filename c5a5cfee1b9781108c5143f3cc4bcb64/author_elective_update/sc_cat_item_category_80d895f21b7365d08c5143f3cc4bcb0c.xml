@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Install Software (Company Portal)">04d811f21b7365d08c5143f3cc4bcbf5</sc_cat_item>
+        <sc_category display_value="Software &amp; Access">c0cf05c81b3f701062e50ed2cd4bcbb5</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-07-06 17:32:10</sys_created_on>
+        <sys_id>80d895f21b7365d08c5143f3cc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Software &amp; Access.Install Software (Company Portal)</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sc_cat_item_category_80d895f21b7365d08c5143f3cc4bcb0c</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-07-06 17:32:10</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>37412023db6dd890ad8dd7c8f49619a0</instance_id>
+        <instance_name>apigroupdev</instance_name>
+        <name>sc_cat_item_category_80d895f21b7365d08c5143f3cc4bcb0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Install Software (Company Portal)">04d811f21b7365d08c5143f3cc4bcbf5</sc_cat_item><sc_category display_value="Software &amp; Access">c0cf05c81b3f701062e50ed2cd4bcbb5</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>John.Schwab</sys_created_by><sys_created_on>2023-07-06 17:32:10</sys_created_on><sys_id>80d895f21b7365d08c5143f3cc4bcb0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Software &amp; Access.Install Software (Company Portal)</sys_name><sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package><sys_policy/><sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope><sys_update_name>sc_cat_item_category_80d895f21b7365d08c5143f3cc4bcb0c</sys_update_name><sys_updated_by>John.Schwab</sys_updated_by><sys_updated_on>2023-07-06 17:32:10</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-66085210</payload_hash>
+        <record_name>Software &amp; Access.Install Software (Company Portal)</record_name>
+        <reverted_from/>
+        <source>5648dd321b7365d08c5143f3cc4bcb0c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-07-06 17:32:10</sys_created_on>
+        <sys_id>48d895f21b7365d08c5143f3cc4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1892c42e9eb0000001</sys_recorded_at>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-07-06 17:32:10</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>40d895f2457365d0638b54e14a02a10f</update_guid>
+        <update_guid_history>40d895f2457365d0638b54e14a02a10f:-66085210</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Software &amp; Access.Install Software (Company Portal)">c9091df21b7365d08c5143f3cc4bcb22</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-07-06 17:33:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>124fc77027e14c959d450a33182844b1</sys_id>
+        <sys_metadata>80d895f21b7365d08c5143f3cc4bcb0c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Software &amp; Access.Install Software (Company Portal)</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_80d895f21b7365d08c5143f3cc4bcb0c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_80d895f21b7365d08c5143f3cc4bcb0c">48d895f21b7365d08c5143f3cc4bcb0f</sys_update_version>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-07-06 17:33:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

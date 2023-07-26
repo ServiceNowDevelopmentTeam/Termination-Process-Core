@@ -292,10 +292,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-30 20:13:15</sys_created_on>
         <sys_id>051cd9101b78695062e50ed2cd4bcb81</sys_id>
-        <sys_mod_count>146</sys_mod_count>
+        <sys_mod_count>148</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>dff900cf-5aea-4d52-8877-9b47b8a26ef0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=051cd9101b78695062e50ed2cd4bcb81"/>
@@ -380,10 +380,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-03-01 15:17:28</sys_created_on>
         <sys_id>16cbc3d01b86899062e50ed2cd4bcbff</sys_id>
-        <sys_mod_count>1014</sys_mod_count>
+        <sys_mod_count>1016</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>9836eb41-bd57-48a6-9ba7-7b6c32146054</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=16cbc3d01b86899062e50ed2cd4bcbff"/>
@@ -532,10 +532,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-03 20:51:44</sys_created_on>
         <sys_id>24bfec8e1bd2555062e50ed2cd4bcb95</sys_id>
-        <sys_mod_count>522</sys_mod_count>
+        <sys_mod_count>524</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>5396f05d-2ee9-48ce-a8dc-16a25f83e56b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=24bfec8e1bd2555062e50ed2cd4bcb95"/>
@@ -620,10 +620,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-03-01 15:30:46</sys_created_on>
         <sys_id>45de875c1b86899062e50ed2cd4bcbb4</sys_id>
-        <sys_mod_count>1000</sys_mod_count>
+        <sys_mod_count>1002</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>52e95818-3a7c-4315-a2ee-0b701acc0f44</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=45de875c1b86899062e50ed2cd4bcbb4"/>
@@ -720,10 +720,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-10 14:45:53</sys_created_on>
         <sys_id>46d3a3f21bdf05108c5143f3cc4bcbac</sys_id>
-        <sys_mod_count>760</sys_mod_count>
+        <sys_mod_count>762</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>b5a039fd-42a1-405c-a30a-eff769ef07ad</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=46d3a3f21bdf05108c5143f3cc4bcbac"/>
@@ -758,10 +758,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-02-09 22:01:04</sys_created_on>
         <sys_id>4b5861421b25c51062e50ed2cd4bcb25</sys_id>
-        <sys_mod_count>1146</sys_mod_count>
+        <sys_mod_count>1148</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:55</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>3bb175e5-f1a1-4c51-9ff1-0b885900e1d8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4b5861421b25c51062e50ed2cd4bcb25"/>
@@ -846,10 +846,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-02-02 17:39:22</sys_created_on>
         <sys_id>58a554151bf4ad508c5143f3cc4bcb71</sys_id>
-        <sys_mod_count>132</sys_mod_count>
+        <sys_mod_count>134</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>b5ef6269-a8ad-40cb-a5f1-fd90dfaff07d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=58a554151bf4ad508c5143f3cc4bcb71"/>
@@ -919,10 +919,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-13 15:10:11</sys_created_on>
         <sys_id>62b1e0231bfd151062e50ed2cd4bcbad</sys_id>
-        <sys_mod_count>578</sys_mod_count>
+        <sys_mod_count>580</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:55</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>bc788659-eae2-4be6-9a77-ff35c5fc5bee</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=62b1e0231bfd151062e50ed2cd4bcbad"/>
@@ -971,10 +971,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-04 15:13:14</sys_created_on>
         <sys_id>781e9afb1bcc29d08c5143f3cc4bcb3b</sys_id>
-        <sys_mod_count>174</sys_mod_count>
+        <sys_mod_count>176</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>2c7a9bc7-a0fa-4204-893c-c38ea51e1e9d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=781e9afb1bcc29d08c5143f3cc4bcb3b"/>
@@ -1058,10 +1058,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2023-03-16 14:13:39</sys_created_on>
         <sys_id>90593f261bade19062e50ed2cd4bcb5c</sys_id>
-        <sys_mod_count>102</sys_mod_count>
+        <sys_mod_count>104</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>1716233b-14bb-4809-82cd-21ac41a06764</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=90593f261bade19062e50ed2cd4bcb5c"/>
@@ -1096,10 +1096,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-15 13:34:34</sys_created_on>
         <sys_id>910f5e8c1b4e591062e50ed2cd4bcbc4</sys_id>
-        <sys_mod_count>566</sys_mod_count>
+        <sys_mod_count>568</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:55</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>ceeebaf0-8bce-4195-a72f-2ecae3e057f9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=910f5e8c1b4e591062e50ed2cd4bcbc4"/>
@@ -1170,10 +1170,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-30 20:24:03</sys_created_on>
         <sys_id>938ed5d41b78695062e50ed2cd4bcb35</sys_id>
-        <sys_mod_count>140</sys_mod_count>
+        <sys_mod_count>142</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>48b80d70-9d37-4cb0-847a-71c52eb38622</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=938ed5d41b78695062e50ed2cd4bcb35"/>
@@ -1258,10 +1258,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2023-02-16 21:22:38</sys_created_on>
         <sys_id>97fec5351b09a1508c5143f3cc4bcb8a</sys_id>
-        <sys_mod_count>122</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>c2113490-5d22-442c-a78f-76baced4274b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=97fec5351b09a1508c5143f3cc4bcb8a"/>
@@ -1320,10 +1320,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-09-15 14:24:49</sys_created_on>
         <sys_id>9d8ae2441b02991062e50ed2cd4bcb66</sys_id>
-        <sys_mod_count>558</sys_mod_count>
+        <sys_mod_count>560</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:55</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>eea5d5e1-f1d9-4530-9ad5-47d338cf2de3</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9d8ae2441b02991062e50ed2cd4bcb66"/>
@@ -1408,10 +1408,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2023-03-16 14:33:11</sys_created_on>
         <sys_id>a2cd7b6e1bade19062e50ed2cd4bcbb2</sys_id>
-        <sys_mod_count>98</sys_mod_count>
+        <sys_mod_count>100</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>6c36f057-6b8d-4d82-a3ae-36fe661a05a8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a2cd7b6e1bade19062e50ed2cd4bcbb2"/>
@@ -1520,10 +1520,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-09 19:47:43</sys_created_on>
         <sys_id>b29111901bdd551062e50ed2cd4bcb6e</sys_id>
-        <sys_mod_count>634</sys_mod_count>
+        <sys_mod_count>636</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>1a154969-94a7-4bb1-8b37-c082841c79b9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b29111901bdd551062e50ed2cd4bcb6e"/>
@@ -1608,10 +1608,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-04 15:19:39</sys_created_on>
         <sys_id>ba8f56bf1bcc29d08c5143f3cc4bcb83</sys_id>
-        <sys_mod_count>172</sys_mod_count>
+        <sys_mod_count>174</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>5329c292-af55-4d8f-9e6c-adfd79130d35</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ba8f56bf1bcc29d08c5143f3cc4bcb83"/>
@@ -1762,10 +1762,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-02-09 22:01:05</sys_created_on>
         <sys_id>d35861421b25c51062e50ed2cd4bcb5c</sys_id>
-        <sys_mod_count>1146</sys_mod_count>
+        <sys_mod_count>1148</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:55</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>7e914f8c-5b4b-45e6-97f9-1a541ee3b94a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d35861421b25c51062e50ed2cd4bcb5c"/>
@@ -1836,10 +1836,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-02-09 22:01:05</sys_created_on>
         <sys_id>df5861421b25c51062e50ed2cd4bcb55</sys_id>
-        <sys_mod_count>1146</sys_mod_count>
+        <sys_mod_count>1148</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:55</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>876bae31-3100-4ff8-b8e1-7dcc12ec9d2d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=df5861421b25c51062e50ed2cd4bcb55"/>
@@ -1910,10 +1910,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-02-23 22:19:16</sys_created_on>
         <sys_id>e6c271621bbd0d5062e50ed2cd4bcba1</sys_id>
-        <sys_mod_count>1036</sys_mod_count>
+        <sys_mod_count>1038</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:58</sys_updated_on>
         <ui_id>c6803c60-a559-422d-b366-b4f548739725</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e6c271621bbd0d5062e50ed2cd4bcba1"/>
@@ -2076,10 +2076,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-30 20:28:03</sys_created_on>
         <sys_id>f17f59581b78695062e50ed2cd4bcb6f</sys_id>
-        <sys_mod_count>138</sys_mod_count>
+        <sys_mod_count>140</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>5c6ba770-0e23-4cc3-8850-14f56fd63102</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f17f59581b78695062e50ed2cd4bcb6f"/>
@@ -2091,10 +2091,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-30 20:28:03</sys_created_on>
         <sys_id>3d7f59581b78695062e50ed2cd4bcb71</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-06-13 15:08:55</sys_updated_on>
-        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FD12ccc28b205dc9500b06ca565e61a798":{"$COCollectionField":[{"URLs_child0":{"Label":"String","Label.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Label\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"URL":"String","URL.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"URL\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"URLs\",\"mandatory\":\"false\",\"child_name\":\"URLs_child0\",\"uiUniqueId\":\"10f959b9-7acf-41b8-bf76-de780544216a\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD12ccc28b205dc9500b06ca565e61a798\",\"child_label\":\"URLs_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"807b21ed-d3fe-4280-b43f-fdce460bcb45\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD12ccc28b205dc9500b06ca565e61a798.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"URLs\",\"mandatory\":\"false\",\"child_name\":\"URLs_child0\",\"uiUniqueId\":\"10f959b9-7acf-41b8-bf76-de780544216a\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD12ccc28b205dc9500b06ca565e61a798\",\"child_label\":\"URLs_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"807b21ed-d3fe-4280-b43f-fdce460bcb45\"}"}},"complexObject":{"name$":"FD12ccc28b205dc9500b06ca565e61a798","$COCollectionField":[{"Label":{"$cv":{"$c":"java.lang.String","$v":""}},"URL":{"$cv":{"$c":"java.lang.String","$v":""}}}]},"serializationFormat":"JSON"}</value>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"name$":"FD12ccc28b205dc9500b06ca565e61a798","$COCollectionField":[{"Label":{"$cv":{"$c":"java.lang.String","$v":""}},"URL":{"$cv":{"$c":"java.lang.String","$v":""}}}]},"complexObjectSchema":{"FlowDesigner:FD12ccc28b205dc9500b06ca565e61a798":{"$COCollectionField":[{"URLs_child0":{"Label":"String","Label.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Label\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"URL":"String","URL.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"URL\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"URLs\",\"mandatory\":\"false\",\"child_name\":\"URLs_child0\",\"uiUniqueId\":\"10f959b9-7acf-41b8-bf76-de780544216a\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD12ccc28b205dc9500b06ca565e61a798\",\"child_label\":\"URLs_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"807b21ed-d3fe-4280-b43f-fdce460bcb45\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD12ccc28b205dc9500b06ca565e61a798.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"URLs\",\"mandatory\":\"false\",\"child_name\":\"URLs_child0\",\"uiUniqueId\":\"10f959b9-7acf-41b8-bf76-de780544216a\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD12ccc28b205dc9500b06ca565e61a798\",\"child_label\":\"URLs_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"807b21ed-d3fe-4280-b43f-fdce460bcb45\"}"}},"serializationFormat":"JSON"}</value>
         <variable display_value="URLs">16ccc28b1b5dc9508c5143f3cc4bcba4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2178,10 +2178,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-11-14 20:59:22</sys_created_on>
         <sys_id>f5348da71b0f55508c5143f3cc4bcb96</sys_id>
-        <sys_mod_count>194</sys_mod_count>
+        <sys_mod_count>196</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-03 13:33:56</sys_updated_on>
+        <sys_updated_on>2023-07-12 20:57:57</sys_updated_on>
         <ui_id>c6251e53-4dee-49bc-8666-21801eb082fa</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f5348da71b0f55508c5143f3cc4bcb96"/>
@@ -9016,7 +9016,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"0e94f50a1b65c51062e50ed2cd4bcb78","name":"plan","plan_signature":null}}</plan>
         <plan_id>99bcd90a1ba1c51062e50ed2cd4bcbc0</plan_id>
-        <snapshot>ab7581791b33ed9062e50ed2cd4bcb5d</snapshot>
+        <snapshot>5b6189341b0475108c5143f3cc4bcb97</snapshot>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-02-09 22:54:31</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -18393,6 +18393,6 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>99bcd90a1ba1c51062e50ed2cd4bcbc0</sys_id>
         <latest_snapshot>6094750a1b65c51062e50ed2cd4bcb19</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch9-05-10-2023_05-25-2023_0925.zip</compiler_build>
+        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2-06-07-2023_06-23-2023_1740.zip</compiler_build>
     </sys_hub_flow>
 </record_update>
