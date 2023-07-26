@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Bandwidth Upgrade Request">c6fa0f5d1b17251062e50ed2cd4bcb4e</sc_cat_item>
+        <sc_category display_value="Network Standard Changes">abbcbbbf47700200e90d87e8dee49041</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-07-06 17:14:02</sys_created_on>
+        <sys_id>66a4dd3e1b3365d08c5143f3cc4bcb64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Standard Changes.Bandwidth Upgrade Request</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sc_cat_item_category_66a4dd3e1b3365d08c5143f3cc4bcb64</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-07-06 17:14:02</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

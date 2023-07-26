@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Reassign Deskphone">cedf13f91befa1508c5143f3cc4bcb37</catalog_item>
+        <catalog_variable>IO:eef093841ba274108c5143f3cc4bcb81</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2023-07-06 16:47:09</sys_created_on>
+        <sys_id>bc7e05f21b3365d08c5143f3cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approving_manager</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bc7e05f21b3365d08c5143f3cc4bcba6</sys_update_name>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:47:09</sys_updated_on>
+        <table/>
+        <ui_policy display_value="init">cbae4c421b27e1508c5143f3cc4bcbec</ui_policy>
+        <variable>approving_manager</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>
