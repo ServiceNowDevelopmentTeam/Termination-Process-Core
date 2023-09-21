@@ -37,7 +37,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_0bb7399d1b36dd1062e50ed2cd4bcb7e</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 16:15:03</sys_updated_on>
+        <sys_updated_on>2023-07-28 16:25:31</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=0bb7399d1b36dd1062e50ed2cd4bcb7e"/>
@@ -490,10 +490,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 14:46:45</sys_created_on>
         <sys_id>62b871151b76dd1062e50ed2cd4bcb22</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-07-10 05:00:47</sys_updated_on>
+        <sys_updated_on>2023-08-26 21:48:05</sys_updated_on>
         <ui_id>6efa69c6-4332-4c08-93fa-5ea93d3b5edb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=62b871151b76dd1062e50ed2cd4bcb22"/>
@@ -1422,42 +1422,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=2ab871151b76dd1062e50ed2cd4bcb26"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>2ab871151b76dd1062e50ed2cd4bcb26</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-26 14:46:45</sys_created_on>
-        <sys_id>66b871151b76dd1062e50ed2cd4bcb2e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 14:46:45</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_label</field>
-        <id>2ab871151b76dd1062e50ed2cd4bcb26</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-26 14:46:45</sys_created_on>
-        <sys_id>eab871151b76dd1062e50ed2cd4bcb2e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 14:46:45</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>2ab871151b76dd1062e50ed2cd4bcb26</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-26 14:46:45</sys_created_on>
-        <sys_id>2ab871151b76dd1062e50ed2cd4bcb2e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 14:46:45</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>2ab871151b76dd1062e50ed2cd4bcb26</id>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -1577,7 +1541,7 @@
         <sys_created_on>2022-10-26 14:44:07</sys_created_on>
         <sys_id>042871d11b76dd1062e50ed2cd4bcb91</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Legal First Name</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1600,7 +1564,7 @@
         <sys_created_on>2022-10-26 14:44:07</sys_created_on>
         <sys_id>082871d11b76dd1062e50ed2cd4bcb8e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Employee Number</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1623,7 +1587,7 @@
         <sys_created_on>2022-10-26 14:44:07</sys_created_on>
         <sys_id>8828b5911b76dd1062e50ed2cd4bcba6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Personal Email Address</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1646,7 +1610,7 @@
         <sys_created_on>2022-10-26 14:44:42</sys_created_on>
         <sys_id>e848b1d11b76dd1062e50ed2cd4bcbe0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>RITM Record</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1669,7 +1633,7 @@
         <sys_created_on>2022-10-26 14:51:44</sys_created_on>
         <sys_id>ebd975951b76dd1062e50ed2cd4bcb87</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Delay Duration</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1687,7 +1651,7 @@
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"38ca71191b76dd1062e50ed2cd4bcb3a","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="Termination Delayed Personal Emails">0bb7399d1b36dd1062e50ed2cd4bcb7e</plan_id>
-        <snapshot>b323dfbf1bf721108c5143f3cc4bcb8a</snapshot>
+        <snapshot>e17c70db1b7479108c5143f3cc4bcb19</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 14:55:38</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -3120,42 +3084,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=10ca31191b76dd1062e50ed2cd4bcb6c"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>10ca31191b76dd1062e50ed2cd4bcb6c</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-26 14:55:36</sys_created_on>
-        <sys_id>1cca31191b76dd1062e50ed2cd4bcb73</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 14:55:36</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_label</field>
-        <id>10ca31191b76dd1062e50ed2cd4bcb6c</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-26 14:55:36</sys_created_on>
-        <sys_id>90ca31191b76dd1062e50ed2cd4bcb74</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 14:55:36</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>10ca31191b76dd1062e50ed2cd4bcb6c</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-26 14:55:36</sys_created_on>
-        <sys_id>dcca31191b76dd1062e50ed2cd4bcb73</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 14:55:36</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>10ca31191b76dd1062e50ed2cd4bcb6c</id>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -3275,7 +3203,7 @@
         <sys_created_on>2022-10-26 14:55:36</sys_created_on>
         <sys_id>18ca31191b76dd1062e50ed2cd4bcb4d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>RITM Record</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -3298,7 +3226,7 @@
         <sys_created_on>2022-10-26 14:55:36</sys_created_on>
         <sys_id>50ca31191b76dd1062e50ed2cd4bcb55</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Personal Email Address</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -3321,7 +3249,7 @@
         <sys_created_on>2022-10-26 14:55:36</sys_created_on>
         <sys_id>54ca31191b76dd1062e50ed2cd4bcb64</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Legal First Name</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -3344,7 +3272,7 @@
         <sys_created_on>2022-10-26 14:55:36</sys_created_on>
         <sys_id>84ca31191b76dd1062e50ed2cd4bcb42</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Delay Duration</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -3367,7 +3295,7 @@
         <sys_created_on>2022-10-26 14:55:36</sys_created_on>
         <sys_id>98ca31191b76dd1062e50ed2cd4bcb5c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Employee Number</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -3383,6 +3311,6 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>0bb7399d1b36dd1062e50ed2cd4bcb7e</sys_id>
         <latest_snapshot>48ca31191b76dd1062e50ed2cd4bcb34</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2-06-07-2023_06-23-2023_1740.zip</compiler_build>
+        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2a-06-26-2023_07-05-2023_1648.zip</compiler_build>
     </sys_hub_flow>
 </record_update>

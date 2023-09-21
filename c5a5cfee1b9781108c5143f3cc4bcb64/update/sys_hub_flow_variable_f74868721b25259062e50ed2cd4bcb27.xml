@@ -38,7 +38,7 @@
         <label>Termination Date/Time</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Termination Flow">d34828721b25259062e50ed2cd4bcbcb</model>
+        <model display_value="">d34828721b25259062e50ed2cd4bcbcb</model>
         <model_id>d34828721b25259062e50ed2cd4bcbcb</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_d34828721b25259062e50ed2cd4bcbcb</name>

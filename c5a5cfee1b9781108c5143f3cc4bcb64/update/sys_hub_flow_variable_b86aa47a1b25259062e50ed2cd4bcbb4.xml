@@ -38,7 +38,7 @@
         <label>extension_link</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Termination Flow">506aa47a1b25259062e50ed2cd4bcb05</model>
+        <model display_value="">506aa47a1b25259062e50ed2cd4bcb05</model>
         <model_id>506aa47a1b25259062e50ed2cd4bcb05</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_506aa47a1b25259062e50ed2cd4bcb05</name>

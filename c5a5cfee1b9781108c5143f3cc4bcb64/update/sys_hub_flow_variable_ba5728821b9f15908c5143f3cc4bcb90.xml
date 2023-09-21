@@ -38,7 +38,7 @@
         <label>company number</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Termination Tasks and Automation">da5728821b9f15908c5143f3cc4bcb0a</model>
+        <model display_value="">da5728821b9f15908c5143f3cc4bcb0a</model>
         <model_id>da5728821b9f15908c5143f3cc4bcb0a</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_da5728821b9f15908c5143f3cc4bcb0a</name>

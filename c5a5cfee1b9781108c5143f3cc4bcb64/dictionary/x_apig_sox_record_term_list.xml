@@ -7,5 +7,6 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=OnPremEnabledStatus" label="OnPremEnabledStatus" max_length="40" name="u_onpremenabledstatus" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=PasswordExpired" label="PasswordExpired" max_length="40" name="u_passwordexpired" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=PasswordLastSet" label="PasswordLastSet" max_length="40" name="u_passwordlastset" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Segment" label="Segment" max_length="40" name="u_segment" type="string"/>
     </element>
 </database>

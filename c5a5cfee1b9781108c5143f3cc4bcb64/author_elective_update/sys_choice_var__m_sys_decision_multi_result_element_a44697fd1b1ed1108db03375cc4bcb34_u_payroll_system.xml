@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_payroll_system" table="var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_payroll_system</element>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:18</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_payroll_system</sys_name>
+            <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34_u_payroll_system</sys_update_name>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:18</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WebApps</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:18</sys_updated_on>
+            <value>webapps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Loki</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:18</sys_updated_on>
+            <value>loki</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ceridian</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>ceridian</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ADP</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>adp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COINS</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>coins</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sage</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>sage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Explorer Eclipse</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>explorer_eclipse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ADP</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>80</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>adp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PayChex</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>90</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>paychex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UltiPro</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>ultipro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ViewPoint</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>110</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>viewpoint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payroll_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Easy Pay</label>
+            <language>en</language>
+            <name>var__m_sys_decision_multi_result_element_a44697fd1b1ed1108db03375cc4bcb34</name>
+            <sequence>120</sequence>
+            <synonyms/>
+            <sys_created_by>Terry.Lillo</sys_created_by>
+            <sys_created_on>2022-10-03 14:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Terry.Lillo</sys_updated_by>
+            <sys_updated_on>2022-10-03 14:28:19</sys_updated_on>
+            <value>easy_pay</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -38,7 +38,7 @@
         <label>User Not Found</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Termination Flow">fe043c171bb6591062e50ed2cd4bcb9a</model>
+        <model display_value="">fe043c171bb6591062e50ed2cd4bcb9a</model>
         <model_id>fe043c171bb6591062e50ed2cd4bcb9a</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_fe043c171bb6591062e50ed2cd4bcb9a</name>

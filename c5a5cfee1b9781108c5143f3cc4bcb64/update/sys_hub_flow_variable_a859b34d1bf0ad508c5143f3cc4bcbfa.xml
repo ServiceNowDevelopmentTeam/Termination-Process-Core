@@ -38,7 +38,7 @@
         <label>date changed</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Termination Flow">f749b34d1bf0ad508c5143f3cc4bcb14</model>
+        <model display_value="">f749b34d1bf0ad508c5143f3cc4bcb14</model>
         <model_id>f749b34d1bf0ad508c5143f3cc4bcb14</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_f749b34d1bf0ad508c5143f3cc4bcb14</name>

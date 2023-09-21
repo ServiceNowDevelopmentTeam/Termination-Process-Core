@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7f1a70ac1b10e11462e50ed2cd4bcbb8</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Termination - Get manager or delegate</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_7f1a70ac1b10e11462e50ed2cd4bcbb8</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-01-06 15:58:11</sys_updated_on>
+        <sys_updated_on>2023-07-28 16:25:46</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
@@ -242,10 +242,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-06 15:55:39</sys_created_on>
         <sys_id>35fa34601b50e11462e50ed2cd4bcbc3</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-08 19:12:56</sys_updated_on>
+        <sys_updated_on>2023-09-07 19:33:38</sys_updated_on>
         <ui_id>fc3eefea-613f-479a-bdf8-cfc96d58c58d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=35fa34601b50e11462e50ed2cd4bcbc3"/>
@@ -414,18 +414,6 @@
         <sys_updated_on>2023-01-06 15:58:04</sys_updated_on>
         <table>var__m_sys_hub_flow_input_11a0eddb1b5c49508c5143f3cc4bcbe4</table>
         <value>{{subflow.requested_item.number}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wait_for_completion</field>
-        <id>0d8bb0a01b50e11462e50ed2cd4bcbb2</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-01-06 15:58:04</sys_created_on>
-        <sys_id>1d8bb0a01b50e11462e50ed2cd4bcbd7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-01-06 15:58:04</sys_updated_on>
-        <table>var__m_sys_hub_sub_flow_instance_inputs_0d8bb0a01b50e11462e50ed2cd4bcbb2</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_sub_flow_instance_inputs_0d8bb0a01b50e11462e50ed2cd4bcbb2^id=0d8bb0a01b50e11462e50ed2cd4bcbb2"/>
     <sys_hub_sub_flow_instance_inputs action="delete_multiple" query="model=0d8bb0a01b50e11462e50ed2cd4bcbb2^sys_idNOT IN818bb0a01b50e11462e50ed2cd4bcbb4"/>
@@ -823,7 +811,7 @@
         <sys_created_on>2023-01-06 15:52:38</sys_created_on>
         <sys_id>a94ab0201b50e11462e50ed2cd4bcb14</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Requested Item</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -848,7 +836,7 @@
         <sys_created_on>2023-01-06 15:52:38</sys_created_on>
         <sys_id>a94ab0201b50e11462e50ed2cd4bcb1b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Manager</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -864,7 +852,7 @@
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"f6fab4601b50e11462e50ed2cd4bcb4a","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="Termination - Get manager or delegate">7f1a70ac1b10e11462e50ed2cd4bcbb8</plan_id>
-        <snapshot>0a5ca35d1b20351062e50ed2cd4bcb71</snapshot>
+        <snapshot>edc0528f1b81b51062e50ed2cd4bcb6b</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-06 15:55:43</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -1290,18 +1278,6 @@
         <table>var__m_sys_hub_flow_input_11a0eddb1b5c49508c5143f3cc4bcbe4</table>
         <value>{{subflow.requested_item.number}}</value>
     </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wait_for_completion</field>
-        <id>0e8bf0a01b50e11462e50ed2cd4bcbd7</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-01-06 15:58:08</sys_created_on>
-        <sys_id>868bf0a01b50e11462e50ed2cd4bcbe7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-01-06 15:58:08</sys_updated_on>
-        <table>var__m_sys_hub_sub_flow_instance_inputs_0e8bf0a01b50e11462e50ed2cd4bcbd7</table>
-        <value/>
-    </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_sub_flow_instance_inputs_0e8bf0a01b50e11462e50ed2cd4bcbd7^id=0e8bf0a01b50e11462e50ed2cd4bcbd7"/>
     <sys_hub_sub_flow_instance_inputs action="delete_multiple" query="model=0e8bf0a01b50e11462e50ed2cd4bcbd7^sys_idNOT INc68bf0a01b50e11462e50ed2cd4bcbd8"/>
     <sys_hub_sub_flow_instance_inputs action="INSERT_OR_UPDATE">
@@ -1698,7 +1674,7 @@
         <sys_created_on>2023-01-06 15:55:42</sys_created_on>
         <sys_id>92fa74601b50e11462e50ed2cd4bcbcc</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Requested Item</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1723,7 +1699,7 @@
         <sys_created_on>2023-01-06 15:55:42</sys_created_on>
         <sys_id>eefab4601b50e11462e50ed2cd4bcb0a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Manager</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1737,6 +1713,6 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>7f1a70ac1b10e11462e50ed2cd4bcbb8</sys_id>
         <latest_snapshot>1afa74601b50e11462e50ed2cd4bcb32</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2a-06-26-2023_07-05-2023_1648.zip</compiler_build>
+        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2b-07-19-2023_08-01-2023_1829.zip</compiler_build>
     </sys_hub_flow>
 </record_update>

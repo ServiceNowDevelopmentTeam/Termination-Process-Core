@@ -3,12 +3,6 @@
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" choice="3" comments="Shared Parameter" label="Company" max_length="32" name="u_company" reference="core_company" type="reference">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="3" comments="Shared Parameter" label="worker classification" max_length="40" name="u_emp_type" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Employee" value="Employee"/>
-                <element inactive_on_update="false" label="Independent Contractor" value="Independent Contractor"/>
-            </choice>
-        </element>
         <element comments="Shared Parameter" label="Expected Approver 1" max_length="32" name="u_expected_approver_1" reference="sys_user" type="reference"/>
         <element comments="Shared Parameter" label="Expected Approver 2" max_length="32" name="u_expected_approver_2" reference="sys_user" type="reference"/>
         <element comments="Shared Parameter" label="Expected Approver 3" max_length="32" name="u_expected_approver_3" reference="sys_user" type="reference"/>
@@ -23,31 +17,31 @@
             <element name="u_expected_approver_group_2"/>
         </index>
         <index name="index2">
-            <element name="u_expected_approver_3"/>
-        </index>
-        <index name="index3">
             <element name="u_expected_approver_group_1"/>
         </index>
-        <index name="index4">
-            <element name="u_company"/>
-        </index>
-        <index name="index5">
-            <element name="u_expected_approver_5"/>
-        </index>
-        <index name="index6">
+        <index name="index3">
             <element name="u_expected_approver_1"/>
         </index>
-        <index name="index7">
+        <index name="index4">
+            <element name="u_expected_approver_5"/>
+        </index>
+        <index name="index5">
             <element name="u_expected_approver_group_3"/>
         </index>
-        <index name="index8">
-            <element name="u_user"/>
+        <index name="index6">
+            <element name="u_expected_approver_4"/>
         </index>
-        <index name="index9">
+        <index name="index7">
+            <element name="u_company"/>
+        </index>
+        <index name="index8">
             <element name="u_expected_approver_2"/>
         </index>
+        <index name="index9">
+            <element name="u_expected_approver_3"/>
+        </index>
         <index name="index10">
-            <element name="u_expected_approver_4"/>
+            <element name="u_user"/>
         </index>
     </element>
 </database>

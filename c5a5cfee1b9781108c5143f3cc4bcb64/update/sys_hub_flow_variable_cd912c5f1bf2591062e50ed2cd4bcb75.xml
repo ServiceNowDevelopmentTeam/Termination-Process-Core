@@ -38,7 +38,7 @@
         <label>date_breached</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Termination Flow">d491a85f1bf2591062e50ed2cd4bcbb3</model>
+        <model display_value="">d491a85f1bf2591062e50ed2cd4bcbb3</model>
         <model_id>d491a85f1bf2591062e50ed2cd4bcbb3</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_d491a85f1bf2591062e50ed2cd4bcbb3</name>

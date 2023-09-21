@@ -38,7 +38,7 @@
         <label>Due Date String</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="PROF - Wait for Question Change - R">2271beda1b29619062e50ed2cd4bcb03</model>
+        <model display_value="">2271beda1b29619062e50ed2cd4bcb03</model>
         <model_id>2271beda1b29619062e50ed2cd4bcb03</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_2271beda1b29619062e50ed2cd4bcb03</name>

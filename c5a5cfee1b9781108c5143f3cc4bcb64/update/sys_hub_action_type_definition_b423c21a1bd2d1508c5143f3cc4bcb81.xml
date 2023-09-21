@@ -35,7 +35,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_b423c21a1bd2d1508c5143f3cc4bcb81</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-05 13:49:22</sys_updated_on>
+        <sys_updated_on>2022-10-05 19:37:48</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -140,30 +140,6 @@
         <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_23c30e5a1bd2d1508c5143f3cc4bcb15</table>
         <value>{{action.Action_Array}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>23c30e5a1bd2d1508c5143f3cc4bcb15</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-04 21:37:42</sys_created_on>
-        <sys_id>ffc30e5a1bd2d1508c5143f3cc4bcb2b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>23c30e5a1bd2d1508c5143f3cc4bcb15</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-04 21:37:42</sys_created_on>
-        <sys_id>b7c30e5a1bd2d1508c5143f3cc4bcb2c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_23c30e5a1bd2d1508c5143f3cc4bcb15^id=23c30e5a1bd2d1508c5143f3cc4bcb15"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=23c30e5a1bd2d1508c5143f3cc4bcb15"/>
@@ -433,11 +409,11 @@
         <sys_created_on>2022-10-04 21:37:42</sys_created_on>
         <sys_id>ffc30e5a1bd2d1508c5143f3cc4bcb27</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>actionArray</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_23c30e5a1bd2d1508c5143f3cc4bcb15_actionarray_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
         <url/>
@@ -726,11 +702,11 @@
         <sys_created_on>2022-10-04 21:37:42</sys_created_on>
         <sys_id>6bc30e5a1bd2d1508c5143f3cc4bcb06</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b423c21a1bd2d1508c5143f3cc4bcb81_action_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
         <url/>
@@ -749,11 +725,11 @@
         <sys_created_on>2022-10-04 21:37:42</sys_created_on>
         <sys_id>6fc30e5a1bd2d1508c5143f3cc4bcb02</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Array</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b423c21a1bd2d1508c5143f3cc4bcb81_Action_Array_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
         <url/>
@@ -774,11 +750,11 @@
         <sys_created_on>2022-10-04 21:37:42</sys_created_on>
         <sys_id>37c30e5a1bd2d1508c5143f3cc4bcb37</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Array</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b423c21a1bd2d1508c5143f3cc4bcb81_actionarray_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:42</sys_updated_on>
         <url/>
@@ -965,30 +941,6 @@
         <sys_updated_on>2022-10-04 21:37:43</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_88d30e5a1bd2d1508c5143f3cc4bcb73</table>
         <value>{{action.Action_Array}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>88d30e5a1bd2d1508c5143f3cc4bcb73</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-04 21:37:43</sys_created_on>
-        <sys_id>c0d30e5a1bd2d1508c5143f3cc4bcb9f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-04 21:37:43</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>88d30e5a1bd2d1508c5143f3cc4bcb73</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-04 21:37:43</sys_created_on>
-        <sys_id>84d30e5a1bd2d1508c5143f3cc4bcb9f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-04 21:37:43</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_88d30e5a1bd2d1508c5143f3cc4bcb73^id=88d30e5a1bd2d1508c5143f3cc4bcb73"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=88d30e5a1bd2d1508c5143f3cc4bcb73"/>
@@ -1258,11 +1210,11 @@
         <sys_created_on>2022-10-04 21:37:43</sys_created_on>
         <sys_id>84d30e5a1bd2d1508c5143f3cc4bcb8f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>actionArray</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_88d30e5a1bd2d1508c5143f3cc4bcb73_actionarray_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:43</sys_updated_on>
         <url/>
@@ -1725,11 +1677,11 @@
         <sys_created_on>2022-10-04 21:37:43</sys_created_on>
         <sys_id>88d30e5a1bd2d1508c5143f3cc4bcb71</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_37c30e5a1bd2d1508c5143f3cc4bcb63_action_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:43</sys_updated_on>
         <url/>
@@ -1748,11 +1700,11 @@
         <sys_created_on>2022-10-04 21:37:43</sys_created_on>
         <sys_id>c0d30e5a1bd2d1508c5143f3cc4bcb6e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Array</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_37c30e5a1bd2d1508c5143f3cc4bcb63_Action_Array_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:43</sys_updated_on>
         <url/>
@@ -1773,11 +1725,11 @@
         <sys_created_on>2022-10-04 21:37:44</sys_created_on>
         <sys_id>18d30e5a1bd2d1508c5143f3cc4bcbb3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_37c30e5a1bd2d1508c5143f3cc4bcb63___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:44</sys_updated_on>
         <url/>
@@ -1796,11 +1748,11 @@
         <sys_created_on>2022-10-04 21:37:44</sys_created_on>
         <sys_id>40d30e5a1bd2d1508c5143f3cc4bcbab</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Array</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_37c30e5a1bd2d1508c5143f3cc4bcb63_actionarray_en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:44</sys_updated_on>
         <url/>
@@ -1819,11 +1771,11 @@
         <sys_created_on>2022-10-04 21:37:44</sys_created_on>
         <sys_id>c4d30e5a1bd2d1508c5143f3cc4bcbae</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_37c30e5a1bd2d1508c5143f3cc4bcb63___action_status___en</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-04 21:37:44</sys_updated_on>
         <url/>

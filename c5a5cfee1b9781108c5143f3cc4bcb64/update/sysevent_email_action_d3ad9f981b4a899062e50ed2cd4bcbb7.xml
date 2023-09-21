@@ -2,7 +2,7 @@
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>false</action_insert>
         <action_update>true</action_update>
-        <active>true</active>
+        <active>false</active>
         <advanced_condition><![CDATA[answer = true;
 //Check if requested for does not have role customer
 if(!gs.nil(current.request)){
@@ -55,7 +55,7 @@ if(!gs.nil(current.request)){
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>request.requested_for,watch_list</recipient_fields>
+        <recipient_fields>request.requested_for,watch_list,opened_by</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
@@ -70,7 +70,7 @@ if(!gs.nil(current.request)){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d3ad9f981b4a899062e50ed2cd4bcbb7</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Request Item commented term</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
@@ -78,9 +78,9 @@ if(!gs.nil(current.request)){
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sysevent_email_action_d3ad9f981b4a899062e50ed2cd4bcbb7</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-07-26 19:57:11</sys_updated_on>
+        <sys_updated_on>2023-09-05 18:33:41</sys_updated_on>
         <sys_version>2</sys_version>
-        <template display_value="APi Termination Request commented">8189b8991b18719062e50ed2cd4bcbea</template>
+        <template display_value="APi Request commented">cff799f41b1f211062e50ed2cd4bcb2b</template>
         <type>email</type>
         <weight>10</weight>
     </sysevent_email_action>

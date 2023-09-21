@@ -32,12 +32,12 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Look Up Company ERP and Payroll</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_d4bcd7fd1b16155062e50ed2cd4bcb0a</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-26 18:50:50</sys_updated_on>
+        <sys_updated_on>2023-07-28 16:26:14</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=d4bcd7fd1b16155062e50ed2cd4bcb0a"/>
@@ -583,42 +583,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=93fcd7311b56155062e50ed2cd4bcb57"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>93fcd7311b56155062e50ed2cd4bcb57</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-03 15:25:25</sys_created_on>
-        <sys_id>6c0567351b96155062e50ed2cd4bcb97</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 15:25:25</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_label</field>
-        <id>93fcd7311b56155062e50ed2cd4bcb57</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-03 14:50:23</sys_created_on>
-        <sys_id>9ffcd7311b56155062e50ed2cd4bcb5d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 14:50:23</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>93fcd7311b56155062e50ed2cd4bcb57</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-03 15:25:25</sys_created_on>
-        <sys_id>240567351b96155062e50ed2cd4bcb98</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 15:25:25</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>93fcd7311b56155062e50ed2cd4bcb57</id>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -650,10 +614,10 @@
         <sys_created_on>2022-10-03 14:50:22</sys_created_on>
         <sys_id>5ffcd7311b56155062e50ed2cd4bcb45</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>Company</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 14:50:22</sys_updated_on>
@@ -675,10 +639,10 @@
         <sys_created_on>2022-10-03 14:50:23</sys_created_on>
         <sys_id>53fcd7311b56155062e50ed2cd4bcb4f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>Payroll</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 14:50:23</sys_updated_on>
@@ -698,10 +662,10 @@
         <sys_created_on>2022-10-03 14:50:23</sys_created_on>
         <sys_id>57fcd7311b56155062e50ed2cd4bcb52</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>Is Dayforce Employee ID</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 14:50:23</sys_updated_on>
@@ -721,10 +685,10 @@
         <sys_created_on>2022-10-03 14:50:23</sys_created_on>
         <sys_id>5ffcd7311b56155062e50ed2cd4bcb4b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>ERP</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 14:50:23</sys_updated_on>
@@ -737,7 +701,7 @@
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"0905a7351b96155062e50ed2cd4bcb90","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="Look Up Company ERP and Payroll">d4bcd7fd1b16155062e50ed2cd4bcb0a</plan_id>
-        <snapshot>5ffb27991b20351062e50ed2cd4bcbcc</snapshot>
+        <snapshot>f960d60f1b81b51062e50ed2cd4bcbb8</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-03 15:25:28</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -1317,42 +1281,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=4905a7351b96155062e50ed2cd4bcb3b"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>answer_table</field>
-        <id>4905a7351b96155062e50ed2cd4bcb3b</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-03 15:25:27</sys_created_on>
-        <sys_id>0505a7351b96155062e50ed2cd4bcb43</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 15:25:27</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_label</field>
-        <id>4905a7351b96155062e50ed2cd4bcb3b</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-03 15:25:27</sys_created_on>
-        <sys_id>8905a7351b96155062e50ed2cd4bcb43</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 15:25:27</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>decision_table</field>
-        <id>4905a7351b96155062e50ed2cd4bcb3b</id>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2022-10-03 15:25:27</sys_created_on>
-        <sys_id>c505a7351b96155062e50ed2cd4bcb43</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2022-10-03 15:25:27</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>u_company</field>
         <id>4905a7351b96155062e50ed2cd4bcb3b</id>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -1384,10 +1312,10 @@
         <sys_created_on>2022-10-03 15:25:26</sys_created_on>
         <sys_id>b805a7351b96155062e50ed2cd4bcb0e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>Company</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 15:25:26</sys_updated_on>
@@ -1409,10 +1337,10 @@
         <sys_created_on>2022-10-03 15:25:27</sys_created_on>
         <sys_id>4d05a7351b96155062e50ed2cd4bcb2c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>Payroll</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 15:25:27</sys_updated_on>
@@ -1432,10 +1360,10 @@
         <sys_created_on>2022-10-03 15:25:27</sys_created_on>
         <sys_id>8d05a7351b96155062e50ed2cd4bcb34</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>Is Dayforce Employee ID</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 15:25:27</sys_updated_on>
@@ -1455,10 +1383,10 @@
         <sys_created_on>2022-10-03 15:25:27</sys_created_on>
         <sys_id>bc05a7351b96155062e50ed2cd4bcb24</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_name>ERP</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Global">global</sys_scope>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
         <sys_updated_on>2022-10-03 15:25:27</sys_updated_on>
@@ -1469,6 +1397,6 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>d4bcd7fd1b16155062e50ed2cd4bcb0a</sys_id>
         <latest_snapshot>740567351b96155062e50ed2cd4bcbec</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2a-06-26-2023_07-05-2023_1648.zip</compiler_build>
+        <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2b-07-19-2023_08-01-2023_1829.zip</compiler_build>
     </sys_hub_flow>
 </record_update>

@@ -38,7 +38,7 @@
         <label>employee_type</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
-        <model display_value="Termination Flow">639ad01a1b9291508c5143f3cc4bcb6b</model>
+        <model display_value="">639ad01a1b9291508c5143f3cc4bcb6b</model>
         <model_id>639ad01a1b9291508c5143f3cc4bcb6b</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_639ad01a1b9291508c5143f3cc4bcb6b</name>
