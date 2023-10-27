@@ -14,7 +14,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="Termination Flow">99bcd90a1ba1c51062e50ed2cd4bcbc0</flow_designer_flow>
+        <flow_designer_flow display_value="REQF - Termination - VC">99bcd90a1ba1c51062e50ed2cd4bcbc0</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group display_value="AG_FieldSupport" name="AG_FieldSupport">397935531b4b50d0f5a3635bbc4bcb96</group>
         <hide_sp>false</hide_sp>

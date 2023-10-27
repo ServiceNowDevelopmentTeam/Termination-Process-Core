@@ -38,7 +38,7 @@
         <label>User Not Found</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Termination Flow">99bcd90a1ba1c51062e50ed2cd4bcbc0</model>
+        <model display_value="REQF - Termination - VC">99bcd90a1ba1c51062e50ed2cd4bcbc0</model>
         <model_id>99bcd90a1ba1c51062e50ed2cd4bcbc0</model_id>
         <model_table>sys_hub_flow</model_table>
         <name>var__m_sys_hub_flow_variable_99bcd90a1ba1c51062e50ed2cd4bcbc0</name>
@@ -64,8 +64,8 @@
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_variable_254017411ba781508c5143f3cc4bcb65</sys_update_name>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2023-09-21 20:35:52</sys_updated_on>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-10-27 14:50:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

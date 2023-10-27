@@ -38,7 +38,7 @@
         <label>date_breached</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="Termination Flow">6094750a1b65c51062e50ed2cd4bcb19</model>
+        <model display_value="REQF - Termination - VC">6094750a1b65c51062e50ed2cd4bcb19</model>
         <model_id>6094750a1b65c51062e50ed2cd4bcb19</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_variable_6094750a1b65c51062e50ed2cd4bcb19</name>
