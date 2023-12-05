@@ -2,7 +2,7 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>367094e31b1a05908c5143f3cc4bcb4d</answer>
-        <condition table="var__m_sys_decision_input_47359ce41b8389508c5143f3cc4bcb5f">u_company=98b5d89f1b021050f5a3635bbc4bcbc5^EQ<item display_table="core_company" display_value="LeJeune Steel Company" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="98b5d89f1b021050f5a3635bbc4bcbc5"/>
+        <condition table="var__m_sys_decision_input_47359ce41b8389508c5143f3cc4bcb5f">u_company=98b5d89f1b021050f5a3635bbc4bcbc5^EQ<item display_table="core_company" display_value="LeJeune Steel" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="98b5d89f1b021050f5a3635bbc4bcbc5"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="term - company specialized tasks">47359ce41b8389508c5143f3cc4bcb5f</decision_table>

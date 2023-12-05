@@ -2,7 +2,7 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>d97cd8251bb530148c5143f3cc4bcb6c</answer>
-        <condition table="var__m_sys_decision_input_47359ce41b8389508c5143f3cc4bcb5f">u_company=68b51c9f1b021050f5a3635bbc4bcb04^EQ<item display_table="core_company" display_value="Metropolitan Mechanical Contractors Inc" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="68b51c9f1b021050f5a3635bbc4bcb04"/>
+        <condition table="var__m_sys_decision_input_47359ce41b8389508c5143f3cc4bcb5f">u_company=68b51c9f1b021050f5a3635bbc4bcb04^EQ<item display_table="core_company" display_value="MMC" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="68b51c9f1b021050f5a3635bbc4bcb04"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="term - company specialized tasks">47359ce41b8389508c5143f3cc4bcb5f</decision_table>

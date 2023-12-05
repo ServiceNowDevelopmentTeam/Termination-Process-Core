@@ -2,7 +2,7 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>410f9b751b56155062e50ed2cd4bcb95</answer>
-        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=fec0a7ffdba0b8506be415ce3b9619ed^EQ<item display_table="core_company" display_value="Industrial Fabrications Inc" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="fec0a7ffdba0b8506be415ce3b9619ed"/>
+        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=fec0a7ffdba0b8506be415ce3b9619ed^EQ<item endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="fec0a7ffdba0b8506be415ce3b9619ed"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>

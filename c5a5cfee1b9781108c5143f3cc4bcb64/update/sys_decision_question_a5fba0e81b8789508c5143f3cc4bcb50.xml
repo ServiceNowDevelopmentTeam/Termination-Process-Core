@@ -2,7 +2,7 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>9d10834d1b8601d062e50ed2cd4bcb71</answer>
-        <condition table="var__m_sys_decision_input_3d4b2c281b8789508c5143f3cc4bcbe4">u_company=28b51c9f1b021050f5a3635bbc4bcb25^EQ<item display_table="core_company" display_value="Signal One" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="28b51c9f1b021050f5a3635bbc4bcb25"/>
+        <condition table="var__m_sys_decision_input_3d4b2c281b8789508c5143f3cc4bcbe4">u_company=28b51c9f1b021050f5a3635bbc4bcb25^EQ<item display_table="core_company" display_value="Signal One Fire and Communication LLC" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="28b51c9f1b021050f5a3635bbc4bcb25"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="term - wsfp cards">3d4b2c281b8789508c5143f3cc4bcbe4</decision_table>
