@@ -24,6 +24,7 @@
         <title>Individual Data</title>
         <type>one_to_many</type>
         <u_cdw_variables>false</u_cdw_variables>
+        <version/>
         <write_roles/>
     </item_option_new_set>
 </record_update>

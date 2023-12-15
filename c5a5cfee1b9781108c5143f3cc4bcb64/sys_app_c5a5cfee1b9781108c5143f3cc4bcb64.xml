@@ -5,10 +5,11 @@
         <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
+        <ide_created/>
         <installed_as_dependency>false</installed_as_dependency>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
-        <license display_value="">4e43cd7c977f2d102e853cf3a253aff9</license>
+        <license display_value="IT Service Management Professional - Fulfiller User v3 ">171f59191b03311062e50ed2cd4bcb57</license>
         <license_category>none</license_category>
         <license_definition/>
         <license_model>none</license_model>
@@ -22,16 +23,17 @@
         <scoped_administration>false</scoped_administration>
         <short_description>changes for terminatioin</short_description>
         <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
-        <store_correlation_id>REPOAPP0001109056</store_correlation_id>
+        <store_correlation_id/>
         <store_url/>
+        <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
-        <sys_code/>
+        <sys_code>4630a8861ba9851062e50ed2cd4bcb61</sys_code>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-05-31 14:06:22</sys_created_on>
         <sys_id>c5a5cfee1b9781108c5143f3cc4bcb64</sys_id>
-        <sys_mod_count>177</sys_mod_count>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2023-12-06 18:22:55</sys_updated_on>
+        <sys_mod_count>188</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-12-14 14:15:53</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

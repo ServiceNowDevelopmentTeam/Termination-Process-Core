@@ -9,6 +9,7 @@
         <field_parent_table/>
         <label>Company</label>
         <order>100</order>
+        <parent/>
         <reference display_value="Company" name="core_company">0c7468231b211010e7004229bc4bcbed</reference>
         <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>

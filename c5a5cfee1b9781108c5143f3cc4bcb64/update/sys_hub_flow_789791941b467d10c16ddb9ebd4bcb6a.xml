@@ -4,6 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation/>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -29,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>789791941b467d10c16ddb9ebd4bcb6a</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>REQF - Termination Deactivate User</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -37,7 +38,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_789791941b467d10c16ddb9ebd4bcb6a</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-10-31 18:54:40</sys_updated_on>
+        <sys_updated_on>2023-12-13 21:19:50</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=789791941b467d10c16ddb9ebd4bcb6a"/>
@@ -141,6 +142,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=0318dd981b467d10c16ddb9ebd4bcba5"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -224,6 +226,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=4f18dd981b467d10c16ddb9ebd4bcb9e"/>
     <sys_hub_flow_output action="delete_multiple" query="model=789791941b467d10c16ddb9ebd4bcb6a"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=789791941b467d10c16ddb9ebd4bcb6a"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=789791941b467d10c16ddb9ebd4bcb6a^sys_idNOT IN1f18dd981b467d10c16ddb9ebd4bcbc5,c718dd981b467d10c16ddb9ebd4bcbaf,df18dd981b467d10c16ddb9ebd4bcbb9"/>
@@ -232,6 +235,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Set employement end date</comment>
         <display_text/>
         <flow display_value="REQF - Termination Deactivate User">789791941b467d10c16ddb9ebd4bcb6a</flow>
@@ -241,10 +245,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>1f18dd981b467d10c16ddb9ebd4bcbc5</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-06 18:14:10</sys_updated_on>
+        <sys_updated_on>2023-12-14 23:13:20</sys_updated_on>
         <ui_id>e62a1abe-bac0-4c6d-b620-f3eb415c0492</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1f18dd981b467d10c16ddb9ebd4bcbc5"/>
@@ -306,6 +310,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="REQF - Termination Deactivate User">789791941b467d10c16ddb9ebd4bcb6a</flow>
@@ -315,10 +320,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>c718dd981b467d10c16ddb9ebd4bcbaf</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-06 18:14:10</sys_updated_on>
+        <sys_updated_on>2023-12-14 23:13:20</sys_updated_on>
         <ui_id>c823b24e-0dd8-4e37-929c-f15d85bccf6c</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c718dd981b467d10c16ddb9ebd4bcbaf"/>
@@ -394,6 +399,7 @@
         <action_inputs/>
         <action_type display_value="Look Up Record">9d09f99587003300663ca1bb36cb0ba3</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="REQF - Termination Deactivate User">789791941b467d10c16ddb9ebd4bcb6a</flow>
@@ -403,10 +409,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>df18dd981b467d10c16ddb9ebd4bcbb9</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-06 18:14:10</sys_updated_on>
+        <sys_updated_on>2023-12-14 23:13:20</sys_updated_on>
         <ui_id>38dae899-93de-458d-8f40-b36799f8fd30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=df18dd981b467d10c16ddb9ebd4bcbb9"/>
@@ -480,6 +486,7 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=789791941b467d10c16ddb9ebd4bcb6a"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=789791941b467d10c16ddb9ebd4bcb6a^sys_idNOT INd718dd981b467d10c16ddb9ebd4bcbbd"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">1f18dd981b467d10c16ddb9ebd4bcbbc</block>
         <comment/>
         <connected_to/>
@@ -567,7 +574,7 @@
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>4318dd981b467d10c16ddb9ebd4bcba4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>User</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -590,7 +597,7 @@
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>4718dd981b467d10c16ddb9ebd4bcba7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>End date/time</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -603,28 +610,12 @@
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_789791941b467d10c16ddb9ebd4bcb6a"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_789791941b467d10c16ddb9ebd4bcb6a"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_789791941b467d10c16ddb9ebd4bcb6a"/>
-    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=789791941b467d10c16ddb9ebd4bcb6a"/>
-    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=789791941b467d10c16ddb9ebd4bcb6a^sys_idNOT IN002851d81b467d10c16ddb9ebd4bcb11"/>
-    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"002851d81b467d10c16ddb9ebd4bcb11","name":"plan","plan_signature":null}}</plan>
-        <plan_id display_value="REQF - Termination Deactivate User">789791941b467d10c16ddb9ebd4bcb6a</plan_id>
-        <snapshot>0fad15cc1b87fdd062e50ed2cd4bcbf6</snapshot>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-10-18 19:25:37</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>002851d81b467d10c16ddb9ebd4bcb11</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_overrides/>
-        <sys_scope/>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-10-31 18:54:40</sys_updated_on>
-    </sys_flow_subflow_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
         <acls/>
         <active>true</active>
         <annotation/>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -760,6 +751,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=3b1811d81b467d10c16ddb9ebd4bcbab"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -843,6 +835,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=6f1811d81b467d10c16ddb9ebd4bcb04"/>
     <sys_hub_flow_output action="delete_multiple" query="model=af1811d81b467d10c16ddb9ebd4bcb02"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=af1811d81b467d10c16ddb9ebd4bcb02"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=af1811d81b467d10c16ddb9ebd4bcb02^sys_idNOT INb31811d81b467d10c16ddb9ebd4bcbe5,c42811d81b467d10c16ddb9ebd4bcbeb,f71811d81b467d10c16ddb9ebd4bcbcd"/>
@@ -851,6 +844,7 @@
         <action_inputs/>
         <action_type display_value="Look Up Record">9d09f99587003300663ca1bb36cb0ba3</action_type>
         <action_type_parent display_value="Look Up Record">b93f42810b30030085c083eb37673a63</action_type_parent>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="REQF - Termination Deactivate User">af1811d81b467d10c16ddb9ebd4bcb02</flow>
@@ -939,6 +933,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
         <comment>Set employement end date</comment>
         <display_text/>
         <flow display_value="REQF - Termination Deactivate User">af1811d81b467d10c16ddb9ebd4bcb02</flow>
@@ -1013,6 +1008,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="REQF - Termination Deactivate User">af1811d81b467d10c16ddb9ebd4bcb02</flow>
@@ -1099,6 +1095,7 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=af1811d81b467d10c16ddb9ebd4bcb02"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=af1811d81b467d10c16ddb9ebd4bcb02^sys_idNOT IN731811d81b467d10c16ddb9ebd4bcbb7"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">1f18dd981b467d10c16ddb9ebd4bcbbc</block>
         <comment/>
         <connected_to/>
@@ -1186,7 +1183,7 @@
         <sys_created_on>2023-10-18 19:25:35</sys_created_on>
         <sys_id>bf1811d81b467d10c16ddb9ebd4bcbaf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>End date/time</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1209,7 +1206,7 @@
         <sys_created_on>2023-10-18 19:25:35</sys_created_on>
         <sys_id>ff1811d81b467d10c16ddb9ebd4bcba7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>User</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
@@ -1225,6 +1222,23 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>789791941b467d10c16ddb9ebd4bcb6a</sys_id>
         <latest_snapshot>af1811d81b467d10c16ddb9ebd4bcb02</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch10-hotfix1a-09-18-2023_10-06-2023_1603.zip</compiler_build>
+        <compiler_build>glide-vancouver-07-06-2023__patch5-12-01-2023_12-11-2023_2006.zip</compiler_build>
     </sys_hub_flow>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=789791941b467d10c16ddb9ebd4bcb6a"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=789791941b467d10c16ddb9ebd4bcb6a^sys_idNOT IN002851d81b467d10c16ddb9ebd4bcb11"/>
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"002851d81b467d10c16ddb9ebd4bcb11","name":"plan","plan_signature":null}}</plan>
+        <plan_id display_value="REQF - Termination Deactivate User">789791941b467d10c16ddb9ebd4bcb6a</plan_id>
+        <snapshot>dfdea76a1b4f711062e50ed2cd4bcbcc</snapshot>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-10-18 19:25:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>002851d81b467d10c16ddb9ebd4bcb11</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-10-31 18:54:40</sys_updated_on>
+    </sys_flow_subflow_plan>
 </record_update>

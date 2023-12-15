@@ -17,6 +17,7 @@
         <messages/>
         <name>Get Employee Info and AutoFill</name>
         <order>100</order>
+        <published_ref/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
 	if (isLoading || newValue == '') {
 		return;

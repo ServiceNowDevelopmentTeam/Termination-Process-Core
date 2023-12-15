@@ -4,6 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation>Returns the manager variable, or the delegate if that's set.</annotation>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -37,7 +38,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_7f1a70ac1b10e11462e50ed2cd4bcbb8</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-07-28 16:25:46</sys_updated_on>
+        <sys_updated_on>2023-12-13 21:19:53</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
@@ -142,6 +143,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=994afcec1b10e11462e50ed2cd4bcb2f"/>
     <sys_hub_flow_output action="delete_multiple" query="model=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT IN214ab0201b50e11462e50ed2cd4bcb17"/>
     <sys_hub_flow_output action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -226,6 +228,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_output>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=214ab0201b50e11462e50ed2cd4bcb17"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT IN35fa34601b50e11462e50ed2cd4bcbc3"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -233,6 +236,7 @@
         <action_inputs/>
         <action_type display_value="Get Catalog Variables">330ba3abc31013002841b63b12d3aee8</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Termination - Get manager or delegate">7f1a70ac1b10e11462e50ed2cd4bcbb8</flow>
@@ -242,10 +246,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-06 15:55:39</sys_created_on>
         <sys_id>35fa34601b50e11462e50ed2cd4bcbc3</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>38</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-11-08 18:05:57</sys_updated_on>
+        <sys_updated_on>2023-12-14 23:04:34</sys_updated_on>
         <ui_id>fc3eefea-613f-479a-bdf8-cfc96d58c58d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=35fa34601b50e11462e50ed2cd4bcbc3"/>
@@ -318,6 +322,7 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=35fa34601b50e11462e50ed2cd4bcbc3"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT IN0d8bb0a01b50e11462e50ed2cd4bcbb2"/>
     <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Termination - Get manager or delegate">7f1a70ac1b10e11462e50ed2cd4bcbb8</flow>
@@ -503,6 +508,7 @@
     <sys_hub_input_scripts action="delete_multiple" query="instance=0d8bb0a01b50e11462e50ed2cd4bcbb2"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT IN31fa34601b50e11462e50ed2cd4bcbcc,35fa34601b50e11462e50ed2cd4bcbc7,35fa34601b50e11462e50ed2cd4bcbcf,3dfa34601b50e11462e50ed2cd4bcbd1,8d8bb0a01b50e11462e50ed2cd4bcb96,c58bb0a01b50e11462e50ed2cd4bcbae"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">7dfa34601b50e11462e50ed2cd4bcbcb</block>
         <comment>Return delegate as manager</comment>
         <connected_to/>
@@ -549,6 +555,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=31fa34601b50e11462e50ed2cd4bcbcc"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=31fa34601b50e11462e50ed2cd4bcbcc"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">7dfa34601b50e11462e50ed2cd4bcbc6</block>
         <comment/>
         <connected_to/>
@@ -622,6 +629,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=35fa34601b50e11462e50ed2cd4bcbc7"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=35fa34601b50e11462e50ed2cd4bcbc7"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">71fa34601b50e11462e50ed2cd4bcbcf</block>
         <comment/>
         <connected_to>2f5b9857-a98e-4e42-8f6f-2ac6c40d7393</connected_to>
@@ -655,6 +663,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=35fa34601b50e11462e50ed2cd4bcbcf"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=35fa34601b50e11462e50ed2cd4bcbcf"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">79fa34601b50e11462e50ed2cd4bcbd1</block>
         <comment>Return original manager as manager</comment>
         <connected_to/>
@@ -701,6 +710,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3dfa34601b50e11462e50ed2cd4bcbd1"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=3dfa34601b50e11462e50ed2cd4bcbd1"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">c58bb0a01b50e11462e50ed2cd4bcb96</block>
         <comment/>
         <connected_to/>
@@ -734,6 +744,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=8d8bb0a01b50e11462e50ed2cd4bcb96"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=8d8bb0a01b50e11462e50ed2cd4bcb96"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">058bb0a01b50e11462e50ed2cd4bcbae</block>
         <comment/>
         <connected_to/>
@@ -847,28 +858,12 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
-    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
-    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT INf6fab4601b50e11462e50ed2cd4bcb4a"/>
-    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"f6fab4601b50e11462e50ed2cd4bcb4a","name":"plan","plan_signature":null}}</plan>
-        <plan_id display_value="Termination - Get manager or delegate">7f1a70ac1b10e11462e50ed2cd4bcbb8</plan_id>
-        <snapshot>b94f49c71bd6f91062e50ed2cd4bcbca</snapshot>
-        <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-01-06 15:55:43</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>f6fab4601b50e11462e50ed2cd4bcb4a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_overrides/>
-        <sys_scope/>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2023-01-06 15:58:10</sys_updated_on>
-    </sys_flow_subflow_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
         <acls/>
         <active>true</active>
         <annotation>Returns the manager variable, or the delegate if that's set.</annotation>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -1005,6 +1000,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=dafa74601b50e11462e50ed2cd4bcb34"/>
     <sys_hub_flow_output action="delete_multiple" query="model=1afa74601b50e11462e50ed2cd4bcb32^sys_idNOT IN2efa74601b50e11462e50ed2cd4bcbd0"/>
     <sys_hub_flow_output action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -1089,6 +1085,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_output>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=2efa74601b50e11462e50ed2cd4bcbd0"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=1afa74601b50e11462e50ed2cd4bcb32"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=1afa74601b50e11462e50ed2cd4bcb32^sys_idNOT IN62fab4601b50e11462e50ed2cd4bcb23"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1096,6 +1093,7 @@
         <action_inputs/>
         <action_type display_value="Get Catalog Variables">330ba3abc31013002841b63b12d3aee8</action_type>
         <action_type_parent display_value="Get Catalog Variables">22f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Termination - Get manager or delegate">1afa74601b50e11462e50ed2cd4bcb32</flow>
@@ -1181,6 +1179,7 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=62fab4601b50e11462e50ed2cd4bcb23"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=1afa74601b50e11462e50ed2cd4bcb32^sys_idNOT IN0e8bf0a01b50e11462e50ed2cd4bcbd7"/>
     <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="Termination - Get manager or delegate">1afa74601b50e11462e50ed2cd4bcb32</flow>
@@ -1366,6 +1365,7 @@
     <sys_hub_input_scripts action="delete_multiple" query="instance=0e8bf0a01b50e11462e50ed2cd4bcbd7"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=1afa74601b50e11462e50ed2cd4bcb32^sys_idNOT IN22fab4601b50e11462e50ed2cd4bcb1b,428bf0a01b50e11462e50ed2cd4bcbbc,428bf0a01b50e11462e50ed2cd4bcbd4,66fab4601b50e11462e50ed2cd4bcb18,aafab4601b50e11462e50ed2cd4bcb10,eefab4601b50e11462e50ed2cd4bcb14"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">79fa34601b50e11462e50ed2cd4bcbd1</block>
         <comment>Return original manager as manager</comment>
         <connected_to/>
@@ -1412,6 +1412,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=22fab4601b50e11462e50ed2cd4bcb1b"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=22fab4601b50e11462e50ed2cd4bcb1b"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">c58bb0a01b50e11462e50ed2cd4bcb96</block>
         <comment/>
         <connected_to/>
@@ -1445,6 +1446,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=428bf0a01b50e11462e50ed2cd4bcbbc"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=428bf0a01b50e11462e50ed2cd4bcbbc"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">058bb0a01b50e11462e50ed2cd4bcbae</block>
         <comment/>
         <connected_to/>
@@ -1507,6 +1509,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=428bf0a01b50e11462e50ed2cd4bcbd4"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=428bf0a01b50e11462e50ed2cd4bcbd4"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">71fa34601b50e11462e50ed2cd4bcbcf</block>
         <comment/>
         <connected_to>2f5b9857-a98e-4e42-8f6f-2ac6c40d7393</connected_to>
@@ -1540,6 +1543,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=66fab4601b50e11462e50ed2cd4bcb18"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=66fab4601b50e11462e50ed2cd4bcb18"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">7dfa34601b50e11462e50ed2cd4bcbc6</block>
         <comment/>
         <connected_to/>
@@ -1613,6 +1617,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=aafab4601b50e11462e50ed2cd4bcb10"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=aafab4601b50e11462e50ed2cd4bcb10"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">7dfa34601b50e11462e50ed2cd4bcbcb</block>
         <comment>Return delegate as manager</comment>
         <connected_to/>
@@ -1713,6 +1718,23 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>7f1a70ac1b10e11462e50ed2cd4bcbb8</sys_id>
         <latest_snapshot>1afa74601b50e11462e50ed2cd4bcb32</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch10-hotfix1a-09-18-2023_10-06-2023_1603.zip</compiler_build>
+        <compiler_build>glide-vancouver-07-06-2023__patch5-12-01-2023_12-11-2023_2006.zip</compiler_build>
     </sys_hub_flow>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT INf6fab4601b50e11462e50ed2cd4bcb4a"/>
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"f6fab4601b50e11462e50ed2cd4bcb4a","name":"plan","plan_signature":null}}</plan>
+        <plan_id display_value="Termination - Get manager or delegate">7f1a70ac1b10e11462e50ed2cd4bcbb8</plan_id>
+        <snapshot>03dca7e21b4f711062e50ed2cd4bcbd2</snapshot>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-01-06 15:55:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6fab4601b50e11462e50ed2cd4bcb4a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-01-06 15:58:10</sys_updated_on>
+    </sys_flow_subflow_plan>
 </record_update>

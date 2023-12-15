@@ -17,6 +17,7 @@
         <messages/>
         <name>disable-enable computer backup</name>
         <order/>
+        <published_ref/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
     if (isLoading || newValue == '') {
         return;

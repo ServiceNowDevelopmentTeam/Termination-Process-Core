@@ -4,10 +4,13 @@
         <active>true</active>
         <answer_table>cmdb_ci_service</answer_table>
         <answer_type>reference</answer_type>
+        <delta/>
         <description/>
+        <enable_publishing>false</enable_publishing>
         <label/>
         <name>Employee ID Source Lookup</name>
         <reference_qualifier/>
+        <status/>
         <sys_class_name>sys_decision</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-08-25 18:04:59</sys_created_on>

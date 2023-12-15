@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Conference Room Equipment">470ecf511b57251062e50ed2cd4bcb28</sc_cat_item>
+        <sc_cat_item display_value="">470ecf511b57251062e50ed2cd4bcb28</sc_cat_item>
         <sc_category display_value="Office Supplies">8fd29c1c1b682050f5a3635bbc4bcb4b</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>

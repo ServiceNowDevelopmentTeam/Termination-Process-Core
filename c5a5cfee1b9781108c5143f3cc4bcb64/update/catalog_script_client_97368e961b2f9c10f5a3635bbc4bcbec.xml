@@ -17,6 +17,7 @@
         <messages/>
         <name>If user safety services company</name>
         <order/>
+        <published_ref/>
         <script><![CDATA[function onChange() {
 	g_form.setVisible('company_credit_card',false);
 	g_form.setVisible('company_gas_card',false);

@@ -9,6 +9,7 @@
         <default_answer>false</default_answer>
         <input_table>var__m_sys_decision_input_3983dbd11be1599062e50ed2cd4bcb2f</input_table>
         <label>Employee ID Source Lookup_7800</label>
+        <marked_for_deletion>false</marked_for_deletion>
         <order>7800</order>
         <sys_class_name>sys_decision_question</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>

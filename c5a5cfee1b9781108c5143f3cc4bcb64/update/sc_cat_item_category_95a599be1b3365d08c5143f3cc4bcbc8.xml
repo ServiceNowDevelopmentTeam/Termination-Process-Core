@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Out of Country Travel Access">fedcc7511b57251062e50ed2cd4bcb4c</sc_cat_item>
+        <sc_cat_item display_value="">fedcc7511b57251062e50ed2cd4bcb4c</sc_cat_item>
         <sc_category display_value="Something Else">10cd89081b3f701062e50ed2cd4bcbed</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>

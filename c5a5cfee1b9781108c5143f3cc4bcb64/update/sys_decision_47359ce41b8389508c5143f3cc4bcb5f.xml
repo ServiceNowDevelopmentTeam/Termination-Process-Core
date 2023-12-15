@@ -4,10 +4,13 @@
         <active>true</active>
         <answer_table>cmdb_ci_service</answer_table>
         <answer_type>reference</answer_type>
+        <delta/>
         <description/>
+        <enable_publishing>false</enable_publishing>
         <label/>
         <name>term - company specialized tasks</name>
         <reference_qualifier/>
+        <status/>
         <sys_class_name>sys_decision</sys_class_name>
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2022-04-20 13:41:11</sys_created_on>

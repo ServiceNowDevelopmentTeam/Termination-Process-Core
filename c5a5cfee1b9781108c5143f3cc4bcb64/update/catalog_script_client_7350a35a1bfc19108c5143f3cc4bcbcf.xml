@@ -17,6 +17,7 @@
         <messages/>
         <name>Set payroll on company change</name>
         <order>0</order>
+        <published_ref/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
 	if ( newValue == '') {
 		return;
