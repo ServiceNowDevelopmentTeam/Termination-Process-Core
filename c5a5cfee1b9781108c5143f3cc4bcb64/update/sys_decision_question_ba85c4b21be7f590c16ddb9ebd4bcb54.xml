@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>ad30cf4d1b8601d062e50ed2cd4bcbad</answer>
+        <condition/>
+        <decision_table display_value="term - dayforce companies">6fa5a52c1b4f89508c5143f3cc4bcb65</decision_table>
+        <default_answer>true</default_answer>
+        <input_table>var__m_sys_decision_input_6fa5a52c1b4f89508c5143f3cc4bcb65</input_table>
+        <label>term - dayforce companies default result</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2024-01-08 21:23:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba85c4b21be7f590c16ddb9ebd4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>term - dayforce companies default result</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_question_ba85c4b21be7f590c16ddb9ebd4bcb54</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2024-01-08 21:23:48</sys_updated_on>
+    </sys_decision_question>
+</record_update>
