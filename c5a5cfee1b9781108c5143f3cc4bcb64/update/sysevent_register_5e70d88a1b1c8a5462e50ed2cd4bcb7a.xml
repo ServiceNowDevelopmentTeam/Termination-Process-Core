@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>Send onedrive personal access email</description>
+        <event_name>termination.dayforce.personal1</event_name>
+        <fired_by>Flow designer</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix/>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2024-02-12 21:03:41</sys_created_on>
+        <sys_id>5e70d88a1b1c8a5462e50ed2cd4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>termination.dayforce.personal1</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sysevent_register_5e70d88a1b1c8a5462e50ed2cd4bcb7a</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2024-02-12 21:03:41</sys_updated_on>
+        <table>sc_req_item</table>
+    </sysevent_register>
+</record_update>
