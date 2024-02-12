@@ -2,7 +2,7 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>a3306b391b56155062e50ed2cd4bcbec</answer>
-        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=b9e6c3f61bee5090e7004229bc4bcb6f^EQ<item display_table="core_company" display_value="APi Systems Group Inc" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="b9e6c3f61bee5090e7004229bc4bcb6f"/>
+        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=b9e6c3f61bee5090e7004229bc4bcb6f^EQ<item endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="b9e6c3f61bee5090e7004229bc4bcb6f"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>

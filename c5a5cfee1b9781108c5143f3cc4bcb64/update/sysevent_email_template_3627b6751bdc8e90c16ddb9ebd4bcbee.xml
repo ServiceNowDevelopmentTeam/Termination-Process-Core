@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>sc_req_item</collection>
+        <email_layout display_value="APi Non-Standard Layout No Buttons">48cfa67d1b9c8e90c16ddb9ebd4bcb2d</email_layout>
+        <message/>
+        <message_html><![CDATA[<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">We are sending this email to make you aware that upon leaving APi Group, you are still able to access your earnings statements (pay stubs) in Dayforce in case you may need them for your personal records. At the end of the calendar year, there will also be a link available to access your W2 electronically, unless you opted out of that method of receipt.</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">&nbsp;</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">To access pay and tax documents please go to </span><a style="color: #0563c1; text-decoration: underline;" href="https://dayforcehcm.com"><span style="font-family: Verdana, sans-serif;">https://dayforcehcm.com</span></a><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">. Your username is your APi Group Dayforce employee number. A separate email has been sent with password instructions.</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">&nbsp;</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">Employee Number: <span style="font-size: 10pt; font-family: Verdana, sans-serif;">${variables.employee_number}</span></span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif;">&nbsp;</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif; color: #262626;">If you previously logged in with a password rather than single-sign-on, you will still be able to use that password. If you used a password previously but it has expired, you should be able to reset it by answering your security questions. If your default password (detailed in the &ldquo;Message 2&rdquo; email) is expired, you&rsquo;ll need to call the APi Group Help Desk at 651-925-8511. Make sure to tell the help desk operator that you are accessing Dayforce with your &ldquo;Terminated&rdquo; role.</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif; color: #262626;">&nbsp;</span></p>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; font-family: Verdana, sans-serif; color: #262626;">Any questions you have about the content of your pay statements should be directed to your former local HR administrator.</span></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Termination Personal Login Information 1</name>
+        <sms_alternate/>
+        <subject>APi Group Dayforce Login Information</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2024-02-12 14:34:45</sys_created_on>
+        <sys_id>3627b6751bdc8e90c16ddb9ebd4bcbee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Termination Personal Login Information 1</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sysevent_email_template_3627b6751bdc8e90c16ddb9ebd4bcbee</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2024-02-12 14:43:40</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
