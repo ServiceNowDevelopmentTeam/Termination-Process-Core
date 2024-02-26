@@ -4170,7 +4170,7 @@
         <inputs/>
         <order>7</order>
         <parent_ui_id>0974b59b-cbba-4e50-bfbd-8054d73e0e20</parent_ui_id>
-        <subflow display_value="REQF - Termination Deactivate User">af1811d81b467d10c16ddb9ebd4bcb02</subflow>
+        <subflow display_value="REQF - Deprovision User">af1811d81b467d10c16ddb9ebd4bcb02</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
@@ -9670,7 +9670,7 @@
         <inputs/>
         <order>7</order>
         <parent_ui_id>0974b59b-cbba-4e50-bfbd-8054d73e0e20</parent_ui_id>
-        <subflow display_value="REQF - Termination Deactivate User">af1811d81b467d10c16ddb9ebd4bcb02</subflow>
+        <subflow display_value="REQF - Deprovision User">af1811d81b467d10c16ddb9ebd4bcb02</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
