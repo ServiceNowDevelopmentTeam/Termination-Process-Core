@@ -4,14 +4,14 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=edge,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=11311559000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=edge,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=11571343000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description/>
         <internal_name>reqf__termination_deactivate_user</internal_name>
-        <label_cache>[{"name":"b2925cd6-9a72-4bf5-9288-9b63c0462814.item","label":"9 - For Each➛User Role Record","reference":"sys_user_has_role","reference_display":"User Role","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"d545c240-503e-43ac-af0e-cb16561b7eb6.Records","label":"8 - Look Up Records➛User Role Records","reference":"sys_user_has_role","reference_display":"User Role","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.end_date_time","label":"Input➛End date/time","reference":"","reference_display":"","type":"glide_date_time","base_type":"glide_date_time","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"27a2129f-be3e-4217-be1d-3872650016c8"}},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.Record","label":"2 - Look Up Record➛Employee Profile Record","reference":"sn_employee_profile","reference_display":"Employee Profile","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.status","label":"2 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"c823b24e-0dd8-4e37-929c-f15d85bccf6c.record.sys_id","label":"1 - Update Record➛User Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_user","column_name":"sys_id"},{"name":"subflow.user","label":"Input➛User","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"4c6fb54f-375e-4e30-8c16-0b698ea055ed","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"462d4d2b-ea9c-4dfb-8b10-b0f4996b227b.Records","label":"5 - Look Up Records➛Group Member Records","reference":"sys_user_grmember","reference_display":"Group Member","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"88522139-9eca-4cef-bc3b-5c0a0203017f.item","label":"6 - For Each➛Group Member Record","reference":"sys_user_grmember","reference_display":"Group Member","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}}]</label_cache>
+        <label_cache>[{"name":"88522139-9eca-4cef-bc3b-5c0a0203017f.item","label":"6 - For Each➛Group Member Record","reference":"sys_user_grmember","reference_display":"Group Member","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"462d4d2b-ea9c-4dfb-8b10-b0f4996b227b.Records","label":"5 - Look Up Records➛Group Member Records","reference":"sys_user_grmember","reference_display":"Group Member","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.user","label":"Input➛User","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"4c6fb54f-375e-4e30-8c16-0b698ea055ed","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"c823b24e-0dd8-4e37-929c-f15d85bccf6c.record.sys_id","label":"1 - Update Record➛User Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_user","column_name":"sys_id"},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.status","label":"2 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.Record","label":"2 - Look Up Record➛Employee Profile Record","reference":"sn_employee_profile","reference_display":"Employee Profile","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.end_date_time","label":"Input➛End date/time","reference":"","reference_display":"","type":"glide_date_time","base_type":"glide_date_time","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"27a2129f-be3e-4217-be1d-3872650016c8"}},{"name":"d545c240-503e-43ac-af0e-cb16561b7eb6.Records","label":"8 - Look Up Records➛User Role Records","reference":"sys_user_has_role","reference_display":"User Role","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b2925cd6-9a72-4bf5-9288-9b63c0462814.item","label":"9 - For Each➛User Role Record","reference":"sys_user_has_role","reference_display":"User Role","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}}]</label_cache>
         <master_snapshot>af1811d81b467d10c16ddb9ebd4bcb02</master_snapshot>
         <name>REQF - Deprovision User</name>
         <natlang/>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>789791941b467d10c16ddb9ebd4bcb6a</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>REQF - Deprovision User</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_789791941b467d10c16ddb9ebd4bcb6a</sys_update_name>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:19</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:03</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=789791941b467d10c16ddb9ebd4bcb6a"/>
@@ -245,10 +245,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>1f18dd981b467d10c16ddb9ebd4bcbc5</sys_id>
-        <sys_mod_count>54</sys_mod_count>
+        <sys_mod_count>60</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>e62a1abe-bac0-4c6d-b620-f3eb415c0492</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1f18dd981b467d10c16ddb9ebd4bcbc5"/>
@@ -320,10 +320,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:14:21</sys_created_on>
         <sys_id>313a0cd61b5c4e5462e50ed2cd4bcb3d</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>d545c240-503e-43ac-af0e-cb16561b7eb6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=313a0cd61b5c4e5462e50ed2cd4bcb3d"/>
@@ -383,10 +383,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:10:42</sys_created_on>
         <sys_id>9069c4921b5c4e5462e50ed2cd4bcb13</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>8b32c840-18b6-404e-8a21-5cd485c86ba9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9069c4921b5c4e5462e50ed2cd4bcb13"/>
@@ -420,10 +420,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:14:21</sys_created_on>
         <sys_id>b13a0cd61b5c4e5462e50ed2cd4bcb5f</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:19</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>b64cccbb-e0b5-481a-9e96-692fb2f98952</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b13a0cd61b5c4e5462e50ed2cd4bcb5f"/>
@@ -457,10 +457,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>c718dd981b467d10c16ddb9ebd4bcbaf</sys_id>
-        <sys_mod_count>54</sys_mod_count>
+        <sys_mod_count>60</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>c823b24e-0dd8-4e37-929c-f15d85bccf6c</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c718dd981b467d10c16ddb9ebd4bcbaf"/>
@@ -546,10 +546,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:10:41</sys_created_on>
         <sys_id>dc6984921b5c4e5462e50ed2cd4bcbfc</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>462d4d2b-ea9c-4dfb-8b10-b0f4996b227b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=dc6984921b5c4e5462e50ed2cd4bcbfc"/>
@@ -574,11 +574,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:10:41</sys_created_on>
         <sys_id>9469c4921b5c4e5462e50ed2cd4bcb0b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-13 15:10:41</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:38:56</sys_updated_on>
         <table>var__m_sys_hub_action_input_43400a1587003300663ca1bb36cb0b4b</table>
-        <value>group.nameSTARTSWITHrg_^user={{subflow.user}}</value>
+        <value>group.nameNOT LIKEapv_^user={{subflow.user}}^group.nameNOT LIKEAPV_</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -609,10 +609,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>df18dd981b467d10c16ddb9ebd4bcbb9</sys_id>
-        <sys_mod_count>54</sys_mod_count>
+        <sys_mod_count>60</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
-        <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-29 16:55:08</sys_updated_on>
         <ui_id>38dae899-93de-458d-8f40-b36799f8fd30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=df18dd981b467d10c16ddb9ebd4bcbb9"/>
@@ -708,10 +708,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:10:41</sys_created_on>
         <sys_id>5c69c4921b5c4e5462e50ed2cd4bcb0c</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:03</sys_updated_on>
         <ui_id>88522139-9eca-4cef-bc3b-5c0a0203017f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -755,10 +755,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-13 15:14:21</sys_created_on>
         <sys_id>713a0cd61b5c4e5462e50ed2cd4bcb40</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:19</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:03</sys_updated_on>
         <ui_id>b2925cd6-9a72-4bf5-9288-9b63c0462814</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -802,10 +802,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:33</sys_created_on>
         <sys_id>d718dd981b467d10c16ddb9ebd4bcbbd</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:03</sys_updated_on>
         <ui_id>b6fa9ae7-4284-48f0-ad43-7ef1a1243ebd</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -916,7 +916,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>reqf__termination_deactivate_user</internal_name>
-        <label_cache>[{"name":"b2925cd6-9a72-4bf5-9288-9b63c0462814.item","label":"9 - For Each➛User Role Record","reference":"sys_user_has_role","reference_display":"User Role","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"d545c240-503e-43ac-af0e-cb16561b7eb6.Records","label":"8 - Look Up Records➛User Role Records","reference":"sys_user_has_role","reference_display":"User Role","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.end_date_time","label":"Input➛End date/time","reference":"","reference_display":"","type":"glide_date_time","base_type":"glide_date_time","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"27a2129f-be3e-4217-be1d-3872650016c8"}},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.Record","label":"2 - Look Up Record➛Employee Profile Record","reference":"sn_employee_profile","reference_display":"Employee Profile","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.status","label":"2 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"c823b24e-0dd8-4e37-929c-f15d85bccf6c.record.sys_id","label":"1 - Update Record➛User Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_user","column_name":"sys_id"},{"name":"subflow.user","label":"Input➛User","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"4c6fb54f-375e-4e30-8c16-0b698ea055ed","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"462d4d2b-ea9c-4dfb-8b10-b0f4996b227b.Records","label":"5 - Look Up Records➛Group Member Records","reference":"sys_user_grmember","reference_display":"Group Member","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"88522139-9eca-4cef-bc3b-5c0a0203017f.item","label":"6 - For Each➛Group Member Record","reference":"sys_user_grmember","reference_display":"Group Member","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}}]</label_cache>
+        <label_cache>[{"name":"88522139-9eca-4cef-bc3b-5c0a0203017f.item","label":"6 - For Each➛Group Member Record","reference":"sys_user_grmember","reference_display":"Group Member","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"462d4d2b-ea9c-4dfb-8b10-b0f4996b227b.Records","label":"5 - Look Up Records➛Group Member Records","reference":"sys_user_grmember","reference_display":"Group Member","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.user","label":"Input➛User","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"4c6fb54f-375e-4e30-8c16-0b698ea055ed","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"c823b24e-0dd8-4e37-929c-f15d85bccf6c.record.sys_id","label":"1 - Update Record➛User Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_user","column_name":"sys_id"},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.status","label":"2 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"38dae899-93de-458d-8f40-b36799f8fd30.Record","label":"2 - Look Up Record➛Employee Profile Record","reference":"sn_employee_profile","reference_display":"Employee Profile","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.end_date_time","label":"Input➛End date/time","reference":"","reference_display":"","type":"glide_date_time","base_type":"glide_date_time","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"27a2129f-be3e-4217-be1d-3872650016c8"}},{"name":"d545c240-503e-43ac-af0e-cb16561b7eb6.Records","label":"8 - Look Up Records➛User Role Records","reference":"sys_user_has_role","reference_display":"User Role","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b2925cd6-9a72-4bf5-9288-9b63c0462814.item","label":"9 - For Each➛User Role Record","reference":"sys_user_has_role","reference_display":"User Role","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}}]</label_cache>
         <master>true</master>
         <name>REQF - Deprovision User</name>
         <natlang/>
@@ -933,7 +933,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>af1811d81b467d10c16ddb9ebd4bcb02</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -941,7 +941,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:01</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=af1811d81b467d10c16ddb9ebd4bcb02"/>
@@ -1148,10 +1148,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:12</sys_created_on>
         <sys_id>21335b5e1ba4825062e50ed2cd4bcb2c</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>462d4d2b-ea9c-4dfb-8b10-b0f4996b227b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=21335b5e1ba4825062e50ed2cd4bcb2c"/>
@@ -1176,11 +1176,11 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:12</sys_created_on>
         <sys_id>61335b5e1ba4825062e50ed2cd4bcb2e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:08:12</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <table>var__m_sys_hub_action_input_43400a1587003300663ca1bb36cb0b4b</table>
-        <value>group.nameSTARTSWITHrg_^user={{subflow.user}}</value>
+        <value>group.nameNOT LIKEapv_^user={{subflow.user}}^group.nameNOT LIKEAPV_</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -1211,10 +1211,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:12</sys_created_on>
         <sys_id>31335b5e1ba4825062e50ed2cd4bcb3b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>d545c240-503e-43ac-af0e-cb16561b7eb6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=31335b5e1ba4825062e50ed2cd4bcb3b"/>
@@ -1274,10 +1274,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:13</sys_created_on>
         <sys_id>3d335b5e1ba4825062e50ed2cd4bcb4c</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:01</sys_updated_on>
         <ui_id>b64cccbb-e0b5-481a-9e96-692fb2f98952</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3d335b5e1ba4825062e50ed2cd4bcb4c"/>
@@ -1311,10 +1311,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:36</sys_created_on>
         <sys_id>b31811d81b467d10c16ddb9ebd4bcbe5</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>38dae899-93de-458d-8f40-b36799f8fd30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b31811d81b467d10c16ddb9ebd4bcbe5"/>
@@ -1400,10 +1400,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:36</sys_created_on>
         <sys_id>c42811d81b467d10c16ddb9ebd4bcbeb</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>e62a1abe-bac0-4c6d-b620-f3eb415c0492</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c42811d81b467d10c16ddb9ebd4bcbeb"/>
@@ -1475,10 +1475,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:36</sys_created_on>
         <sys_id>f71811d81b467d10c16ddb9ebd4bcbcd</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>c823b24e-0dd8-4e37-929c-f15d85bccf6c</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f71811d81b467d10c16ddb9ebd4bcbcd"/>
@@ -1564,10 +1564,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:12</sys_created_on>
         <sys_id>fd335b5e1ba4825062e50ed2cd4bcb33</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>8b32c840-18b6-404e-8a21-5cd485c86ba9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fd335b5e1ba4825062e50ed2cd4bcb33"/>
@@ -1611,10 +1611,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:35</sys_created_on>
         <sys_id>731811d81b467d10c16ddb9ebd4bcbb7</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>b6fa9ae7-4284-48f0-ad43-7ef1a1243ebd</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1684,10 +1684,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:13</sys_created_on>
         <sys_id>bd335b5e1ba4825062e50ed2cd4bcb54</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:00</sys_updated_on>
         <ui_id>88522139-9eca-4cef-bc3b-5c0a0203017f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1731,10 +1731,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-02-26 16:08:13</sys_created_on>
         <sys_id>f1335b5e1ba4825062e50ed2cd4bcb71</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:16</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:01</sys_updated_on>
         <ui_id>b2925cd6-9a72-4bf5-9288-9b63c0462814</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1810,23 +1810,23 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>789791941b467d10c16ddb9ebd4bcb6a</sys_id>
         <latest_snapshot>af1811d81b467d10c16ddb9ebd4bcb02</latest_snapshot>
-        <compiler_build>glide-vancouver-07-06-2023__patch5-12-01-2023_12-11-2023_2006.zip</compiler_build>
+        <compiler_build>glide-vancouver-07-06-2023__patch6-01-11-2024_01-22-2024_2201.zip</compiler_build>
     </sys_hub_flow>
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=789791941b467d10c16ddb9ebd4bcb6a"/>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=789791941b467d10c16ddb9ebd4bcb6a^sys_idNOT IN002851d81b467d10c16ddb9ebd4bcb11"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>com.snc.process_flow.engine.ProcessPlan@4f41d</plan>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"002851d81b467d10c16ddb9ebd4bcb11","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="REQF - Deprovision User">789791941b467d10c16ddb9ebd4bcb6a</plan_id>
-        <snapshot>af1811d81b467d10c16ddb9ebd4bcb02</snapshot>
+        <snapshot>56babe531b28ca5062e50ed2cd4bcba5</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-10-18 19:25:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>002851d81b467d10c16ddb9ebd4bcb11</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>Terry.Lillo</sys_updated_by>
-        <sys_updated_on>2024-02-26 16:29:18</sys_updated_on>
+        <sys_updated_on>2024-02-29 16:39:02</sys_updated_on>
     </sys_flow_subflow_plan>
 </record_update>
