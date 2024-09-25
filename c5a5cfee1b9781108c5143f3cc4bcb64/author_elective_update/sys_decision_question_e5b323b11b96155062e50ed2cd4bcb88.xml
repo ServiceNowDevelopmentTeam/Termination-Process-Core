@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="DELETE">
+        <active>true</active>
+        <answer>a3306b391b56155062e50ed2cd4bcbec</answer>
+        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=66b5dc9f1b021050f5a3635bbc4bcb25^EQ<item display_table="core_company" display_value="Beach Lake Sprinkler" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="66b5dc9f1b021050f5a3635bbc4bcb25"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb</input_table>
+        <label>Company ERP and Payroll Lookup_1700</label>
+        <order>1700</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:19:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5b323b11b96155062e50ed2cd4bcb88</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Company ERP and Payroll Lookup_1700</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_question_e5b323b11b96155062e50ed2cd4bcb88</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-12-08 20:44:01</sys_updated_on>
+    </sys_decision_question>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>cb41202bdbe5d890601a11f8489619fb</instance_id>
+        <instance_name>apigroup</instance_name>
+        <name>sys_decision_question_e5b323b11b96155062e50ed2cd4bcb88</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>a3306b391b56155062e50ed2cd4bcbec</answer>
+        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=66b5dc9f1b021050f5a3635bbc4bcb25^EQ<item display_table="core_company" display_value="Beach Lake Sprinkler" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="66b5dc9f1b021050f5a3635bbc4bcb25"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb</input_table>
+        <label>Company ERP and Payroll Lookup_1700</label>
+        <order>1700</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:19:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5b323b11b96155062e50ed2cd4bcb88</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Company ERP and Payroll Lookup_1700</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_question_e5b323b11b96155062e50ed2cd4bcb88</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-12-08 20:44:01</sys_updated_on>
+    </sys_decision_question>
+</record_update>]]></payload>
+        <payload_hash>-1408263313</payload_hash>
+        <record_name>Company ERP and Payroll Lookup_1700</record_name>
+        <reverted_from/>
+        <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-10-06 14:41:19</sys_created_on>
+        <sys_id>26f3e650973979902e853cf3a253af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b056f8f110000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-10-06 14:41:19</sys_updated_on>
+        <type>Decision</type>
+        <update_guid>62f3e65077397990bc354abbd7d78225</update_guid>
+        <update_guid_history>62f3e65077397990bc354abbd7d78225:0,bb797583a1f7695057bf175f6db1bdec:0,a71d11b62caaa110732874abad26ab45:750543467,88b81932176aa110dbd1ecd9e15dfd93:0,129c0b57d70aa5d0e552dd5a9fe63f22:-782371977,194f8ec7128ea110dc40cf7670520e82:-1378573845,8c64c1ed4bce21905c6d517cd95abe94:-1320265546,794401edcace219080eca23f5c7c0a16:-782371977,43d6a8d37dab9910823b02473ed6def5:-1378573845,dd94856d434799104e2d41296bab4d36:367135530,4644892d754799104a65e79565ee313c:750543467,e1b323b1fa961550f19b30793fca188b:319469272,a73fc59389a3d9900951fc153d6b7920:0,a1283c5b396f99909d20d5bd88526645:-1378573845,8173a8c3a53e1550f84af18f95787e39:367135530,0d4360c3413e155048edcdfeca30f322:750543467,5ab0608bf8fa1550be6e7bc6005959f0:0,9108f06518ee5950e6a4d646935141fa:-35803956,5d08f06597ee5950724846a3f99091f6:319469272</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2024-05-03 13:27:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_question">sys_decision_question</sys_db_object>
+        <sys_id>3d8bdb65778d428eac9b27a0697d71a4</sys_id>
+        <sys_metadata>e5b323b11b96155062e50ed2cd4bcb88</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company ERP and Payroll Lookup_1700</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sys_decision_question_e5b323b11b96155062e50ed2cd4bcb88</sys_update_name>
+        <sys_update_version display_value="sys_decision_question_e5b323b11b96155062e50ed2cd4bcb88">26f3e650973979902e853cf3a253af25</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2024-05-03 13:27:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

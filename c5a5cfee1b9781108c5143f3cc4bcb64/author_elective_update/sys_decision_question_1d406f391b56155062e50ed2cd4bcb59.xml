@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="DELETE">
+        <active>true</active>
+        <answer>a3306b391b56155062e50ed2cd4bcbec</answer>
+        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=28b5d89f1b021050f5a3635bbc4bcbec^EQ<item display_table="core_company" display_value="VFP Fire Systems Inc" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="28b5d89f1b021050f5a3635bbc4bcbec"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb</input_table>
+        <label>Company ERP and Payroll Lookup_8600</label>
+        <order>8600</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:04:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d406f391b56155062e50ed2cd4bcb59</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Company ERP and Payroll Lookup_8600</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_question_1d406f391b56155062e50ed2cd4bcb59</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-12-08 21:20:02</sys_updated_on>
+    </sys_decision_question>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>cb41202bdbe5d890601a11f8489619fb</instance_id>
+        <instance_name>apigroup</instance_name>
+        <name>sys_decision_question_1d406f391b56155062e50ed2cd4bcb59</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>a3306b391b56155062e50ed2cd4bcbec</answer>
+        <condition table="var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb">u_company=28b5d89f1b021050f5a3635bbc4bcbec^EQ<item display_table="core_company" display_value="VFP Fire Systems Inc" endquery="false" field="u_company" goto="false" newquery="false" operator="=" or="false" value="28b5d89f1b021050f5a3635bbc4bcbec"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_e2be9b711b56155062e50ed2cd4bcbfb</input_table>
+        <label>Company ERP and Payroll Lookup_8600</label>
+        <order>8600</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-03 15:04:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d406f391b56155062e50ed2cd4bcb59</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Company ERP and Payroll Lookup_8600</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_question_1d406f391b56155062e50ed2cd4bcb59</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-12-08 21:20:02</sys_updated_on>
+    </sys_decision_question>
+</record_update>]]></payload>
+        <payload_hash>-1171673501</payload_hash>
+        <record_name>Company ERP and Payroll Lookup_8600</record_name>
+        <reverted_from/>
+        <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-10-06 14:40:48</sys_created_on>
+        <sys_id>47d3aa10973979902e853cf3a253af14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b056f15b80000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-10-06 14:40:48</sys_updated_on>
+        <type>Decision</type>
+        <update_guid>83d3aa109939799004e7736aa29a7d14</update_guid>
+        <update_guid_history>83d3aa109939799004e7736aa29a7d14:0,8a69f143b2f7695026077586a9388f44:0,df0d597686aaa11077200764a8947ee8:733916351,c9981dfed22aa110cc78bbb02296897a:0,f6a2adaed6f9a150a214f243367af822:733916351,7e920a11e3f52d100340a3eb61bdb6dc:0,8f040e796929ad90a25e726a4faec904:733916351,a1ee84c29455a550e17455ae3d929098:0,37d1c2509b1de910b637a5bcba5f76c6:733916351,f33146d811d9e9102bd0e511f624da2f:0,50532e2948b8ad10ca60157bb2307f94:733916351,34a2a26584b8ad108e237238692f4f1f:0,6e6282572b68255014bec7a4bf987ffa:733916351,5fa086df1b282550e9b3f057560bf9bb:0,4cfac67247d0251400cbac02feee07e4:733916351,dd47466c16d8a1d04c7d423e463b9fcc:0,1c7b3b3b1b446d90c64e7fa5dfc18ba2:733916351,60baf73708446d90fd5d8700f7c11347:0,95c3cd9e1c88e190af29136117d7311f:733916351,fc3bb0b9b4bfd9104f6d7c182f901108:0,9e30191b5ba3d99041a20f3677514eb1:733916351,162fcd1358a3d9900de85722aa664596:0,1d3368833d3e15502a8d3d0b8127c9f3:733916351,11336883b73e1550eb99906956d61ef1:71335219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2024-05-03 13:27:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_question">sys_decision_question</sys_db_object>
+        <sys_id>0fe602e5b6c84c0082af9e0dc4e5c400</sys_id>
+        <sys_metadata>1d406f391b56155062e50ed2cd4bcb59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company ERP and Payroll Lookup_8600</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sys_decision_question_1d406f391b56155062e50ed2cd4bcb59</sys_update_name>
+        <sys_update_version display_value="sys_decision_question_1d406f391b56155062e50ed2cd4bcb59">47d3aa10973979902e853cf3a253af14</sys_update_version>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2024-05-03 13:27:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

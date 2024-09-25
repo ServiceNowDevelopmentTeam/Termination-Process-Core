@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="DELETE">
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: false</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b240f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: false</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_b240f1121b12d1508c5143f3cc4bcb4c</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-07 13:12:36</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="DELETE" query="document_key=b240f1121b12d1508c5143f3cc4bcb4c"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b240f1121b12d1508c5143f3cc4bcb4c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_id>3e40f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-04 20:12:26</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b240f1121b12d1508c5143f3cc4bcb4c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_id>7a40f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-04 20:12:26</sys_updated_on>
+        <value>ViewPoint</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b240f1121b12d1508c5143f3cc4bcb4c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_id>b640f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-04 20:12:26</sys_updated_on>
+        <value>ViewPoint</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>cb41202bdbe5d890601a11f8489619fb</instance_id>
+        <instance_name>apigroup</instance_name>
+        <name>sys_decision_multi_result_b240f1121b12d1508c5143f3cc4bcb4c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: false</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b240f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: false</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_b240f1121b12d1508c5143f3cc4bcb4c</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-07 13:12:36</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=b240f1121b12d1508c5143f3cc4bcb4c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b240f1121b12d1508c5143f3cc4bcb4c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_id>3e40f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-04 20:12:26</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b240f1121b12d1508c5143f3cc4bcb4c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_id>7a40f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-04 20:12:26</sys_updated_on>
+        <value>ViewPoint</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>b240f1121b12d1508c5143f3cc4bcb4c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-04 20:12:26</sys_created_on>
+        <sys_id>b640f1121b12d1508c5143f3cc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-04 20:12:26</sys_updated_on>
+        <value>ViewPoint</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+</record_update>]]></payload>
+        <payload_hash>1378115412</payload_hash>
+        <record_name>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: false</record_name>
+        <reverted_from/>
+        <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-05-05 14:12:31</sys_created_on>
+        <sys_id>8388d5fe1b2aa1108db03375cc4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ec41da3c0000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-05-05 14:12:31</sys_updated_on>
+        <type>Decision Table Multiple Result</type>
+        <update_guid>cf88d5fead2aa11028133e0db215a890</update_guid>
+        <update_guid_history>cf88d5fead2aa11028133e0db215a890:0,4f505a4b6b8ea110204b69be490bf2a0:-1104717892,7240f1121612d1504516052027ca754e:-1705253027,fda503dbdd86a5d0988edfa5bb84aebd:307935102</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-04 05:00:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_multi_result">sys_decision_multi_result</sys_db_object>
+        <sys_id>3c84dfb6f5f7469e9419ed247d8eda44</sys_id>
+        <sys_metadata>b240f1121b12d1508c5143f3cc4bcb4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: ViewPoint, Payroll System: ViewPoint, Is Dayforce Employee ID: false</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sys_decision_multi_result_b240f1121b12d1508c5143f3cc4bcb4c</sys_update_name>
+        <sys_update_version display_value="sys_decision_multi_result_b240f1121b12d1508c5143f3cc4bcb4c">8388d5fe1b2aa1108db03375cc4bcb91</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 05:00:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

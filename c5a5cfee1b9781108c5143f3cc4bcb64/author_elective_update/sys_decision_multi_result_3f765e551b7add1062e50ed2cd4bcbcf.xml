@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="DELETE">
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: AX, Payroll System: Loki, Is Dayforce Employee ID: true, Company Number: 1</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3f765e551b7add1062e50ed2cd4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: AX, Payroll System: Loki, Is Dayforce Employee ID: true, Company Number: 1</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_3f765e551b7add1062e50ed2cd4bcbcf</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:06:40</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="DELETE" query="document_key=3f765e551b7add1062e50ed2cd4bcbcf"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>33765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>AX</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>7b765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Company Number">8d71fff21bde1d5062e50ed2cd4bcb47</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>b7765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>f3765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>Loki</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>cb41202bdbe5d890601a11f8489619fb</instance_id>
+        <instance_name>apigroup</instance_name>
+        <name>sys_decision_multi_result_3f765e551b7add1062e50ed2cd4bcbcf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: AX, Payroll System: Loki, Is Dayforce Employee ID: true, Company Number: 1</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3f765e551b7add1062e50ed2cd4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: AX, Payroll System: Loki, Is Dayforce Employee ID: true, Company Number: 1</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_3f765e551b7add1062e50ed2cd4bcbcf</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:06:40</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=3f765e551b7add1062e50ed2cd4bcbcf"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>33765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>AX</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>7b765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Company Number">8d71fff21bde1d5062e50ed2cd4bcb47</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>b7765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>3f765e551b7add1062e50ed2cd4bcbcf</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-26 16:56:48</sys_created_on>
+        <sys_id>f3765e551b7add1062e50ed2cd4bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-26 16:56:48</sys_updated_on>
+        <value>Loki</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+</record_update>]]></payload>
+        <payload_hash>1507192637</payload_hash>
+        <record_name>ERP: AX, Payroll System: Loki, Is Dayforce Employee ID: true, Company Number: 1</record_name>
+        <reverted_from/>
+        <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-05-05 14:12:29</sys_created_on>
+        <sys_id>a28895fe1b2aa1108db03375cc4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ec41d1670000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-05-05 14:12:29</sys_updated_on>
+        <type>Decision Table Multiple Result</type>
+        <update_guid>ee8895fe9a2aa110df1402e4ede91a6a</update_guid>
+        <update_guid_history>ee8895fe9a2aa110df1402e4ede91a6a:0,07505a4baf8ea110d7e08b283edb2883:-1917449723,3f765e55447add10e9e1a2d0759d35d1:-1917449723,29a503db9d86a5d042d366c3166abe37:-1279544398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-04 05:00:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_multi_result">sys_decision_multi_result</sys_db_object>
+        <sys_id>9c21186f15494c899dfcf0e2f38f45a9</sys_id>
+        <sys_metadata>3f765e551b7add1062e50ed2cd4bcbcf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: AX, Payroll System: Loki, Is Dayforce Employee ID: true, Company Number: 1</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sys_decision_multi_result_3f765e551b7add1062e50ed2cd4bcbcf</sys_update_name>
+        <sys_update_version display_value="sys_decision_multi_result_3f765e551b7add1062e50ed2cd4bcbcf">a28895fe1b2aa1108db03375cc4bcb6b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 05:00:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

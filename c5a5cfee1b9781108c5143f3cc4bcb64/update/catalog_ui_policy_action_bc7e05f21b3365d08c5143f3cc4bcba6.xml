@@ -11,17 +11,17 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2023-07-06 16:47:09</sys_created_on>
         <sys_id>bc7e05f21b3365d08c5143f3cc4bcba6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>approving_manager</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>supervisor</sys_name>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>catalog_ui_policy_action_bc7e05f21b3365d08c5143f3cc4bcba6</sys_update_name>
-        <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2023-07-06 16:47:09</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-13 19:47:08</sys_updated_on>
         <table/>
         <ui_policy display_value="init">cbae4c421b27e1508c5143f3cc4bcbec</ui_policy>
-        <variable>approving_manager</variable>
+        <variable>supervisor</variable>
         <variable_set/>
         <visible>false</visible>
     </catalog_ui_policy_action>

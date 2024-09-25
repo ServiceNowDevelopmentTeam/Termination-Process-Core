@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="DELETE">
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 19</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 19</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_d9e6bf3e1bde1d5062e50ed2cd4bcbc9</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-07 13:12:36</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="DELETE" query="document_key=d9e6bf3e1bde1d5062e50ed2cd4bcbc9"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>19e6bf3e1bde1d5062e50ed2cd4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>19</value>
+        <variable display_value="Company Number">8d71fff21bde1d5062e50ed2cd4bcb47</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>55e6bf3e1bde1d5062e50ed2cd4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>91e6bf3e1bde1d5062e50ed2cd4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>WebApps</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>dde6bf3e1bde1d5062e50ed2cd4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>WebApps</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</application>
+        <file_path/>
+        <instance_id>cb41202bdbe5d890601a11f8489619fb</instance_id>
+        <instance_name>apigroup</instance_name>
+        <name>sys_decision_multi_result_d9e6bf3e1bde1d5062e50ed2cd4bcbc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Company Number ERP and Payroll Lookup">e2be9b711b56155062e50ed2cd4bcbfb</decision_table>
+        <label>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 19</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 19</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_update_name>sys_decision_multi_result_d9e6bf3e1bde1d5062e50ed2cd4bcbc9</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-07 13:12:36</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=d9e6bf3e1bde1d5062e50ed2cd4bcbc9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>19e6bf3e1bde1d5062e50ed2cd4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>19</value>
+        <variable display_value="Company Number">8d71fff21bde1d5062e50ed2cd4bcb47</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>55e6bf3e1bde1d5062e50ed2cd4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Is Dayforce Employee ID">7c0f9b751b56155062e50ed2cd4bcbdf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>91e6bf3e1bde1d5062e50ed2cd4bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>WebApps</value>
+        <variable display_value="Payroll System">700f9b751b56155062e50ed2cd4bcbcf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-10-06 19:17:29</sys_created_on>
+        <sys_id>dde6bf3e1bde1d5062e50ed2cd4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-10-06 19:17:29</sys_updated_on>
+        <value>WebApps</value>
+        <variable display_value="ERP">340f9b751b56155062e50ed2cd4bcbbd</variable>
+    </sys_variable_value>
+</record_update>]]></payload>
+        <payload_hash>-252968818</payload_hash>
+        <record_name>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 19</record_name>
+        <reverted_from/>
+        <source>c5a5cfee1b9781108c5143f3cc4bcb64</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-05-05 14:12:32</sys_created_on>
+        <sys_id>9f8819fe1b2aa1108db03375cc4bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ec41dd3e0000001</sys_recorded_at>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-05-05 14:12:32</sys_updated_on>
+        <type>Decision Table Multiple Result</type>
+        <update_guid>db8819fe442aa110051a6257020dde01</update_guid>
+        <update_guid_history>db8819fe442aa110051a6257020dde01:0,2e60da4b948ea11061b79b18e65a7a05:1970942716,d9e6bf3e34de1d50aee43f731dfa6bcb:1970942716,bda503dbfc86a5d03071e6277fd7bad9:637350168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-04 05:00:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_multi_result">sys_decision_multi_result</sys_db_object>
+        <sys_id>379edd36a55d4902acd31986e993c7c4</sys_id>
+        <sys_metadata>d9e6bf3e1bde1d5062e50ed2cd4bcbc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ERP: WebApps, Payroll System: WebApps, Is Dayforce Employee ID: true, Company Number: 19</sys_name>
+        <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_scope_delete display_value="">0372b18d7bd84de982a777fdeac3a4e1</sys_scope_delete>
+        <sys_update_name>sys_decision_multi_result_d9e6bf3e1bde1d5062e50ed2cd4bcbc9</sys_update_name>
+        <sys_update_version display_value="sys_decision_multi_result_d9e6bf3e1bde1d5062e50ed2cd4bcbc9">9f8819fe1b2aa1108db03375cc4bcb01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 05:00:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
