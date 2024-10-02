@@ -246,10 +246,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-06 15:55:39</sys_created_on>
         <sys_id>35fa34601b50e11462e50ed2cd4bcbc3</sys_id>
-        <sys_mod_count>40</sys_mod_count>
+        <sys_mod_count>44</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-02-29 16:53:37</sys_updated_on>
+        <sys_updated_on>2024-09-11 18:33:24</sys_updated_on>
         <ui_id>fc3eefea-613f-479a-bdf8-cfc96d58c58d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=35fa34601b50e11462e50ed2cd4bcbc3"/>
@@ -1718,14 +1718,14 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>7f1a70ac1b10e11462e50ed2cd4bcbb8</sys_id>
         <latest_snapshot>1afa74601b50e11462e50ed2cd4bcb32</latest_snapshot>
-        <compiler_build>glide-vancouver-07-06-2023__patch6-01-11-2024_01-22-2024_2201.zip</compiler_build>
+        <compiler_build>glide-vancouver-07-06-2023__patch10-hotfix2-08-01-2024_08-12-2024_1557.zip</compiler_build>
     </sys_hub_flow>
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7f1a70ac1b10e11462e50ed2cd4bcbb8"/>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=7f1a70ac1b10e11462e50ed2cd4bcbb8^sys_idNOT INf6fab4601b50e11462e50ed2cd4bcb4a"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"f6fab4601b50e11462e50ed2cd4bcb4a","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="Termination - Get manager or delegate">7f1a70ac1b10e11462e50ed2cd4bcbb8</plan_id>
-        <snapshot>cc6a369f1be4ca5062e50ed2cd4bcba2</snapshot>
+        <snapshot>0f3f1f02fba0d210e070fff26eefdc17</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-01-06 15:55:43</sys_created_on>
         <sys_domain>global</sys_domain>

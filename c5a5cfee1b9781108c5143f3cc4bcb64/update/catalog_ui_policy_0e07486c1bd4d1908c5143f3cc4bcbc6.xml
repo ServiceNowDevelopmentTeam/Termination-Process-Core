@@ -53,6 +53,7 @@ g_form.setVisible('check_here_to_delegate_this_access_to_someone_else_in_the_org
         <sys_updated_on>2023-01-25 14:22:29</sys_updated_on>
         <table/>
         <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
         <variable_set/>
         <view/>
     </catalog_ui_policy>

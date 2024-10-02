@@ -45,6 +45,7 @@
         <sys_updated_on>2022-10-03 22:15:14</sys_updated_on>
         <table/>
         <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
         <variable_set/>
         <view/>
     </catalog_ui_policy>
