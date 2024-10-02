@@ -4,14 +4,14 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=edge,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=59876481000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=edge,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=61086024000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description/>
         <internal_name>create_termination_tasks</internal_name>
-        <label_cache>[{"name":"subflow.sec17_deprovisioning","label":"Input➛SEC17 Deprovisioning","reference":"","reference_display":"","type":"boolean","base_type":"boolean","column_name":"","choices":[],"attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"379595a5-6b23-4e0a-a8e4-6386938bcfeb"}},{"name":"ace9e213-c5e1-4bbb-a05c-e98bde3d59d9.html","label":"24 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created.number","label":"4 - Create Access Task From Variables➛Task Created➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_task","column_name":"number"},{"name":"4bb4b7b5-767a-413d-9922-abea3289b4fd.html","label":"7 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"subflow.person_leaving.u_user_principal_name","label":"Input➛Person Leaving➛User Principal Name","reference":"","reference_display":"User Principal Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"u_user_principal_name"},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number","label":"1 - Make a decision➛Result Record➛Company Number","reference":"","reference_display":"Company Number","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_company_number"},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"15 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"4 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"6dee5d7a-d103-4e3f-83d3-44599d6cd4a8.html","label":"17 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}}]</label_cache>
+        <label_cache>[{"name":"subflow.sec17_deprovisioning","label":"Input➛SEC17 Deprovisioning","reference":"","reference_display":"","type":"boolean","base_type":"boolean","column_name":"","choices":[],"attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"379595a5-6b23-4e0a-a8e4-6386938bcfeb"}},{"name":"ace9e213-c5e1-4bbb-a05c-e98bde3d59d9.html","label":"24 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created.number","label":"5 - Create Access Task From Variables➛Task Created➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_task","column_name":"number"},{"name":"4bb4b7b5-767a-413d-9922-abea3289b4fd.html","label":"8 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"subflow.person_leaving.u_user_principal_name","label":"Input➛Person Leaving➛User Principal Name","reference":"","reference_display":"User Principal Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"u_user_principal_name"},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number","label":"1 - Make a decision➛Result Record➛Company Number","reference":"","reference_display":"Company Number","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_company_number"},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"16 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"5 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"6dee5d7a-d103-4e3f-83d3-44599d6cd4a8.html","label":"18 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}}]</label_cache>
         <master_snapshot>cc52ce191bb6dd1062e50ed2cd4bcbaa</master_snapshot>
         <name>Create termination Tasks</name>
         <natlang/>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>182d399d1b76dd1062e50ed2cd4bcbf8</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Create termination Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Termination Process Core" source="c5a5cfee1b9781108c5143f3cc4bcb64">c5a5cfee1b9781108c5143f3cc4bcb64</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name>sys_hub_flow_182d399d1b76dd1062e50ed2cd4bcbf8</sys_update_name>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=182d399d1b76dd1062e50ed2cd4bcbf8"/>
@@ -290,14 +290,14 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:48:12</sys_created_on>
         <sys_id>433c80021b3651108c5143f3cc4bcbc0</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:32</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -491,16 +491,16 @@
         <comment>Unassign WebApps Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>10</order>
+        <order>11</order>
         <parent_ui_id>5ff3fa87-7f76-4b1e-a9ba-e5ca2434b58e</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 18:27:35</sys_created_on>
         <sys_id>194b66d91bfadd1062e50ed2cd4bcb49</sys_id>
-        <sys_mod_count>122</sys_mod_count>
+        <sys_mod_count>130</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-19 14:50:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:36:24</sys_updated_on>
         <ui_id>07095808-dc28-4ce4-9dfc-2ba3efa6fc4a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=194b66d91bfadd1062e50ed2cd4bcb49"/>
@@ -580,16 +580,16 @@
         <comment>Add failure work note to WebApps Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>8</order>
+        <order>9</order>
         <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:20:21</sys_created_on>
         <sys_id>7e6046551bb6dd1062e50ed2cd4bcb2b</sys_id>
-        <sys_mod_count>144</sys_mod_count>
+        <sys_mod_count>152</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-19 14:50:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:36:24</sys_updated_on>
         <ui_id>550444cf-0955-49df-8c62-0e05bc6d8826</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7e6046551bb6dd1062e50ed2cd4bcb2b"/>
@@ -669,16 +669,16 @@
         <comment>Close and work note task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>18</order>
+        <order>19</order>
         <parent_ui_id>51abff1e-c0b0-48c3-bd26-334d9d995aa3</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:46:53</sys_created_on>
         <sys_id>bbeb88ce1bf251108c5143f3cc4bcbb8</sys_id>
-        <sys_mod_count>112</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-19 14:50:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:36:24</sys_updated_on>
         <ui_id>aca3dd31-df6d-4293-8b73-04111b91c5f3</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bbeb88ce1bf251108c5143f3cc4bcbb8"/>
@@ -743,16 +743,16 @@
         <comment>Create external deprovisioning card</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>17</order>
+        <order>18</order>
         <parent_ui_id>51abff1e-c0b0-48c3-bd26-334d9d995aa3</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:46:53</sys_created_on>
         <sys_id>bfeb88ce1bf251108c5143f3cc4bcbaf</sys_id>
-        <sys_mod_count>112</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-19 14:50:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:36:24</sys_updated_on>
         <ui_id>6dee5d7a-d103-4e3f-83d3-44599d6cd4a8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bfeb88ce1bf251108c5143f3cc4bcbaf"/>
@@ -812,16 +812,16 @@
         <comment>Build failure card</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
-        <order>7</order>
+        <order>8</order>
         <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 18:24:54</sys_created_on>
         <sys_id>caaae6991bfadd1062e50ed2cd4bcbf6</sys_id>
-        <sys_mod_count>124</sys_mod_count>
+        <sys_mod_count>132</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-19 14:50:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:36:24</sys_updated_on>
         <ui_id>4bb4b7b5-767a-413d-9922-abea3289b4fd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=caaae6991bfadd1062e50ed2cd4bcbf6"/>
@@ -917,18 +917,18 @@
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
         <inputs/>
         <inputs/>
-        <order>4</order>
-        <parent_ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</parent_ui_id>
+        <order>5</order>
+        <parent_ui_id>22e8c12a-5097-4f55-b01c-cd7ecbb8c736</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:20:21</sys_created_on>
         <sys_id>3a6046551bb6dd1062e50ed2cd4bcb16</sys_id>
-        <sys_mod_count>88</sys_mod_count>
+        <sys_mod_count>94</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
         <ui_id>9f29801f-3351-4ed7-b3bb-2e45b268261c</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3a6046551bb6dd1062e50ed2cd4bcb16"/>
@@ -1154,7 +1154,7 @@
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
         <inputs/>
         <inputs/>
-        <order>15</order>
+        <order>16</order>
         <parent_ui_id>05e9d612-4098-4cfe-b04f-40d348b51386</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -1162,10 +1162,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:26:56</sys_created_on>
         <sys_id>57e1c2191bb6dd1062e50ed2cd4bcb35</sys_id>
-        <sys_mod_count>82</sys_mod_count>
+        <sys_mod_count>88</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>14bc05d1-5bf0-46f7-8a7b-37b461bd5173</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=57e1c2191bb6dd1062e50ed2cd4bcb35"/>
@@ -1391,7 +1391,7 @@
         <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
         <inputs/>
         <inputs/>
-        <order>19</order>
+        <order>20</order>
         <parent_ui_id/>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -1399,10 +1399,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 16:04:12</sys_created_on>
         <sys_id>e4add0c21bb651108c5143f3cc4bcbd6</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>680530e8-a192-4b9d-83fc-71ef224bf84a</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e4add0c21bb651108c5143f3cc4bcbd6"/>
@@ -1621,7 +1621,7 @@
         <xml_view>false</xml_view>
     </sys_hub_sub_flow_instance_inputs>
     <sys_hub_input_scripts action="delete_multiple" query="instance=e4add0c21bb651108c5143f3cc4bcbd6"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=182d399d1b76dd1062e50ed2cd4bcbf8^sys_idNOT IN17567fa3fb44d210e070fff26eefdc90,1b1856991b7add1062e50ed2cd4bcbb4,1e4314ce1b3651108c5143f3cc4bcb77,3feb88ce1bf251108c5143f3cc4bcba3,524314ce1b3651108c5143f3cc4bcb6d,585a8c0e1bf251108c5143f3cc4bcb6e,7c948c7e1ba7f590c16ddb9ebd4bcba2,964314ce1b3651108c5143f3cc4bcb28,9a2f75911bb6dd1062e50ed2cd4bcbcf,d14b66d91bfadd1062e50ed2cd4bcb42,da4314ce1b3651108c5143f3cc4bcb1d"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=182d399d1b76dd1062e50ed2cd4bcbf8^sys_idNOT IN17567fa3fb44d210e070fff26eefdc90,1b1856991b7add1062e50ed2cd4bcbb4,1e4314ce1b3651108c5143f3cc4bcb77,37bdf6303305d6509b1810919e5c7bfc,3feb88ce1bf251108c5143f3cc4bcba3,524314ce1b3651108c5143f3cc4bcb6d,585a8c0e1bf251108c5143f3cc4bcb6e,7c948c7e1ba7f590c16ddb9ebd4bcba2,964314ce1b3651108c5143f3cc4bcb28,9a2f75911bb6dd1062e50ed2cd4bcbcf,d14b66d91bfadd1062e50ed2cd4bcb42,da4314ce1b3651108c5143f3cc4bcb1d"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">1f567fa3fb44d210e070fff26eefdc8f</block>
@@ -1636,7 +1636,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>13</order>
+        <order>14</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>6b038a65-3b86-4d21-aeca-05746ded2c72</parent_ui_id>
@@ -1644,10 +1644,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2024-08-22 15:33:57</sys_created_on>
         <sys_id>17567fa3fb44d210e070fff26eefdc90</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>be3053a2-a284-49b0-8e23-fff73cfb93e3</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1685,7 +1685,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>6</order>
+        <order>7</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>24c87506-240d-467b-a3c0-3ebb12e96869</parent_ui_id>
@@ -1693,10 +1693,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 17:03:53</sys_created_on>
         <sys_id>1b1856991b7add1062e50ed2cd4bcbb4</sys_id>
-        <sys_mod_count>43</sys_mod_count>
+        <sys_mod_count>47</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1757,7 +1757,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>14</order>
+        <order>15</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>6b038a65-3b86-4d21-aeca-05746ded2c72</parent_ui_id>
@@ -1765,10 +1765,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:19:00</sys_created_on>
         <sys_id>1e4314ce1b3651108c5143f3cc4bcb77</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>05e9d612-4098-4cfe-b04f-40d348b51386</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1793,6 +1793,79 @@
     <sys_hub_input_scripts action="delete_multiple" query="instance=1e4314ce1b3651108c5143f3cc4bcb77"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
+        <block display_value="">3fbdf6303305d6509b1810919e5c7bfb</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:05</sys_created_on>
+        <sys_id>37bdf6303305d6509b1810919e5c7bfc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
+        <ui_id>22e8c12a-5097-4f55-b01c-cd7ecbb8c736</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=37bdf6303305d6509b1810919e5c7bfc"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>37bdf6303305d6509b1810919e5c7bfc</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:05</sys_created_on>
+        <sys_id>bbbdf6303305d6509b1810919e5c7bff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:05</sys_updated_on>
+        <value>this will never happen</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=37bdf6303305d6509b1810919e5c7bfc"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>37bdf6303305d6509b1810919e5c7bfc</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:05</sys_created_on>
+        <sys_id>3bbdf6303305d6509b1810919e5c7bff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:05</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{subflow.employee_type}}=NONSENSESSSSS</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>37bdf6303305d6509b1810919e5c7bfc</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:05</sys_created_on>
+        <sys_id>73bdf6303305d6509b1810919e5c7bff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:05</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=37bdf6303305d6509b1810919e5c7bfc"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=37bdf6303305d6509b1810919e5c7bfc"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">9d94cc7e1ba7f590c16ddb9ebd4bcb4a</block>
         <comment/>
         <connected_to/>
@@ -1806,7 +1879,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>16</order>
+        <order>17</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>05e9d612-4098-4cfe-b04f-40d348b51386</parent_ui_id>
@@ -1814,10 +1887,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:46:53</sys_created_on>
         <sys_id>3feb88ce1bf251108c5143f3cc4bcba3</sys_id>
-        <sys_mod_count>37</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>51abff1e-c0b0-48c3-bd26-334d9d995aa3</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1879,7 +1952,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Make a decision">578e90270b2313009002cab937673a7d</logic_definition>
-        <order>12</order>
+        <order>13</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -1887,10 +1960,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:19:00</sys_created_on>
         <sys_id>524314ce1b3651108c5143f3cc4bcb6d</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:34</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>6b038a65-3b86-4d21-aeca-05746ded2c72</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1995,18 +2068,18 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>5</order>
+        <order>6</order>
         <outputs_assigned/>
         <outputs_to_assign/>
-        <parent_ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</parent_ui_id>
+        <parent_ui_id>22e8c12a-5097-4f55-b01c-cd7ecbb8c736</parent_ui_id>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:39:49</sys_created_on>
         <sys_id>585a8c0e1bf251108c5143f3cc4bcb6e</sys_id>
-        <sys_mod_count>35</sys_mod_count>
+        <sys_mod_count>39</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>24c87506-240d-467b-a3c0-3ebb12e96869</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2075,10 +2148,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-01-08 21:19:34</sys_created_on>
         <sys_id>7c948c7e1ba7f590c16ddb9ebd4bcba2</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
         <ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2115,7 +2188,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>11</order>
+        <order>12</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>13f6cc79-f211-4442-9c1b-5e7322ef0029</parent_ui_id>
@@ -2123,10 +2196,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:19:00</sys_created_on>
         <sys_id>964314ce1b3651108c5143f3cc4bcb28</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>370436ad-ae1e-46a0-83a8-c6e327a05a63</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2172,10 +2245,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:14:52</sys_created_on>
         <sys_id>9a2f75911bb6dd1062e50ed2cd4bcbcf</sys_id>
-        <sys_mod_count>47</sys_mod_count>
+        <sys_mod_count>50</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
         <ui_id>10e79bf5-fad6-4366-9880-1bac7826226d</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2267,7 +2340,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
-        <order>9</order>
+        <order>10</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>24c87506-240d-467b-a3c0-3ebb12e96869</parent_ui_id>
@@ -2275,10 +2348,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 18:27:34</sys_created_on>
         <sys_id>d14b66d91bfadd1062e50ed2cd4bcb42</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:36</sys_updated_on>
         <ui_id>5ff3fa87-7f76-4b1e-a9ba-e5ca2434b58e</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2309,10 +2382,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:19:00</sys_created_on>
         <sys_id>da4314ce1b3651108c5143f3cc4bcb1d</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:33</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
         <ui_id>13f6cc79-f211-4442-9c1b-5e7322ef0029</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2586,7 +2659,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>create_termination_tasks</internal_name>
-        <label_cache>[{"name":"subflow.sec17_deprovisioning","label":"Input➛SEC17 Deprovisioning","reference":"","reference_display":"","type":"boolean","base_type":"boolean","column_name":"","choices":[],"attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"379595a5-6b23-4e0a-a8e4-6386938bcfeb"}},{"name":"ace9e213-c5e1-4bbb-a05c-e98bde3d59d9.html","label":"24 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created.number","label":"4 - Create Access Task From Variables➛Task Created➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_task","column_name":"number"},{"name":"4bb4b7b5-767a-413d-9922-abea3289b4fd.html","label":"7 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"subflow.person_leaving.u_user_principal_name","label":"Input➛Person Leaving➛User Principal Name","reference":"","reference_display":"User Principal Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"u_user_principal_name"},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number","label":"1 - Make a decision➛Result Record➛Company Number","reference":"","reference_display":"Company Number","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_company_number"},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"15 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"4 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"6dee5d7a-d103-4e3f-83d3-44599d6cd4a8.html","label":"17 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}}]</label_cache>
+        <label_cache>[{"name":"subflow.sec17_deprovisioning","label":"Input➛SEC17 Deprovisioning","reference":"","reference_display":"","type":"boolean","base_type":"boolean","column_name":"","choices":[],"attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"379595a5-6b23-4e0a-a8e4-6386938bcfeb"}},{"name":"ace9e213-c5e1-4bbb-a05c-e98bde3d59d9.html","label":"24 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created.number","label":"5 - Create Access Task From Variables➛Task Created➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sc_task","column_name":"number"},{"name":"4bb4b7b5-767a-413d-9922-abea3289b4fd.html","label":"8 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}},{"name":"subflow.person_leaving.u_user_principal_name","label":"Input➛Person Leaving➛User Principal Name","reference":"","reference_display":"User Principal Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"u_user_principal_name"},{"name":"10e79bf5-fad6-4366-9880-1bac7826226d.answer.u_company_number","label":"1 - Make a decision➛Result Record➛Company Number","reference":"","reference_display":"Company Number","type":"string","base_type":"string","parent_table_name":"var__m_sys_decision_multi_result_element_e2be9b711b56155062e50ed2cd4bcbfb","column_name":"u_company_number"},{"name":"14bc05d1-5bf0-46f7-8a7b-37b461bd5173.task_created","label":"16 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"subflow.employee_type","label":"Input➛Employee Type","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5ecda208-0737-4a3f-be58-c6453c566bb3","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.person_leaving","label":"Input➛Person Leaving","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"80cb741a-fe6c-4e02-b272-c329f414a7d7","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.ritm_record","label":"Input➛RITM Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"120ca46d-1880-4c65-befc-c4561c372f8d","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.company","label":"Input➛Company","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"6ab34052-1850-4785-8af6-84c0857a248b","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"9f29801f-3351-4ed7-b3bb-2e45b268261c.task_created","label":"5 - Create Access Task From Variables➛Task Created","reference":"sc_task","reference_display":"Catalog Task","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1d3cf052-46e7-49be-829e-dfdf6684fec8"}},{"name":"6dee5d7a-d103-4e3f-83d3-44599d6cd4a8.html","label":"18 - Build HTML Card➛HTML","reference_display":"HTML","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"049d15bc-c0db-4c45-8c18-e73e04b52a2c"}}]</label_cache>
         <master>true</master>
         <name>Create termination Tasks</name>
         <natlang/>
@@ -2603,7 +2676,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cc52ce191bb6dd1062e50ed2cd4bcbaa</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -2611,7 +2684,7 @@
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:32</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=cc52ce191bb6dd1062e50ed2cd4bcbaa"/>
@@ -3031,14 +3104,14 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:49:30</sys_created_on>
         <sys_id>9e8c8c021b3651108c5143f3cc4bcb53</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_update_name/>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:27</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -3064,16 +3137,16 @@
         <comment>Add failure work note to WebApps Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>8</order>
+        <order>9</order>
         <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>185202591bb6dd1062e50ed2cd4bcb03</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>62</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>550444cf-0955-49df-8c62-0e05bc6d8826</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=185202591bb6dd1062e50ed2cd4bcb03"/>
@@ -3152,16 +3225,16 @@
         <comment>Create external deprovisioning card</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>17</order>
+        <order>18</order>
         <parent_ui_id>51abff1e-c0b0-48c3-bd26-334d9d995aa3</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:49:31</sys_created_on>
         <sys_id>528c8c021b3651108c5143f3cc4bcbad</sys_id>
-        <sys_mod_count>44</sys_mod_count>
+        <sys_mod_count>48</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>6dee5d7a-d103-4e3f-83d3-44599d6cd4a8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=528c8c021b3651108c5143f3cc4bcbad"/>
@@ -3221,16 +3294,16 @@
         <comment>Unassign WebApps Task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>10</order>
+        <order>11</order>
         <parent_ui_id>5ff3fa87-7f76-4b1e-a9ba-e5ca2434b58e</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 18:27:41</sys_created_on>
         <sys_id>764be6d91bfadd1062e50ed2cd4bcbae</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>52</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>07095808-dc28-4ce4-9dfc-2ba3efa6fc4a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=764be6d91bfadd1062e50ed2cd4bcbae"/>
@@ -3310,16 +3383,16 @@
         <comment>Build failure card</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>7</order>
+        <order>8</order>
         <parent_ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 18:27:40</sys_created_on>
         <sys_id>7e4be6d91bfadd1062e50ed2cd4bcb89</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>52</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>4bb4b7b5-767a-413d-9922-abea3289b4fd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7e4be6d91bfadd1062e50ed2cd4bcb89"/>
@@ -3416,16 +3489,16 @@
         <comment>Close and work note task</comment>
         <display_text/>
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
-        <order>18</order>
+        <order>19</order>
         <parent_ui_id>51abff1e-c0b0-48c3-bd26-334d9d995aa3</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:49:31</sys_created_on>
         <sys_id>aa8c8c021b3651108c5143f3cc4bcbb4</sys_id>
-        <sys_mod_count>44</sys_mod_count>
+        <sys_mod_count>48</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>aca3dd31-df6d-4293-8b73-04111b91c5f3</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=aa8c8c021b3651108c5143f3cc4bcbb4"/>
@@ -3490,7 +3563,7 @@
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
         <inputs/>
         <inputs/>
-        <order>15</order>
+        <order>16</order>
         <parent_ui_id>05e9d612-4098-4cfe-b04f-40d348b51386</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -3498,10 +3571,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:40</sys_created_on>
         <sys_id>285202591bb6dd1062e50ed2cd4bcb46</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>62</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>14bc05d1-5bf0-46f7-8a7b-37b461bd5173</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=285202591bb6dd1062e50ed2cd4bcb46"/>
@@ -3727,18 +3800,18 @@
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
         <inputs/>
         <inputs/>
-        <order>4</order>
-        <parent_ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</parent_ui_id>
+        <order>5</order>
+        <parent_ui_id>22e8c12a-5097-4f55-b01c-cd7ecbb8c736</parent_ui_id>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
         <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:40</sys_created_on>
         <sys_id>605202591bb6dd1062e50ed2cd4bcb1e</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>62</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>9f29801f-3351-4ed7-b3bb-2e45b268261c</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=605202591bb6dd1062e50ed2cd4bcb1e"/>
@@ -3964,7 +4037,7 @@
         <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
         <inputs/>
         <inputs/>
-        <order>19</order>
+        <order>20</order>
         <parent_ui_id/>
         <subflow display_value="Create Access Task From Variables">97c4d8681b8389508c5143f3cc4bcb78</subflow>
         <subflow_instance_inputs/>
@@ -3972,10 +4045,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 16:04:25</sys_created_on>
         <sys_id>ebad18c21bb651108c5143f3cc4bcb96</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:32</sys_updated_on>
         <ui_id>680530e8-a192-4b9d-83fc-71ef224bf84a</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ebad18c21bb651108c5143f3cc4bcb96"/>
@@ -4194,7 +4267,7 @@
         <xml_view>false</xml_view>
     </sys_hub_sub_flow_instance_inputs>
     <sys_hub_input_scripts action="delete_multiple" query="instance=ebad18c21bb651108c5143f3cc4bcb96"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=cc52ce191bb6dd1062e50ed2cd4bcbaa^sys_idNOT IN20c398021b7651108c5143f3cc4bcba9,30c3d8021b7651108c5143f3cc4bcb28,3a8ccc021b3651108c5143f3cc4bcb51,5852ce191bb6dd1062e50ed2cd4bcbe1,6e8ccc021b3651108c5143f3cc4bcb28,7676f7e3fb44d210e070fff26eefdc42,a33548721be7f590c16ddb9ebd4bcbc4,c74b2ad91bfadd1062e50ed2cd4bcb0d,e0c398021b7651108c5143f3cc4bcbb2,f0c3d8021b7651108c5143f3cc4bcb31,fc28d6991b7add1062e50ed2cd4bcbd6"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=cc52ce191bb6dd1062e50ed2cd4bcbaa^sys_idNOT IN20c398021b7651108c5143f3cc4bcba9,30c3d8021b7651108c5143f3cc4bcb28,3a8ccc021b3651108c5143f3cc4bcb51,5852ce191bb6dd1062e50ed2cd4bcbe1,6e8ccc021b3651108c5143f3cc4bcb28,7676f7e3fb44d210e070fff26eefdc42,a33548721be7f590c16ddb9ebd4bcbc4,c74b2ad91bfadd1062e50ed2cd4bcb0d,e0c398021b7651108c5143f3cc4bcbb2,f0c3d8021b7651108c5143f3cc4bcb31,fc28d6991b7add1062e50ed2cd4bcbd6,fdddfe303305d6509b1810919e5c7bc9"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">b0948c7e1ba7f590c16ddb9ebd4bcb9d</block>
@@ -4218,10 +4291,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:21:04</sys_created_on>
         <sys_id>20c398021b7651108c5143f3cc4bcba9</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>13f6cc79-f211-4442-9c1b-5e7322ef0029</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4326,7 +4399,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Make a decision">578e90270b2313009002cab937673a7d</logic_definition>
-        <order>12</order>
+        <order>13</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -4334,10 +4407,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:21:05</sys_created_on>
         <sys_id>30c3d8021b7651108c5143f3cc4bcb28</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>6b038a65-3b86-4d21-aeca-05746ded2c72</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4442,7 +4515,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>16</order>
+        <order>17</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>05e9d612-4098-4cfe-b04f-40d348b51386</parent_ui_id>
@@ -4450,10 +4523,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:49:32</sys_created_on>
         <sys_id>3a8ccc021b3651108c5143f3cc4bcb51</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>51abff1e-c0b0-48c3-bd26-334d9d995aa3</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4523,10 +4596,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:39</sys_created_on>
         <sys_id>5852ce191bb6dd1062e50ed2cd4bcbe1</sys_id>
-        <sys_mod_count>31</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:30</sys_updated_on>
         <ui_id>10e79bf5-fad6-4366-9880-1bac7826226d</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4619,18 +4692,18 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>5</order>
+        <order>6</order>
         <outputs_assigned/>
         <outputs_to_assign/>
-        <parent_ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</parent_ui_id>
+        <parent_ui_id>22e8c12a-5097-4f55-b01c-cd7ecbb8c736</parent_ui_id>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 14:49:32</sys_created_on>
         <sys_id>6e8ccc021b3651108c5143f3cc4bcb28</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>24c87506-240d-467b-a3c0-3ebb12e96869</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4691,7 +4764,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>13</order>
+        <order>14</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>6b038a65-3b86-4d21-aeca-05746ded2c72</parent_ui_id>
@@ -4699,10 +4772,10 @@
         <sys_created_by>John.Schwab</sys_created_by>
         <sys_created_on>2024-08-22 15:34:27</sys_created_on>
         <sys_id>7676f7e3fb44d210e070fff26eefdc42</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>be3053a2-a284-49b0-8e23-fff73cfb93e3</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4747,10 +4820,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2024-01-08 21:22:29</sys_created_on>
         <sys_id>a33548721be7f590c16ddb9ebd4bcbc4</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4787,7 +4860,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
-        <order>9</order>
+        <order>10</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>24c87506-240d-467b-a3c0-3ebb12e96869</parent_ui_id>
@@ -4795,10 +4868,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 18:27:41</sys_created_on>
         <sys_id>c74b2ad91bfadd1062e50ed2cd4bcb0d</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>5ff3fa87-7f76-4b1e-a9ba-e5ca2434b58e</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4820,7 +4893,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>11</order>
+        <order>12</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>13f6cc79-f211-4442-9c1b-5e7322ef0029</parent_ui_id>
@@ -4828,10 +4901,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:21:04</sys_created_on>
         <sys_id>e0c398021b7651108c5143f3cc4bcbb2</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>370436ad-ae1e-46a0-83a8-c6e327a05a63</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4868,7 +4941,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>14</order>
+        <order>15</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>6b038a65-3b86-4d21-aeca-05746ded2c72</parent_ui_id>
@@ -4876,10 +4949,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-28 15:21:05</sys_created_on>
         <sys_id>f0c3d8021b7651108c5143f3cc4bcb31</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:29</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>05e9d612-4098-4cfe-b04f-40d348b51386</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4917,7 +4990,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>6</order>
+        <order>7</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>24c87506-240d-467b-a3c0-3ebb12e96869</parent_ui_id>
@@ -4925,10 +4998,10 @@
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 17:03:59</sys_created_on>
         <sys_id>fc28d6991b7add1062e50ed2cd4bcbd6</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:28</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
         <ui_id>4b18ccec-1716-4c6c-bf20-74c3a88435ce</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -4975,6 +5048,79 @@
     </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=fc28d6991b7add1062e50ed2cd4bcbd6"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=fc28d6991b7add1062e50ed2cd4bcbd6"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">3fbdf6303305d6509b1810919e5c7bfb</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Create termination Tasks">cc52ce191bb6dd1062e50ed2cd4bcbaa</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>c03a7cae-7640-4686-90e5-e4b30c5b5a36</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:29</sys_created_on>
+        <sys_id>fdddfe303305d6509b1810919e5c7bc9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Termination Process Core">c5a5cfee1b9781108c5143f3cc4bcb64</sys_scope>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:31</sys_updated_on>
+        <ui_id>22e8c12a-5097-4f55-b01c-cd7ecbb8c736</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=fdddfe303305d6509b1810919e5c7bc9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>fdddfe303305d6509b1810919e5c7bc9</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:29</sys_created_on>
+        <sys_id>b1ddfe303305d6509b1810919e5c7bcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:29</sys_updated_on>
+        <value>this will never happen</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=fdddfe303305d6509b1810919e5c7bc9"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>fdddfe303305d6509b1810919e5c7bc9</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:29</sys_created_on>
+        <sys_id>31ddfe303305d6509b1810919e5c7bcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:29</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{subflow.employee_type}}=NONSENSESSSSS</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>fdddfe303305d6509b1810919e5c7bc9</id>
+        <sys_created_by>John.Schwab</sys_created_by>
+        <sys_created_on>2024-10-02 15:26:29</sys_created_on>
+        <sys_id>7dddfe303305d6509b1810919e5c7bcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>John.Schwab</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:26:29</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=fdddfe303305d6509b1810919e5c7bc9"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=fdddfe303305d6509b1810919e5c7bc9"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=cc52ce191bb6dd1062e50ed2cd4bcbaa^sys_idNOT IN674b2ad91bfadd1062e50ed2cd4bcbf2,a34b2ad91bfadd1062e50ed2cd4bcbf2,ef4b2ad91bfadd1062e50ed2cd4bcbf1"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>cc52ce191bb6dd1062e50ed2cd4bcbaa</attached_to>
@@ -5157,16 +5303,16 @@
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"bc5202591bb6dd1062e50ed2cd4bcbc5","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="Create termination Tasks">182d399d1b76dd1062e50ed2cd4bcbf8</plan_id>
-        <snapshot>64f8fba0fbb01610e070fff26eefdc5b</snapshot>
+        <snapshot>2a1083b43305d6509b1810919e5c7b4d</snapshot>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2022-10-26 15:28:41</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bc5202591bb6dd1062e50ed2cd4bcbc5</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>John.Schwab</sys_updated_by>
-        <sys_updated_on>2024-09-18 15:27:32</sys_updated_on>
+        <sys_updated_on>2024-10-02 15:26:35</sys_updated_on>
     </sys_flow_subflow_plan>
 </record_update>
